@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2017 &mdash; Arbitrarily Primed PCR for Comparison of Meta Genomes and Extracting Useful Loci from Them</title>
+<style>
+body { font-family: Georgia, 'Times New Roman', serif; max-width: 800px; margin: 40px auto; padding: 0 20px; line-height: 1.7; color: #2c2c2c; }
+h1 { font-size: 1.6em; color: #1a3a5c; border-bottom: 2px solid #1a3a5c; padding-bottom: 10px; }
+h2 { font-size: 1.2em; color: #2c5282; margin-top: 30px; }
+.meta-box { background: #eef3f8; border-radius: 8px; padding: 15px 20px; margin: 20px 0; }
+.meta-box p { margin: 5px 0; }
+.influence-box { background: #f0f7ee; border-left: 4px solid #4a8c3f; border-radius: 0 8px 8px 0; padding: 15px 20px; margin: 20px 0; }
+.connections-box { background: #fdf6ee; border-left: 4px solid #c48a2a; border-radius: 0 8px 8px 0; padding: 15px 20px; margin: 20px 0; }
+.tag { display: inline-block; background: #e8e8e8; color: #555; padding: 2px 10px; border-radius: 12px; font-size: 0.85em; margin: 2px 4px; }.back-link { display: inline-block; margin-bottom: 20px; color: #2c5282; text-decoration: none; }
+.back-link:hover { text-decoration: underline; }
+mark { background-color: #fff3cd; padding: 1px 4px; border-radius: 3px; }
+</style>
+</head>
+<body>
+
+<a href="../index.html" class="back-link">&larr; Back to Career Arc</a>
+
+<h1>Arbitrarily Primed PCR for Comparison of Meta Genomes and Extracting Useful Loci from Them</h1>
+
+<div class="meta-box">
+<p><strong>Authors:</strong> <mark>Leigh Burgoyne</mark>, Lin Y. Koh, David Catcheside</p>
+<p><strong>Journal:</strong> <em>Methods in Molecular Biology</em>, Vol. 1620 (Chapter 18), pp. 267&ndash;280</p>
+<p><strong>Year:</strong> 2017</p>
+<p><strong>DOI:</strong> <a href="https://doi.org/10.1007/978-1-4939-7060-5_18">10.1007/978-1-4939-7060-5_18</a></p>
+<p><strong>Citations:</strong> ~5 (OpenAlex)</p>
+<p>
+<span class="tag">Metagenome Analysis</span>
+<span class="tag">Forensic DNA</span>
+<span class="tag">Soil Metagenomics</span>
+<span class="tag">Arbitrarily Primed PCR</span>
+<span class="tag">50mer Sequence Tags</span>
+<span class="tag">Primer Design</span>
+<span class="tag">Methods Chapter</span>
+<span class="tag">Rubrobacter radiotolerans</span>
+</p>
+</div>
+
+
+<h2>Context &amp; Background</h2>
+<p>By 2017, <mark>Burgoyne&rsquo;s</mark> soil metagenomics programme had progressed through a decade of development: from the original SMIPS arbitrary primer patent (2004), through microarray-based sequence content profiling (Waters et al. 2012), to high throughput sequencing validation (Khodakova et al. 2013, 2014), and the 50mer condensation concept introduced at the ISFG Congress (Burgoyne, Koh &amp; Catcheside 2015). This chapter in the prestigious <em>Methods in Molecular Biology</em> series &mdash; part of the volume <em>PCR: Methods and Protocols</em> edited by Luc&iacute;lia Domingues &mdash; represents the definitive, peer-reviewed methods publication codifying the entire workflow. As corresponding and first author, <mark>Burgoyne</mark> retained direct intellectual ownership of the programme. This methods chapter codified the arbitrarily primed PCR workflow for the forensic soil programme.</p>
+
+<h2>Key Findings</h2>
+<ul>
+<li><strong>Complete AP-PCR protocol:</strong> A single 18mer primer (&ldquo;antiseq05&rdquo;: GGAGGTGGTGTTCGAGGG) is used with two low-stringency acquisition cycles followed by 35 high-stringency cycles, exploiting inherent PCR amplification bias to generate a reproducible, self-selected subset of sequences from any metagenome.</li>
+<li><strong>50mer sequence tag extraction:</strong> Discriminating 50mer oligonucleotides are computationally mined from amplicon reads using a sum-of-squares deviation (SSQD) filter on dinucleotide frequencies, selecting only those approximating random sequence composition. Each read contributes at most one 50mer, avoiding bias toward long amplimers.</li>
+<li><strong>Scattergram-based comparison:</strong> Pairwise metagenome comparisons are visualised as 2D scattergrams of 50mer frequencies. Unrelated soils share no 50mers (all points on axes); related soils show off-axis shared points. As few as 3,000 reads of ~250 bases can suffice for discrimination.</li>
+<li><strong>Sequence-coding multiplexing:</strong> Eight 26mer tagged primers are provided for multiplexed massively parallel sequencing of multiple samples in a single run, with built-in tolerance for terminal base loss.</li>
+<li><strong>Locus-specific primer extraction:</strong> Demonstrated extraction of a targeted primer pair (SDNf1/SDNr1) from a high-frequency 50mer in suburban soil, yielding a 262 bp product with 77% homology to <em>Rubrobacter radiotolerans</em> (a Portuguese hot spring extremophile). Testing on 15 South Australian soils showed presence in 8, all from semi-arid or unwatered locations &mdash; illustrating the pathway from metagenome profiling to region-specific diagnostic markers.</li>
+<li><strong>Compact data architecture:</strong> The entire method produces small, spreadsheet-manageable datasets suitable for building in-house forensic databases, in contrast to the terabyte-scale outputs of conventional shotgun metagenomics.</li>
+</ul>
+
+<h2>Significance &amp; Contribution</h2>
+<div class="influence-box">
+<p>This chapter represents the definitive methodological codification of <mark>Burgoyne&rsquo;s</mark> arbitrarily primed PCR metagenome comparison system &mdash; the culmination of a research programme stretching from the 2004 SMIPS patent through a decade of iterative development. Published in <em>Methods in Molecular Biology</em>, the leading protocols series in molecular biology, it provides the first complete, step-by-step, reproducible description of the workflow from soil collection through DNA extraction, two-round PCR amplification, massively parallel sequencing, computational 50mer extraction, and scattergram-based comparison. The chapter goes beyond the 2015 conference paper by adding multiplexing primers, detailed data processing algorithms, and the <em>Rubrobacter</em> locus-specific primer extraction example &mdash; demonstrating the full analytical pipeline from environmental sample to actionable forensic marker. This chapter stands as the definitive methodological reference for a programme that began with yeast enzyme crystallography in 1966, encompassed the co-discovery of chromatin substructure in 1973, and the invention of FTA paper technology in the 1990s, before branching into forensic soil metagenomics and, most recently, the 2025 macrofungi DNA extraction work with Catcheside.</p>
+</div>
+
+<h2>Knowledge Built Upon</h2>
+<div class="connections-box">
+<ul>
+<li>Waters, Eariss, Yeadon, Kirkbride, <mark>Burgoyne</mark> &amp; Catcheside (2012, <em>Electrophoresis</em>) &mdash; demonstrated that arbitrary single-primer amplification yields reproducible, discriminatory sequence content profiles</li>
+<li>Khodakova, <mark>Burgoyne</mark>, Abarno &amp; Linacre (2013, <em>FSI: Genetics Suppl.</em>) &mdash; proof-of-concept for HTS readout of AP-PCR soil metagenomes</li>
+<li>Khodakova, Smith, <mark>Burgoyne</mark>, Abarno &amp; Linacre (2014, <em>PLoS ONE</em>) &mdash; head-to-head validation showing AP-PCR outperforms shotgun and WGA for forensic soil discrimination</li>
+<li><mark>Burgoyne</mark>, Koh &amp; Catcheside (2015, <em>FSI: Genetics Suppl.</em>) &mdash; introduced the 50mer condensation concept and scattergram visualisation</li>
+<li><mark>Burgoyne</mark> 2004 SMIPS patent (US 2004/0175715 A1) &mdash; original invention of single arbitrary primer soil profiling</li>
+</ul>
+</div>
+
+<h2>What It Contributed To</h2>
+<div class="connections-box">
+<ul>
+<li>Provides the definitive, citable methods reference for any laboratory seeking to implement AP-PCR metagenome comparison</li>
+<li>Established a complete pipeline from soil collection to forensic marker design, closing the gap between research demonstration and operational forensic use</li>
+<li>Introduced multiplexing primers enabling cost-effective parallel processing of multiple soil samples</li>
+<li>Demonstrated extraction of locus-specific diagnostic primers from metagenome data, exemplified by the <em>Rubrobacter</em>-related arid soil marker</li>
+<li>Created a framework for building regional forensic soil databases with modest computing and storage requirements</li>
+</ul>
+</div>
+
+<h2>Key Collaborators</h2>
+<p><strong>Lin Y. Koh</strong> &mdash; Flinders University, School of Biological Sciences. Research assistant or graduate student; co-author on the 2015 conference paper and this definitive methods chapter.</p>
+<p><strong>David Catcheside</strong> &mdash; Flinders University, School of Biological Sciences. Long-standing collaborator and <em>Neurospora</em> geneticist whose association with <mark>Burgoyne</mark> stretches back to shared intellectual roots in the Giles lab tradition. Co-author on the 2015 conference paper, this methods chapter, and the 2025 macrofungi paper.</p>
+
+<a class="back-link" href="../index.html" style="display:inline-block;margin-top:30px;">&larr; Back to Career Arc</a>
+
+</body>
+</html>

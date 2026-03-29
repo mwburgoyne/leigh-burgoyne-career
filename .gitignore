@@ -1,0 +1,9 @@
+# Source PDFs (kept in local full version only)
+burgoyne_papers/
+reference_papers/
+
+# Internal tracking
+tasks.txt
+SESSION_STATUS.md
+career_arc_notes.md
+Leigh_Burgoyne_Publications_DOI_List.docx
