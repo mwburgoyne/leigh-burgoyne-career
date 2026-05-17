@@ -1,0 +1,73 @@
+id: 2004_smith_burgoyne_wildlife_FTA_databasing
+title: Collecting, Archiving and Processing DNA from Wildlife Samples Using FTA® Databasing Paper
+page_title: 2004 — Collecting, Archiving and Processing DNA from Wildlife Samples Using FTA Databasing Paper
+authors:
+- L. M. Smith
+- L. A. Burgoyne
+authors_affiliation: null
+venue: BMC Ecology, 4:4
+paper_number: null
+doi: 10.1186/1472-6785-4-4
+funding: null
+citations: 275
+citations_source: Semantic Scholar (DOI)
+tags:
+- FTA Paper
+- DNA Purification
+- Wildlife Biology
+- Sample Archiving
+- Nucleated Erythrocytes
+- PCR
+- Field Collection
+- Conservation Genetics
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '2004'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2004 - Collecting, archiving and processing DNA from wildlife samples using FTA® databasing paper.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By the early 2000s, DNA analysis had become indispensable across wildlife research — from systematics to pathogen detection to population genetics. Yet a persistent practical bottleneck remained: getting biological samples safely from the field to the laboratory. Fresh or “wet” samples required refrigeration, risked leakage, and degraded with temperature fluctuation. FTA® databasing paper, a reagent-impregnated filter paper originally developed for human forensic use, offered a compelling solution — but its application to the enormous diversity of wildlife sample types had not been systematically explored. This paper, with <mark>Burgoyne</mark> as co-author and study designer, extended FTA® technology from the forensic domain into wildlife biology and conservation genetics, addressing challenges unique to non-human species such as nucleated erythrocytes, tissue samples from roadkill, and degraded field specimens.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Broad taxonomic coverage:</strong> FTA® paper successfully preserved and yielded amplifiable DNA from birds (chickens, pelicans, crested pigeons, mallee fowl), reptiles (sleepy lizards), fish (King George Whiting, tuna), mammals (cows, dogs, horses, cats, mice, humans), amphibians (frogs), and invertebrates (yabbies, abalone, blue swimmer crabs).</li>
+    <li><strong>Heat-elution for nucleated erythrocytes:</strong> Blood from species with nucleated erythrocytes (birds, reptiles, fish) contained far too much DNA for direct PCR on paper discs; a heat-elution method (90°C in water for 10 minutes) using only 1 µl of the eluate overcame the DNA overload problem.</li>
+    <li><strong>Four processing methods compared:</strong> SDS wash, NaOH wash, phenol wash, and a new method (#4) involving Tris/SDS deproteinisation followed by guanidine thiocyanate — each suited to different sample types and downstream applications.</li>
+    <li><strong>Long-term stability demonstrated:</strong> DNA remained amplifiable on FTA® paper after storage of up to 44 months in ordinary filing cabinets under variable temperature conditions (18–42°C).</li>
+    <li><strong>Degraded samples recoverable:</strong> Even moderately degraded samples (blood cells dried at room temperature for days before loading) could yield PCR products when the deproteinisation wash was omitted, as residual protein helped retain fragmented DNA.</li>
+    <li><strong>Restriction digestion and elution:</strong> RFLP analysis and cloning from FTA® discs demonstrated, broadening downstream applications beyond direct PCR.</li>
+    <li><strong>Practical sex identification:</strong> Sex identification of 24 pelicans using CHD gene amplification from FTA®-processed DNA completed in under 8 hours from start to finish.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>With ~272 citations, this paper became a landmark methodology reference that bridged <mark>Burgoyne’s</mark> forensic FTA® technology with wildlife biology and conservation genetics. By systematically demonstrating that FTA® paper could handle the unique challenges of wildlife samples — nucleated red blood cells, tissue fragments, degraded field specimens, invertebrate samples — the paper opened the door for ecologists and field biologists worldwide to adopt a storage and transport system dramatically simpler, cheaper, and more reliable than traditional cold-chain methods. The protocols became standard references for researchers collecting DNA from non-model organisms in remote field conditions, validating <mark>Burgoyne’s</mark> vision that paper-based DNA databasing could become a universal biological archiving platform.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><mark>Burgoyne’s</mark> foundational FTA® paper technology for forensic DNA storage and databasing</li>
+    <li>Smith &amp; <mark>Burgoyne</mark> (2001): ILRC marker system for species identification using single-primer PCR (Gene 271, 273–283)</li>
+    <li>Rogers &amp; <mark>Burgoyne</mark> (1997): Bacterial typing on FTA® paper without DNA extraction</li>
+    <li>Seah &amp; <mark>Burgoyne</mark> (2000): DNA databasing on FTA® paper and photosensitizer damage assessment</li>
+    <li>Griffiths et al. (1998): CHD gene sex-typing assay for birds</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Widespread adoption of FTA® paper in wildlife ecology, conservation biology, and veterinary field research</li>
+    <li>Standardised field-collection protocols for large-scale population genetics studies of non-model organisms</li>
+    <li>Expansion of paper-based DNA archiving into plant biology and RNA preservation</li>
+    <li>Global movement toward simplified, ambient-temperature biobanking for biodiversity monitoring and wildlife forensics</li>
+    <li>Burgoyne et al. (2025, <em>J. Fungi</em>) — field collection of macrofungi DNA, extending the ambient-temperature field preservation concepts</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>L. M. Smith (Lisa)</strong> — University of Western Australia; first author who performed all processing and molecular biology. Key collaborator with <mark>Burgoyne</mark> on ILRC markers and FTA® wildlife applications.</p>

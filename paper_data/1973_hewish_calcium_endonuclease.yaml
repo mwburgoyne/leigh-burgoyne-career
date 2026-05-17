@@ -1,0 +1,76 @@
+id: 1973_hewish_calcium_endonuclease
+title: |-
+  The Calcium Dependent Endonuclease Activity of Isolated Nuclear Preparations. Relationships Between Its Occurrence and the Occurrence of Other Classes of Enzymes Found in Nuclear Preparations
+page_title: Hewish & Burgoyne (1973) — Calcium Dependent Endonuclease of Isolated Nuclear Preparations
+authors:
+- D. R. Hewish
+- L. A. Burgoyne
+authors_affiliation: null
+venue: Biochemical and Biophysical Research Communications, 52(2), 475–481
+paper_number: null
+doi: 10.1016/0006-291X(73)90736-5
+funding: null
+citations: 126
+citations_source: OpenAlex (DOI)
+tags:
+- Ca-Mg Endonuclease
+- Enzyme Characterisation
+- Liver Regeneration
+- Nuclear Enzymes
+- Mg Endonuclease
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1973'
+- label: Received
+  value_html: 28 March 1973
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1973 - The calcium dependent endonuclease activity of isolated nuclear preparations. Relationships between its occurrence and the occurrence of other classes of enzymes found in nuclear preparation.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This is the companion paper to the landmark chromatin substructure paper (Hewish &amp; Burgoyne, 1973, pp. 504–510), submitted on the same day (28 March 1973) and published in the same issue of BBRC. While the chromatin paper demonstrated <em>what</em> the Ca-Mg endonuclease reveals about chromatin structure, this paper characterises the enzyme itself: its divalent cation requirements, molecular weight, tissue distribution, behaviour during liver regeneration, and its distinction from a separate Mg-dependent endonuclease found in different nuclear preparations. This paper was referenced as "in preparation" (ref. 7) in the chromatin substructure paper.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Absolute requirement for both Ca<sup>2+</sup> and Mg<sup>2+</sup>:</strong> The nuclear endonuclease required both calcium and magnesium ions for activity. Neither ion alone produced significant activity. This distinguished it from the bulk of cellular nucleases (in cytoplasm and light-particulate fractions), which were primarily Mg-activated.</li>
+    <li><strong>Nuclear localisation confirmed:</strong> When cells were fractionated into crude nuclear, light-particulate, and soluble fractions (in presence of EDTA/EGTA), calcium-dependent endonuclease was reliably detected only in the nuclear fraction.</li>
+    <li><strong>Molecular weight ~40,000 (with Mg) or ~20,000 (without):</strong> Sephadex G200 chromatography showed the enzyme eluted as a single peak of MW ~40,000 in the presence of Mg<sup>2+</sup>. Without Mg<sup>2+</sup> (plus EDTA), the apparent MW halved to ~20,000 and the enzyme lost much of its calcium dependence — suggesting a Mg-dependent dimer.</li>
+    <li><strong>Activates DNA toward polymerase action:</strong> Crude extracts containing Ca-Mg endonuclease activity could activate calf thymus DNA for the high-MW ascites DNA polymerase — confirming the connection to the Ca<sup>2+</sup>-dependent "priming" of DNA synthesis observed in the 1970 papers.</li>
+    <li><strong>Increases ~6-fold during late liver regeneration:</strong> In regenerating rat liver, nuclear Ca-Mg endonuclease decreased slightly until ~24 hours post-hepatectomy, then rose to approximately 6 times resting activity by 72 hours. The rise occurred <em>after</em> maximal DNA synthesis, with no obvious correlation to replication timing. Cytoplasmic endonuclease activity was unchanged.</li>
+    <li><strong>Broad tissue distribution:</strong> Ca-Mg endonuclease detected in nuclei from mouse liver, normal and regenerating rat liver, rat thymus, rabbit thymus, and calf thymus. Absent from rabbit bone marrow preparations.</li>
+    <li><strong>Distinct Mg-only endonuclease in buffer D nuclei:</strong> Nuclei isolated in buffer D (containing glycine/HEPES instead of polyamines) contained ~7x more total endonuclease than buffer A nuclei, but this activity required only Mg<sup>2+</sup> (Ca<sup>2+</sup> stimulatory but not essential). Critically, this Mg endonuclease was virtually inactive on nuclear DNA <em>in situ</em>, unlike the Ca-Mg enzyme which attacked chromatin DNA readily.</li>
+    <li><strong>Ionic environment controls nuclear enzyme complement:</strong> Changing from buffer D to buffer A during isolation caused nuclei to exchange one set of bound enzymes for another — both nucleases and polymerases. The authors speculated this may relate to ionic changes occurring <em>in vivo</em> during the cell cycle.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper established the biochemical identity and properties of the Ca-Mg endonuclease — the enzyme that, in the companion paper, was shown to reveal chromatin substructure. The demonstration that it requires both Ca<sup>2+</sup> and Mg<sup>2+</sup>, has a MW of ~40,000 (possibly a dimer), and is specifically nuclear-associated, provided the enzymatic foundation for the structural discovery. The observation that ionic environment controls which enzymes associate with nuclei was an important insight about the dynamic nature of nuclear protein interactions.</p>
+    <p><strong>Career significance:</strong> Together with the chromatin substructure paper, this forms a matched pair submitted simultaneously. The endonuclease paper provides the enzymological underpinning while the chromatin paper provides the structural revelation. The fact that the Ca-Mg endonuclease rises <em>after</em> DNA synthesis peaks (not during it) was an honest result that complicated any simple model of the enzyme's role in replication — but it was this very enzyme that proved to be the key to discovering chromatin substructure.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970a,b): Discovery of Ca<sup>2+</sup>-dependent DNA synthesis activation in nuclei</li>
+    <li>Wallace, Hewish, Venning &amp; Burgoyne (1971): Nuclear DNA polymerase characterisation; buffer D vs buffer A enzyme differences</li>
+    <li>Waqar, Burgoyne &amp; Atkinson (1971): Biochem. J. — deoxyribonucleotide incorporation system</li>
+    <li>O'Connor (1969, 1971): Nuclear endonuclease activity during liver regeneration</li>
+    <li>Parisi &amp; de Petrocellis (1972): Similar enzyme in sea-urchin eggs</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li><a href="1973_hewish_chromatin_substructure.html">Hewish &amp; Burgoyne (1973)</a>: Companion chromatin substructure paper — this enzyme is the probe</li>
+    <li>Understanding of nuclear enzyme dynamics and ionic environment effects</li>
+    <li>Later characterisation of the Ca-Mg endonuclease in chromatin context (1975 paper on A-sites)</li>
+    <li>Foundation for apoptotic endonuclease research (Ca-Mg endonuclease later linked to programmed cell death)</li>
+    <li>Burgoyne’s Phase 3 dinucleosome and higher-order chromatin structure studies (1981–1987), which used endonuclease digestion to investigate chromatin folding</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>D. R. Hewish</strong> — First author, Flinders University. Hewish performed the enzymatic characterisation work. Funded by Australian Research Grants Committee and University of Adelaide Anti-Cancer Foundation.</p>

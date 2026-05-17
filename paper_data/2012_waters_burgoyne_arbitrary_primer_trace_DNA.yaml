@@ -1,0 +1,82 @@
+id: 2012_waters_burgoyne_arbitrary_primer_trace_DNA
+title: |-
+  Arbitrary Single Primer Amplification of Trace DNA Substrates Yields Sequence Content Profiles That Are Discriminatory and Reproducible
+page_title: 2012 — Arbitrary Single Primer Amplification of Trace DNA Substrates
+authors:
+- James M. Waters
+- Graham Eariss
+- P. Jane Yeadon
+- K. Paul Kirkbride
+- Leigh A. Burgoyne
+- David E.A. Catcheside
+authors_affiliation: null
+venue: <em>Electrophoresis</em>, Vol. 33, pp. 492–498
+paper_number: null
+doi: 10.1002/elps.201100359
+funding: null
+citations: 6
+citations_source: OpenAlex (DOI)
+tags:
+- Arbitrary Primer PCR
+- Trace DNA
+- Metagenomics
+- Forensic Soil Profiling
+- Drug Seizures
+- Microarrays
+- Sequence-Based Profiling
+- In Vitro Selection
+- Next-Generation Sequencing
+burgoyne_index: 4
+extra_meta:
+- label: Year
+  value_html: '2012'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/2012 - Arbitrary single primer amplification of trace DNA substrates yields sequence content profiles that are discriminatory and reproducible.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>Forensic comparison of soil, detritus, and trace material from crime scenes has long relied on physical methods — particle density, colour, mineral deposits, FTIR spectroscopy, and pollen assemblages. While DNA-based approaches promised greater discrimination, existing molecular methods were constrained: locus-specific primers could only access a subset of bacteria that matched conserved primer sites, while arbitrary-primer techniques like RAPD and AP-PCR were widely regarded as unreliable because their length-based profiles varied with reaction conditions. This paper, the culmination of over a decade of investigation at Flinders University dating back to James Waters’s 2004 PhD thesis, presented a fundamental rethinking of the problem. Rather than trying to make arbitrary amplification produce reproducible banding patterns, <mark>Burgoyne’s</mark> group asked: what if you abandon length polymorphism altogether and instead assess the <em>sequence content</em> of the amplicons?</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Sequence-level profiles are reproducible:</strong> Although banding patterns from arbitrary single-primer PCR differed between replicates, Southern hybridisation and microarray analysis demonstrated that the <em>sequence composition</em> was highly reproducible between independent amplifications from the same source.</li>
+    <li><strong>Profiles stabilise after two generations:</strong> Cross-hybridisation experiments showed that after two rounds of 35-cycle amplification, profiles became functionally stable — a third round produced essentially the same sequence content.</li>
+    <li><strong>In vitro selection explains reliability:</strong> The large number of PCR cycles acts as an in vitro selection process. Product–product renaturation during annealing counterbalances runaway selection, favouring primer loading of less common sequences and producing a stable equilibrium.</li>
+    <li><strong>Discriminates closely spaced soils:</strong> Urban reserve soils collected from sites only a few kilometres apart in South Australia were reliably distinguished by their sequence profiles.</li>
+    <li><strong>Drug seizure profiling:</strong> Methamphetamine samples from the same seizure produced highly correlated microarray signals, while profiles from unrelated seizures showed random scatter.</li>
+    <li><strong>Diverse amplified sequences:</strong> Of 456 readable cloned sequences, 268 were distinct. Identifiable sequences included human DNA, <em>Propionibacterium acnes</em>, <em>Staphylococcus aureus</em>, <em>Shigella</em>, <em>Salmonella</em>, and soil microbes.</li>
+    <li><strong>Selection dominates over priming-site homology:</strong> Sequence-intrinsic amplification efficiency, possibly mediated by transient secondary structures, is the primary determinant of profile composition.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This paper is the peer-reviewed crystallisation of a line of research that <mark>Burgoyne</mark> and his group had pursued for over a decade, transforming what the field had dismissed as an inherently unreliable technique — arbitrary primer PCR — into a rigorous forensic profiling tool by the profound insight of shifting analysis from fragment length to sequence content. The mechanistic explanation involving in vitro selection and product–product renaturation equilibrium gave the method a theoretical foundation that RAPD and AP-PCR had always lacked. The paper also proved remarkably prescient, explicitly predicting that next-generation sequencing would replace microarray readout — a vision that has largely come to pass in forensic metagenomics.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Waters, J.M., PhD Thesis (2004), Flinders University — the foundational decade-long investigation</li>
+    <li><mark>Burgoyne</mark>, Catcheside &amp; Kirkbride, “The Bioprofiling of Illicit Drugs” (NDLERF Monograph 30, 2008)</li>
+    <li>Welsh &amp; McClelland (1990) and Williams et al. (1990) — the original AP-PCR and RAPD methods</li>
+    <li>Robertson, Ross &amp; <mark>Burgoyne</mark> (eds.), <em>DNA in Forensic Science</em> (1990)</li>
+    <li><mark>Burgoyne</mark> SMIPS/ATNA single-primer amplification technology (US 2004/0175715 A1)</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Established the theoretical basis (in vitro selection equilibrium) for reproducible arbitrary-primer PCR profiles</li>
+    <li>Demonstrated forensic soil discrimination at the kilometre scale using sequence-based metagenome profiling</li>
+    <li>Validated DNA-based linking of drug seizures in the peer-reviewed literature</li>
+    <li>Anticipated and laid groundwork for next-generation sequencing approaches to forensic metagenomics</li>
+    <li>Proposed a practical system of ~10,000 oligonucleotide arrays for standardised forensic soil comparison</li>
+    <li>Khodakova, Burgoyne et al. (2013, 2014, 2015) — HTS validation of arbitrary primer soil profiling</li>
+    <li>Burgoyne, Koh &amp; Catcheside (2015, 2017) — 50mer condensation approach and definitive methods chapter</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>James M. Waters</strong> — Flinders University and Forensic Science South Australia. First author; culmination of his 2004 PhD thesis research.</p><p><strong>Graham Eariss</strong> — Flinders University, School of Biological Sciences.</p><p><strong>P. Jane Yeadon</strong> — Flinders University, School of Biological Sciences.</p><p><strong>K. Paul Kirkbride</strong> — Australian Federal Police. Long-standing forensic DNA collaborator with <mark>Burgoyne</mark>.</p><p><strong>David E.A. Catcheside</strong> — Flinders University. <mark>Burgoyne’s</mark> long-term Flinders colleague.</p>

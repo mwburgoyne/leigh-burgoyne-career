@@ -1,0 +1,67 @@
+id: 1969_case_complementation_DHQ_synthetase
+title: |-
+  In Vivo and In Vitro Complementation between DHQ Synthetase Mutants in the <em>arom</em> Gene Cluster of <em>Neurospora crassa</em>
+page_title: Case, Burgoyne & Giles (1969) — Complementation between DHQ Synthetase Mutants
+authors:
+- Mary E. Case
+- Leigh Burgoyne
+- Norman H. Giles
+authors_affiliation: null
+venue: Genetics, 63, 581–588
+paper_number: null
+doi: 10.1093/genetics/63.3.581
+funding: null
+citations: 12
+citations_source: Crossref (title+author)
+tags:
+- Neurospora Genetics
+- Allelic Complementation
+- Multienzyme Complex
+- Gene Clusters
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1969'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1969 - IN VIVO and IN VITRO Complementation between Dhq Synthetase Mutants in the AROM Gene Cluster of NEUROSPORA CRASSA.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper comes from Burgoyne's postdoctoral work at Yale University in the laboratory of Norman H. Giles, one of the leading Neurospora geneticists of the era. The <em>arom</em> gene cluster in <em>N. crassa</em> encodes a remarkable multienzyme aggregate of five aromatic biosynthetic enzymes (steps 2–6 in the pre-chorismic acid pathway, MW ~230,000). The question was how allelic complementation — the restoration of enzyme activity by combining two different inactive mutant proteins — works when the affected enzyme is part of a multienzyme complex rather than a standalone protein. By the time of publication, Burgoyne had already moved to Flinders University in South Australia.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Complementation map:</strong> Constructed preliminary complementation and genetic maps of the <em>arom-2</em> gene (encoding DHQ synthetase), showing a moderately complex pattern of allelic complementation among mutants.</li>
+    <li><strong>In vivo complementation:</strong> In heterocaryons between complementing <em>arom-2</em> mutant pairs, restored DHQ synthetase activity co-sedimented with the other four <em>arom</em> enzyme activities in an aggregate of normal molecular weight (~230,000), demonstrating hybrid aggregate formation.</li>
+    <li><strong>In vitro complementation:</strong> Achieved exact correlation between in vivo and in vitro complementation. Partially purified <em>arom</em> aggregate proteins from complementing mutant pairs, when mixed under alkaline-DTT conditions (pH 10, dithiothreitol), restored up to 30% of wild-type DHQ synthetase activity. Non-complementing pairs showed zero activity.</li>
+    <li><strong>Subunit exchange mechanism:</strong> Proposed that complementation involves dissociation of mutant aggregates into half-sized subunits followed by reaggregation to form hybrid aggregates with restored activity. Wild-type aggregate could be dissociated into halves with SDS or guanidine-HCl.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This was an important contribution to understanding allelic complementation in multienzyme complexes. The demonstration of in vitro complementation with purified proteins provided the most direct evidence that complementation involves physical subunit exchange, not just genetic complementation in heterocaryons. The <em>arom</em> cluster became a model system for understanding gene clusters encoding multienzyme aggregates — a precursor to understanding multidomain enzymes.</p>
+    <p><strong>Career significance:</strong> This represents a significant broadening of Burgoyne's expertise from protein biochemistry into molecular genetics. Working in the Giles lab at Yale exposed him to first-rate genetics and the complementation analysis framework (Crick &amp; Orgel, Fincham). The in vitro reconstitution approach — taking apart and reassembling complex protein systems — shows the same instinct for understanding how biological macromolecules assemble that characterised his cytochrome b<sub>2</sub> work and would later inform his chromatin studies.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Giles, Case, Partridge &amp; Ahmed (1967): Discovery of the <em>arom</em> gene cluster in PNAS</li>
+    <li>Crick &amp; Orgel (1964): Theory of inter-allelic complementation</li>
+    <li>Fincham (1966): <em>Genetic Complementation</em> monograph</li>
+    <li><a href="1969_burgoyne_purification_arom_aggregate.html">Burgoyne, Case &amp; Giles (1969)</a>: Companion paper on purification of the arom aggregate</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>The broader understanding of multienzyme complexes and gene clusters in fungi</li>
+    <li>Later work on the AROM protein as a model multifunctional enzyme (the <em>arom</em> system became a textbook example)</li>
+    <li>Burgoyne's developing skill set in protein dissociation/reassembly — conceptually relevant to later chromatin work</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Norman H. Giles</strong> — Distinguished geneticist at Yale, specialist in Neurospora genetics and gene clusters. <strong>Mary E. Case</strong> — Long-term collaborator with Giles on the <em>arom</em> system. This collaboration represents Burgoyne's postdoctoral period at Yale before taking up his position at Flinders University.</p>

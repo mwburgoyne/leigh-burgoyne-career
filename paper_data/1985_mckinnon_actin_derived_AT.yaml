@@ -1,0 +1,79 @@
+id: 1985_mckinnon_actin_derived_AT
+title: Evidence for the Existence of an Actin-Derived Protein in Ataxia-Telangiectasia Lymphoblastoid Cell Lines
+page_title: McKinnon & Burgoyne (1985) — Actin-Derived Protein in Ataxia-Telangiectasia
+authors:
+- Peter J. McKinnon
+- Leigh A. Burgoyne
+authors_affiliation: null
+venue: Experimental Cell Research, 158, 413–422
+paper_number: null
+doi: 10.1016/0014-4827(85)90465-3
+funding: null
+citations: 6
+citations_source: Crossref (title+author)
+tags:
+- Ataxia Telangiectasia
+- Actin Proteolysis
+- 37K Protein
+- Cytoskeleton
+- Peptide Mapping
+- Tryptic Fingerprinting
+- Disease Biology
+- Lymphoblastoid
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1985'
+- label: Received
+  value_html: 24 October 1984
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1985 - Evidence for the existence of an actin-derived protein in ataxia-telangiectasia lymphoblastoid cell lines.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper is the direct follow-up to McKinnon &amp; Burgoyne (1984, BBRC), which reported that ataxia-telangiectasia (AT) lymphoblastoid cells show density-dependent actin decrease with concomitant appearance of an abundant 37K protein. The 1984 paper had concluded, based on V-8 protease partial proteolysis, that the 37K protein was structurally <em>unrelated</em> to actin. Here, using more rigorous methods — complete tryptic digestion of <sup>125</sup>I-labelled proteins with 2D peptide mapping — the authors reverse that earlier conclusion and demonstrate that the 37K protein is most likely an actin-derived proteolysis product. The paper also identifies constitutive (not just density-induced) expression of the 37K protein in some AT lines, expands the cell line panel, and investigates possible initiating signals.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>37K protein IS derived from actin (correcting the 1984 paper):</strong> Complete tryptic digestion of <sup>125</sup>I-labelled actin and 37K protein produced identical 2D peptide maps, while an unrelated control protein (histone H1) gave a completely different pattern. The earlier V-8 partial proteolysis that suggested dissimilarity was misleading because intermediate digestion products differ due to different protease access paths, even though the underlying sequence is shared.</li>
+    <li><strong>37K protein is the protease-resistant actin core:</strong> The 37K protein corresponds to the well-documented protease-resistant fragment (33K–38K) produced when actin is cleaved near its amino-terminal end by trypsin, thrombin, or other proteases in vitro. Multiple lines of evidence support amino-terminal cleavage: (1) anti-actin antibodies fail to precipitate the 37K protein, and the antigenic site is in the amino-terminal region; (2) removal of the acidic amino-terminal portion explains the pI shift from 5.6 (actin) to 6.3 (37K); (3) <sup>125</sup>I-tryptic maps are identical despite the MW difference, because tyrosine residues (iodination sites) are absent from the amino-terminal end.</li>
+    <li><strong>2D gel analysis:</strong> Two-dimensional electrophoresis (IEF/SDS-PAGE) of <sup>35</sup>S-labelled proteins confirmed the 37K protein at pI 6.3 and showed its remarkable abundance relative to other cellular proteins in AT cells.</li>
+    <li><strong>Constitutive lines identified:</strong> Two AT lines (GM1525/AT2BI and GM1526/AT8BI, siblings from a different geographic origin) show constitutive 37K production at normal culture densities, unlike the density-dependent induction seen in ATlABR, AT3ABR, and AT5ABR.</li>
+    <li><strong>Expanded panel:</strong> 5 of 6 AT lines positive; AT4ABR negative (attributed to AT genetic heterogeneity/complementation groups). All five control lines negative. Two Burkitt’s lymphoma lines (HR1K, RAJI) also negative, ruling out a general lymphoid transformation artefact.</li>
+    <li><strong>No clear initiating signal found:</strong> Systematic testing of AT1ABR with serum deprivation, DNA synthesis inhibition (cytosine arabinoside), microtubule disruption (4°C), microfilament disruption (DMSO), and DNA damage (bleomycin) all failed to trigger the 37K/actin response. Only high cell density was effective.</li>
+    <li><strong>Cytoskeletal hypothesis for AT pathogenesis:</strong> The authors propose that cytoskeletal dysfunction (specifically aberrant actin proteolysis) could explain multiple AT phenotypes: failure of radiation-induced DNA synthesis inhibition (via cytoskeleton-DNA synthesis connection), cancer proneness (actin implicated in carcinogenesis), and developmental abnormalities. This was a novel hypothesis at the time, when most AT research focused on DNA repair.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper provides the first evidence that the AT-specific 37K protein is an actin proteolysis product generated in vivo, analogous to well-characterised in vitro protease-resistant actin fragments. The correction of the 1984 conclusion (from “unrelated” to “actin-derived”) is scientifically important and demonstrates intellectual honesty — the authors explicitly explain how partial proteolysis fingerprinting can be misleading. The cytoskeletal hypothesis for AT pathogenesis was an original contribution, linking the known AT phenotypes (radiation sensitivity, DNA synthesis dysregulation, cancer proneness, developmental abnormalities) to a unifying cytoskeletal lesion. While later work showed ATM kinase mutations as the primary AT defect (1995), the observation that AT cells have abnormal actin processing remains a genuine aspect of AT cell biology.</p>
+    <p><strong>Career significance:</strong> This is the second and more substantial of the two McKinnon &amp; Burgoyne AT papers, published in a higher-profile journal (<em>Experimental Cell Research</em> vs BBRC). It demonstrates Burgoyne’s willingness to correct previous conclusions when better evidence emerges. The connection between actin biology and Burgoyne’s chromatin work (actin binds DNase I; actin interacts with chromatin components) shows how disease biology grew naturally from the basic research programme. Mario Froscio is acknowledged for protein iodination advice, continuing the lab’s technical support infrastructure.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1984_mckinnon_actin_ataxia_telangiectasia.html">McKinnon &amp; Burgoyne (1984)</a> BBRC: Initial report of density-dependent actin/37K response in AT cells</li>
+    <li>Jacobson &amp; Rosenbusch (1976) PNAS: Trypsin-resistant actin core fragment characterisation</li>
+    <li>Muszbek &amp; Laki (1974) PNAS: Thrombin cleavage of actin near amino-terminal end</li>
+    <li>Mornet &amp; Ue (1984) PNAS: Multiple proteases produce 33K–38K resistant actin fragment</li>
+    <li>Cleveland et al. (1977): V-8 protease partial proteolysis method</li>
+    <li>Jaspers &amp; Bootsma (1982), Murnane &amp; Painter (1982): AT complementation groups and radiation sensitivity</li>
+    <li>Lavin, Ford &amp; Houldsworth (1982): AT cell line characterisation</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>First demonstration of in vivo generation of a protease-resistant actin core in any cell type</li>
+    <li>Cytoskeletal hypothesis for AT pathogenesis — an alternative to the DNA repair-only model</li>
+    <li>Evidence that AT involves widespread cellular dysfunction beyond DNA repair, anticipating later ATM kinase signalling discoveries</li>
+    <li>Methodological lesson: partial proteolysis fingerprinting can produce misleading results; complete digestion is needed for definitive comparison</li>
+    <li>Connection between cytoskeleton and DNA synthesis regulation in disease</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Peter J. McKinnon</strong> — first author, continuing from the 1984 BBRC paper (likely PhD student; later became internationally recognised for ATM/DNA damage response and neurodegeneration research at St. Jude Children’s Research Hospital, Memphis). <strong>Mario Froscio</strong> acknowledged for advice on protein iodination procedures. GM1525 and GM1526 cell lines obtained from the Human Genetic Mutant Cell Repository, Camden, NJ. Other AT lines described in Lavin et al. (1982).</p>

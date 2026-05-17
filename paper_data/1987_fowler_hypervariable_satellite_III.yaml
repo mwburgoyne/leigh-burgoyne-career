@@ -1,0 +1,83 @@
+id: 1987_fowler_hypervariable_satellite_III
+title: Hypervariable Lengths of Human DNA Associated with a Human Satellite III Sequence Found in the 3.4kb Y-Specific Fragment
+page_title: Fowler, Drinkwater, Burgoyne & Skinner (1987) — Hypervariable Lengths of Human DNA Associated with Satellite III
+authors:
+- C. Fowler
+- R. Drinkwater
+- L. Burgoyne
+- J. Skinner
+authors_affiliation: null
+venue: Nucleic Acids Research, 15(9), 3929
+paper_number: null
+doi: 10.1093/nar/15.9.3929
+funding: null
+citations: 21
+citations_source: Crossref (title+author)
+tags:
+- Satellite III
+- Hypervariable DNA
+- Y-Specific Fragment
+- TTCCA Pentamer
+- TaqI Polymorphism
+- DNA Fingerprinting
+- Individual Identification
+- Human Genome
+burgoyne_index: 2
+extra_meta:
+- label: Year
+  value_html: '1987'
+- label: Submitted
+  value_html: 23 March 1987
+- label: Accession
+  value_html: Y00139
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1987 - Hypervariable lengths of human DNA associated with a human satellite III sequence found in the 3.4kb Y-specific fragment.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper is the second output of the Burgoyne lab’s satellite DNA programme, following the 1986 Drinkwater, Burgoyne &amp; Skinner paper that identified satellite II repeats from a human sperm library enriched in repetitive sequences. Here, using a new probe (Seq.228S) derived from the same library, the group discovered that human satellite III DNA — characterised by degenerate TTCCA pentameric tandem repeats — generates hypervariable restriction fragment length patterns upon TaqI digestion that are highly discriminating of individuals. Published at a time when Alec Jeffreys’ minisatellite-based DNA fingerprinting (1985) was transforming forensic genetics, this paper identified a complementary and mechanistically distinct source of individual-specific DNA variation. The probe also identified the 3.4 kb Y-specific fragment described by Nakahori et al. (1986), connecting satellite III sequences to sex-chromosome biology. C. Fowler appears as a new first-author collaborator.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Satellite III-associated hypervariability:</strong> Probe 228S, a satellite III-related sequence isolated from a human sperm library, disclosed hypervariable lengths of DNA upon TaqI digestion of human genomic DNA. The resulting restriction fragment patterns were highly discriminating of individuals (Fig. 1 shows 7 individuals with distinct patterns).</li>
+    <li><strong>Mechanism of variation:</strong> The major cause of hypervariation appears to be random C→G point mutations in the pentameric repeat (TTCCA) creating new TaqI sites (TCGA). Further mutations at the resultant CpG dinucleotide may be contributory, consistent with CpG hypermutability.</li>
+    <li><strong>Y-specific fragment identification:</strong> Probe 228S also identifies the 3.4 kb Y-specific fragment upon EcoRI digestion (previously described by Nakahori et al. 1986), as well as other unspecified autosomal fragments — demonstrating satellite III sequences span both sex-chromosome and autosomal locations.</li>
+    <li><strong>Distinct from minisatellite polymorphism:</strong> Comparison of TaqI/228S patterns with Jeffreys’ minisatellite probe patterns produced different but similarly complex restriction patterns for individual genomes. Critically, the two systems exploit fundamentally different mechanisms: minisatellite hypervariation is revealed by enzymes restricting in flanking regions, while satellite III hypervariation is revealed by TaqI apparently restricting <em>within</em> the pentameric repeat itself.</li>
+    <li><strong>Invariant centromeric control:</strong> Equality of TaqI restrictions across samples was confirmed by reprobing with centromeric tandem repeat sequences, which yielded invariate patterns — a rigorous internal control.</li>
+    <li><strong>Germline/somatic comparison:</strong> Duplicate analysis of individual 6 comparing germline and somatic tissue produced concordant patterns, confirming constitutional (inherited) rather than somatic origin of the variation.</li>
+    <li><strong>Sequence data:</strong> The complete 332 bp sequence of probe 228S (SEQ-228S) was deposited (accession Y00139), showing a degenerate satellite III repeat with clearly recognisable GGAAT/TTCCA pentameric motifs throughout.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper identified a new class of hypervariable DNA polymorphism based on satellite III tandem repeats — mechanistically distinct from Jeffreys’ minisatellite VNTR approach. While minisatellite polymorphism arises from variation in repeat copy number (detected by flanking restriction sites), satellite III polymorphism arises from point mutations within the repeat that create or destroy restriction sites. This demonstrated that human genome hypervariation is more widespread and mechanistically diverse than previously appreciated. The connection to the Y-specific fragment also linked satellite III biology to sex-chromosome structure.</p>
+    <p><strong>Career significance:</strong> This paper deepens Burgoyne’s transition into the satellite DNA and forensic DNA territory that would define Phase 4 of his career. The demonstrated ability to discriminate individuals using satellite III probes foreshadows the lab’s later involvement in forensic DNA technology. The paper also continues the productive Drinkwater–Skinner–Burgoyne collaboration and introduces C. Fowler as a new lab member (likely an Honours or PhD student). Published as a data note in Nucleic Acids Research, the same format as the 1986 paper.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Prosser et al. (1986) J. Mol. Biol. 187, 145–155: classification and sequence characterisation of human satellite III DNA and the degenerate TTCCA pentameric repeat</li>
+    <li>Nakahori et al. (1986) Nuc. Acids Res. 14, 7569–7580: identification of the 3.4 kb Y-specific EcoRI fragment</li>
+    <li>Jeffreys et al. (1985) Nature 314, 67–73: minisatellite-based DNA fingerprinting — conceptual framework for individual-specific DNA variation</li>
+    <li><a href="1986_drinkwater_repetitive_DNA_elements.html">Drinkwater, Burgoyne &amp; Skinner (1986)</a> NAR: satellite II tandem repeat and human sperm library approach — direct precursor from the same lab</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Identification of satellite III sequences as a source of individual-discriminating DNA polymorphism</li>
+    <li>Foundation for forensic applications of satellite DNA-based identification systems</li>
+    <li>Mechanistic understanding of how CpG point mutations within tandem repeats generate restriction fragment length polymorphism</li>
+    <li>Connection between satellite III sequences, autosomal polymorphism, and Y-chromosome biology</li>
+    <li>Burgoyne lab’s continuing satellite DNA programme and eventual transition to forensic DNA technology</li>
+    <li>Burgoyne’s FTA card patent (1994) — the satellite DNA work on individual identification directly informed the development of rapid DNA collection and preservation technology</li>
+    <li><a href="2004_smith_burgoyne_wildlife_FTA_databasing.html">Smith &amp; Burgoyne (2004)</a> — wildlife DNA identification using FTA cards, extending the forensic DNA trajectory launched by the satellite programme</li>
+    <li>Sequence deposit (Y00139) contributing to the growing human satellite III sequence database</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>C. Fowler</strong> — new first-author collaborator (likely Honours or PhD student in Burgoyne lab at Flinders). <strong>R. Drinkwater</strong> (Roger D. Drinkwater) — continuing collaborator from the 1986 satellite II paper and the 1987 chromatin paper. <strong>J. Skinner</strong> (Jennifer D. Skinner) — long-term collaborator since 1979, bridging the chromatin superstructure and satellite DNA programmes.</p>

@@ -1,0 +1,76 @@
+id: 1976_marshall_chromatin_extracts_interpretation
+title: Interpretation of the Properties of Chromatin Extracts from Mammalian Nuclei
+page_title: Marshall & Burgoyne (1976) — Interpretation of Chromatin Extracts Properties
+authors:
+- A. J. Marshall
+- L. A. Burgoyne
+authors_affiliation: null
+venue: Nucleic Acids Research, 3(4), 1101–1110
+paper_number: null
+doi: 10.1093/nar/3.4.1101
+funding: null
+citations: 26
+citations_source: Crossref (title+author)
+tags:
+- Nuclear Preparation
+- Artefact Warning
+- Mg Stabilisation
+- Polyamine Stabilisation
+- Ca-Mg Endonuclease
+- Chromatin Degradation
+- Methodology
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1976'
+- label: Received
+  value_html: 24 February 1976
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1976 - Interpretation of the properties of chromatin extracts from mammalian nuclei.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper, led by A. J. Marshall with Burgoyne as senior author, addresses a critical methodological concern arising from the Burgoyne group's deep understanding of the Ca-Mg endonuclease. Most laboratories in the mid-1970s prepared nuclei using magnesium or calcium ions for structural stabilisation. However, Burgoyne's group knew that even trace amounts of Ca<sup>2+</sup> together with Mg<sup>2+</sup> activate the endogenous Ca-Mg endonuclease, which would progressively degrade chromatin during the several-hour preparation procedure — even at 0–4°C. Their own polyamine-stabilised preparation (using EDTA/EGTA to chelate divalent metals) avoided this problem. This paper quantitatively demonstrates the extent of this artefactual degradation and raises an additional complication: the nucleolysis is not uniform between newly-synthesised and older DNA.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Extensive chromatin degradation during Mg<sup>2+</sup>-stabilised nuclear preparation:</strong> DNA extracted from Mg<sup>2+</sup>-stabilised nuclei (Berezney &amp; Coffey procedure) showed MW range of ~3–0.02 × 10<sup>6</sup> Daltons (peak at 0.14–0.38 × 10<sup>6</sup>). This degradation was ~10× greater than a controlled 3-minute Ca-Mg endonuclease digest of polyamine-stabilised nuclei.</li>
+    <li><strong>Polyamine-stabilised nuclei retain intact DNA:</strong> Control experiments with polyamine-stabilised nuclei (Procedure A, using EDTA/EGTA) confirmed the DNA remained intact and at ultra-high molecular weight until deliberately digested.</li>
+    <li><strong>Newly-synthesised DNA is degraded more slowly:</strong> In regenerating liver, the specific radioactivity of <sup>3</sup>H-DNA increased with increasing molecular weight of DNA fragments — meaning the newly-synthesised (highly-labelled) DNA was present in larger fragments. This shows the Ca-Mg endonuclease preferentially degrades older chromatin during preparation.</li>
+    <li><strong>No such bias with micrococcal nuclease:</strong> Exogenous micrococcal nuclease did not show differential degradation between newly-synthesised and older DNA, indicating the bias is a property of the endogenous endonuclease itself (or its distribution between dividing and non-dividing cells).</li>
+    <li><strong>Proposed mechanism:</strong> Dividing cells (which contain the newly-labelled DNA) have lower Ca-Mg endonuclease levels, so their chromatin is cleaved less frequently during the preparation. This creates an artefactual enrichment of newly-synthesised DNA in larger fragments.</li>
+    <li><strong>Reinterpretation of Berezney &amp; Coffey (1975):</strong> Their observation that newly-synthesised DNA is "retained by nuclei" in preference to older DNA may simply reflect its larger average molecular weight (less degradation) rather than any specific association with the nuclear matrix.</li>
+    <li><strong>Variability is a problem:</strong> Replicate Mg<sup>2+</sup>-stabilised preparations produced variable fragmentation profiles, dependent on poorly-defined conditions of endonuclease activation and duration of nucleolysis.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper is an important methodological warning to the chromatin field. It demonstrates that standard nuclear preparation procedures using divalent cations cause significant, variable, and biased chromatin degradation. The Burgoyne group's polyamine-stabilised preparation method is shown to be superior for preserving intact chromatin. The paper also offers an alternative explanation for Berezney &amp; Coffey's nuclear matrix observations, showing how preparative artefacts can lead to misleading conclusions about chromatin organisation.</p>
+    <p><strong>Career significance:</strong> This is the companion paper to <a href="1976_burgoyne_chromatin_higher_structure_replication.html">Burgoyne, Mobbs &amp; Marshall (1976)</a> on chromatin superstructure. Marshall leads as first author, suggesting he may be a student or postdoc in the lab. The paper demonstrates Burgoyne's methodological rigour and willingness to challenge the practices of other laboratories. It also shows the practical value of his earlier development of the polyamine-stabilised nuclear preparation method.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Hewish &amp; Burgoyne (1973): Ca-Mg endonuclease discovery and chromatin substructure</li>
+    <li>Burgoyne, Hewish &amp; Mobbs (1974): Chromatin substructure studies</li>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970): Original nuclear preparation method</li>
+    <li>Berezney &amp; Coffey (1975): Nuclear matrix and DNA retention observations</li>
+    <li>Noll, Thomas &amp; Kornberg (1975): Shearing damage to chromatin substructure</li>
+    <li>David, Gordon &amp; Rutter (1974): Mg<sup>2+</sup>-stabilised nuclear preparations</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Methodological awareness of Ca-Mg endonuclease artefacts in nuclear preparations</li>
+    <li>Validation of polyamine-stabilised nuclear preparation as superior method</li>
+    <li>Reinterpretation of nuclear matrix DNA-retention observations</li>
+    <li>Companion paper to <a href="1976_burgoyne_chromatin_higher_structure_replication.html">Burgoyne, Mobbs &amp; Marshall (1976)</a> on chromatin superstructure</li>
+    <li>Broader understanding that newly-synthesised and older chromatin have different endonuclease susceptibility</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>A. J. Marshall</strong> — first author, likely student or postdoc in Burgoyne's lab. This is the companion paper to the September 1976 Burgoyne, Mobbs &amp; Marshall paper on chromatin superstructure. No funding acknowledgement listed.</p>

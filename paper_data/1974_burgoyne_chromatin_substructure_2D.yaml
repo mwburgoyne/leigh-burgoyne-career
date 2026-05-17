@@ -1,0 +1,78 @@
+id: 1974_burgoyne_chromatin_substructure_2D
+title: |-
+  Mammalian Chromatin Substructure Studies with the Calcium–Magnesium Endonuclease and Two-Dimensional Polyacrylamide-Gel Electrophoresis
+page_title: Burgoyne, Hewish & Mobbs (1974) — Mammalian Chromatin Substructure, 2D Electrophoresis
+authors:
+- Leigh A. Burgoyne
+- Dean R. Hewish
+- Jennifer Mobbs
+authors_affiliation: null
+venue: Biochemical Journal, 143, 67–72
+paper_number: null
+doi: 10.1042/bj1430067
+funding: null
+citations: 142
+citations_source: OpenAlex (DOI)
+tags:
+- Chromatin
+- Nucleosome
+- 2D Electrophoresis
+- Ca-Mg Endonuclease
+- DNA Substructure
+- Single-Strand Breaks
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '1974'
+- label: Received
+  value_html: 30 January 1974
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1974 - Mammalian chromatin substructure studies with the calcium–magnesium endonuclease and two-dimensional polyacrylamide-gel electrophoresis.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper is a direct follow-up to the landmark 1973 Hewish &amp; Burgoyne paper that first demonstrated the regular repeating substructure of chromatin. That paper showed the Ca-Mg endonuclease produced a discrete ladder of DNA bands from nuclei — bands whose molecular weights were integer multiples of a fundamental unit. This 1974 paper has two aims: (1) demonstrate that the phenomenon is not limited to rat tissues by extending it to mouse, and (2) use a novel two-dimensional electrophoresis technique to probe the internal (single-stranded) substructure of the DNA fragments. Jennifer Mobbs, previously acknowledged for technical assistance, is promoted to co-author.</p><p><strong>Publication anecdote:</strong> The manuscript had been submitted to the <em>Biochemical Journal</em> (received 30 January 1974) but was languishing with the editors. Francis Crick, who was working on a chromatin paper of his own at MRC Cambridge and wanted to cite this work, telephoned Burgoyne to ask when it would be published. When Leigh told him the paper was stuck with the journal editors, Crick apparently contacted the journal himself — because the next day Leigh was informed the paper had been accepted. Crick's forthcoming paper is listed as reference 38 in the <a href="1974_kornberg_chromatin_repeating_unit_nucleosome.html">Kornberg (1974)</a> nucleosome model paper: “R. D. Kornberg, A. Klug, F. H. C. Crick, in preparation.”</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Chromatin substructure is conserved across species:</strong> Mouse liver nuclei produced the same discrete DNA ladder as rat liver nuclei, with very similar band mobilities. The fundamental regularity of chromatin substructure is not rat-specific but a general mammalian feature.</li>
+    <li><strong>Novel 2D electrophoresis method developed:</strong> Burgoyne developed a two-dimensional system exploiting the fact that 7M urea does not denature native DNA but prevents renaturation after heat treatment. First dimension: native DNA separation in 2.5% acrylamide/7M urea. Between dimensions: boiling in 7M urea to denature. Second dimension: denatured DNA separation in 7.5% acrylamide/7M urea.</li>
+    <li><strong>Each native band contains a regular series of single-stranded fragments:</strong> The smallest native band (band 1) yielded one denatured class (A). Band 2 yielded two classes (A, B). Band 3 yielded three classes (A, B, C). Band 4 yielded four (A, B, C, D). This is the key result — an integral relationship between native and denatured fragment sizes.</li>
+    <li><strong>Double-strand series arises from single-strand breaks:</strong> The 2D analysis demonstrated that the regular double-stranded fragment series is a <em>secondary consequence</em> of a regular pattern of single-strand breaks. Single-strand breaks are much more frequent; double-strand breaks occur where two single-strand nicks are close together.</li>
+    <li><strong>Fragments are genuine, not concatenates:</strong> The 2D gel proved that higher-order bands were not merely hydrogen-bonded concatenates of smaller species. The zone above the expected diagonal (where concatenates would appear) was virtually free of DNA.</li>
+    <li><strong>Molecular weight determinations:</strong> Using neutral and alkaline sucrose gradients combined with PAGE, the smallest double-stranded class had MW ~120,000–150,000 (s<sub>20,w</sub> = 5.3 S) and the smallest single-stranded class had MW ~45,000–63,000 (s<sub>20,w</sub> = 3.8 S) — approximately half, as expected for denatured DNA.</li>
+    <li><strong>Two levels of steric hindrance proposed:</strong> The primary level produces the regular pattern of single-strand susceptible sites. A secondary, more random level of steric hindrance (from other nucleoproteins) modulates the time-course of degradation of higher-order bands. This two-level model provides a basis for understanding chromatin higher-order structure.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper significantly strengthened the chromatin substructure model from the 1973 landmark paper. By demonstrating the phenomenon in mouse as well as rat, Burgoyne showed it was a general mammalian feature. The innovative 2D electrophoresis method revealed that the mechanism of DNA fragmentation was primarily through single-strand nicking at regularly spaced sites, with double-strand breaks being a statistical consequence. This deepened understanding of how proteins are arranged on DNA and anticipated the nucleosome model that Kornberg would propose later in 1974. The two-level steric hindrance model foreshadowed the concept of higher-order chromatin organisation.</p>
+    <p><strong>Citation impact:</strong> 142 citations — very strong for a detailed methodological/mechanistic follow-up paper. Together with the 1973 landmark (~1,172 citations) and the 1973 endonuclease characterisation (~126 citations), this establishes a trio of papers totalling ~1,440 citations on the chromatin substructure discovery.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Hewish &amp; Burgoyne (1973b): Chromatin sub-structure — the landmark discovery paper</li>
+    <li>Hewish &amp; Burgoyne (1973a): Ca-dependent endonuclease characterisation</li>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970): Ca<sup>2+</sup>-dependent priming of DNA synthesis</li>
+    <li>Fisher &amp; Dingman (1971), Dingman et al. (1972): DNA behaviour in urea-PAGE systems</li>
+    <li>Williamson (1970): MW determination from PAGE mobility</li>
+    <li>Burgi &amp; Hershey (1963), Studier (1965): MW from sedimentation coefficients</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Confirmation that chromatin repeating substructure is a universal mammalian feature</li>
+    <li><a href="1974_kornberg_chromatin_repeating_unit_nucleosome.html">Kornberg (1974)</a> nucleosome model — provided the mechanistic underpinning showing single-strand nicking regularity</li>
+    <li>Later chromatin higher-order structure studies from the Burgoyne lab (1975–1987)</li>
+    <li>The two-level steric hindrance concept anticipates linker histone and higher-order folding research</li>
+    <li>2D gel electrophoresis methodology for analysing DNA substructure</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Dean R. Hewish</strong> — continuing chromatin substructure collaboration from the 1973 papers. <strong>Jennifer Mobbs</strong> — promoted from acknowledged technician (1972 paper) to co-author, reflecting her growing contribution to the programme. Funded by University of Adelaide Anti-Cancer Foundation and Flinders University research grant.</p>

@@ -1,0 +1,88 @@
+id: 2004_burgoyne_SMIPS_cloning_profiling_patent
+title: Method and Device for Simultaneously Molecularly Cloning and Polylocus Profiling of Genomes or Genomes Mixtures
+page_title: 2004 — Method and Device for Simultaneously Molecularly Cloning and Polylocus Profiling of Genomes or Genomes Mixtures
+authors:
+- Leigh A. Burgoyne
+authors_affiliation: null
+venue: US Patent Application Publication US 2004/0175715 A1
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- Single-Primer PCR
+- SMIPS
+- Molecular Cloning
+- Polylocus Profiling
+- Pathogen Detection
+- Forensic Soil Profiling
+- FTA Technology
+- Genome Fingerprinting
+- Metagenomics
+burgoyne_index: 0
+extra_meta:
+- label: Published
+  value_html: September 9, 2004
+- label: Filed
+  value_html: 'August 21, 2002 (PCT/US02/26670); Provisional: August 21, 2001 (No. 60/313,912)'
+- label: Assignee
+  value_html: 'Not specified (inventor: Adelaide Bedford Park, AU)'
+authors_label: Inventor
+venue_label: Publication
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/2004 - Method and device for simultaneously molecularly cloning and polylocus profiling of genomes or genomes mixtures.pdf
+  text: View Original Patent (PDF)
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By the early 2000s, <mark>Burgoyne’s</mark> FTA card technology had matured into a global platform for DNA storage and processing. Parallel to that commercial work, <mark>Burgoyne</mark> and collaborators such as Craig Rogers had been developing novel PCR-based techniques for amplifying unknown genomes from clinical and environmental samples stored on FTA paper. The Rogers &amp; Burgoyne publications (1997, 2000) had demonstrated bacterial typing and RNA virus detection without prior sequence knowledge. This patent represents the formalisation and extension of those discoveries into a comprehensive method for simultaneously cloning and profiling any genome or mixture of genomes using a single arbitrary primer — a technique <mark>Burgoyne</mark> termed “Structurally Mediated Interprimer Selectivity” (SMIPS).</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Single-primer amplification method (SMIPS):</strong> A single oligonucleotide primer of 16–30 bases with very high cytosine and very low guanine content is used at low stringency to amplify unknown genetic material without any prior sequence knowledge. Selectivity depends on the structural folding properties of the interprimer sequence rather than primer-target homology.</li>
+    <li><strong>Dual function — cloning and profiling:</strong> The method simultaneously produces molecular clones (individual amplified sequences) and a diagnostic banding pattern characteristic of the genome or genome mixture.</li>
+    <li><strong>Progressive resolution:</strong> With increasing amplification cycles, products evolve from polydispersed distributions to progressively simpler, discrete banding patterns — a natural selection process yielding clearer profiles.</li>
+    <li><strong>Pathogen detection without culturing:</strong> Works on minute amounts of nucleic acid (as little as 1 µl of plasma or serum), eliminating the need to culture organisms before analysis.</li>
+    <li><strong>RNA and DNA detection:</strong> Using the same primer for both reverse transcription and subsequent PCR, RNA sequences are preferentially amplified over DNA.</li>
+    <li><strong>DNA damage monitoring:</strong> SMIPS amplification provides a sensitive method for detecting DNA strand breakage, with applications to radiation exposure assessment.</li>
+    <li><strong>Integrated device claims:</strong> Three device configurations described — a capillary electrophoresis profiler, a Sanger sequencing extension, and a mass spectrometry extension — all driven by automated laboratory robot.</li>
+    <li><strong>Primer design program:</strong> Computer program generating primers according to compositional rules (55% C, 30% A, 15% G+T, with CCTCC 3’ end).</li>
+    </ul>
+- heading: Demonstrated Applications
+  body_html: |-
+    <ul>
+    <li><strong>Infectious disease diagnostics:</strong> HCV and HIV sera on FTA paper produced distinct amplification patterns; HCV samples revealed secondary infections by <em>Pseudomonas aeruginosa</em>, <em>Neisseria meningitidis</em>, <em>Burkholderia cepacia</em>.</li>
+    <li><strong>Forensic soil profiling:</strong> Five soil samples from different geographic sites produced unique, reproducible profiles confirmed by Southern blot hybridisation with no cross-reactivity between sites.</li>
+    <li><strong>Quality control:</strong> Detected trace contaminating nucleic acids in commercial DNA polymerase preparations from four different suppliers.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This patent represents a conceptually bold departure from conventional PCR methodology. Where traditional PCR relies on specific primer-target complementarity, <mark>Burgoyne’s</mark> SMIPS method inverts the basis of selectivity entirely — making amplification dependent on the physical folding properties of the amplified sequence rather than primer-target matching. This draws directly on <mark>Burgoyne’s</mark> decades of work on DNA secondary structure from the chromatin programme. The patent unifies several threads from Phase 4: FTA-based sample handling, single-primer PCR for species identification (Smith &amp; Burgoyne 2001 ILRC paper), RNA virus detection (Rogers &amp; Burgoyne 2000), and soil microbiology for forensic purposes. The soil profiling application anticipated the later explosion of environmental metagenomics, while the pathogen detection framework addressed emerging needs in biodefence. One of the most scientifically rich patents in <mark>Burgoyne’s</mark> portfolio.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>FTA card patent family (US 5,496,562 through US 6,447,804) — sample collection, storage, and processing</li>
+    <li>Rogers &amp; <mark>Burgoyne</mark> (1997): Bacterial typing on FTA without DNA extraction</li>
+    <li>Rogers &amp; <mark>Burgoyne</mark> (2000): RNA virus genome storage and RT-PCR from FTA</li>
+    <li>Smith &amp; <mark>Burgoyne</mark> (2001): Conserved inverted LINE repeat cluster identification using single degenerate primers</li>
+    <li><mark>Burgoyne’s</mark> chromatin structural work (1973–1987) — DNA secondary structure understanding underpinning SMIPS selectivity</li>
+    <li>Seah &amp; <mark>Burgoyne</mark> (2001): Methylene blue photolysis of DNA, directly used in Example 2</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Conceptual framework for sequence-independent pathogen detection applicable to biodefence and emerging disease surveillance</li>
+    <li>Forensic soil profiling methodology — biological comparison of soil samples from crime scenes</li>
+    <li>Quality control method for detecting nucleic acid contamination in commercial preparations</li>
+    <li>DNA damage monitoring for occupational health applications</li>
+    <li>Anticipated environmental metagenomics using culture-independent nucleic acid amplification</li>
+    <li>Later Burgoyne publications on arbitrary-primed PCR for soil forensics (2012–2017)</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong><mark>Leigh A. Burgoyne</mark></strong> — Sole inventor. Experimental examples draw on work involving Craig Rogers (bacterial typing, RNA virus FTA), L. H. Seah (methylene blue photolysis), and L. M. Smith (ILRC single-primer species identification).</p>

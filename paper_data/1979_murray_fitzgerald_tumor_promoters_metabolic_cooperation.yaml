@@ -1,0 +1,67 @@
+id: 1979_murray_fitzgerald_tumor_promoters_metabolic_cooperation
+title: Tumor Promoters Inhibit Metabolic Cooperation in Cocultures of Epidermal and 3T3 Cells <em>(Burgoyne Acknowledged)</em>
+page_title: Murray & Fitzgerald (1979) — Tumor Promoters Inhibit Metabolic Cooperation (Burgoyne Acknowledged)
+authors:
+- Andrew W. Murray
+- D. James Fitzgerald
+authors_affiliation: null
+venue: Biochemical and Biophysical Research Communications, Vol. 91, No. 2, pp. 395–401
+paper_number: null
+doi: 10.1016/0006-291x(79)91535-3
+funding: null
+citations: 241
+citations_source: Crossref (title+author)
+tags:
+- Tumor Promotion
+- Gap Junctions
+- Metabolic Cooperation
+- Flinders Colleague
+burgoyne_index: null
+extra_meta:
+- label: Year
+  value_html: '1979'
+- label: Received
+  value_html: September 4, 1979; Published November 28, 1979
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University of South Australia, Bedford Park, S.A. 5042
+- label: Acknowledgment
+  value_html: |-
+    “We thank Dr. G. C. Kirby for advice on the statistical analysis, and Dr. <mark>L. A. Burgoyne</mark> for valuable discussion.”
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1979 - Tumor promoters inhibit metabolic cooperation in cocultures of epidermal and 3T3 cells.pdf
+  text: View Original PDF
+preamble_html: |-
+  <div class="acknowledgment-note">
+  <strong>Note:</strong> <mark>L. A. Burgoyne</mark> is <strong>not</strong> an author on this paper. He is acknowledged for “valuable discussion.” This page is included in the collection because the paper illustrates the intellectual environment at Flinders and the long-standing Murray–Burgoyne collegial relationship.
+  </div>
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By the late 1970s, it was known that tumor promoters — chemicals that do not themselves cause cancer but dramatically accelerate tumour formation when applied after an initiating carcinogen — had many cellular effects, but no one knew which effect was most important for tumour promotion. One idea, originating from Loewenstein's group, was that disruption of intercellular communication through gap junctions might be key: if cells could no longer share growth-inhibitory signals, initiated cells might escape normal growth control. Murray and Fitzgerald set out to test this directly using a quantitative metabolic cooperation assay between two cell types.</p><p>Andrew Murray was a long-standing colleague of <mark>Burgoyne</mark>'s at Flinders University's School of Biological Sciences. They had previously collaborated on the <a href="1971_chalmers_preformed_purines_lymphoid.html">Chalmers et al. (1971) purine metabolism paper</a> and would later collaborate extensively on the <a href="1988_testori_DNA_binding_PKC.html">Testori et al. (1988)</a>, <a href="1991_testori_phosphorylation_chromatin_HL60.html">Testori et al. (1991)</a>, and <a href="1992_testori_substrate_conformation_PKC.html">Testori et al. (1992)</a> protein kinase C papers. <mark>Burgoyne</mark>'s acknowledged contribution of “valuable discussion” likely drew on his expertise in chromatin biology and cell biology — areas where intracellular signalling and nuclear responses intersect with the intercellular communication questions Murray was tackling.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>TPA dramatically inhibits metabolic cooperation:</strong> The potent tumor promoter 12-O-tetradecanoylphorbol-13-acetate (TPA) inhibited transfer of <sup>3</sup>H-nucleotides from pre-labelled HEL/37 mouse epidermal cells to unlabelled Swiss 3T3 cells in coculture. The effect was dose-dependent, with significant inhibition at concentrations as low as 10<sup>−9</sup> M.</li>
+    <li><strong>Specificity for active promoters:</strong> The structurally related non-promoting phorbol ester 4α-phorbol 12,13-didecanoate was ineffective, while the active promoter phorbol 12,13-didecanoate (PDD) did inhibit transfer. This correlation between promoting activity and inhibition of metabolic cooperation was a key finding.</li>
+    <li><strong>EGF did not inhibit:</strong> Epidermal growth factor, which shares some cellular responses with TPA, did not affect metabolic cooperation — indicating the effect was specific to the tumor-promoting phorbol esters rather than a general mitogenic response.</li>
+    <li><strong>Rigorous methodology:</strong> Autoradiographs were scored blindly by two independent investigators, and statistical analysis (acknowledged to Dr. Kirby) confirmed significance at p &lt; 0.005.</li>
+    <li><strong>Proposed mechanism — gap junction assembly:</strong> Murray and Fitzgerald proposed that tumor promoters interfere with the assembly of new gap junctions between cells, preventing re-establishment of metabolic cooperation. This was a forward-looking mechanistic hypothesis that stimulated much subsequent research.</li>
+    </ul>
+- heading: Significance & Influence
+  body_html: |-
+    <p><strong>Scientific impact:</strong> This paper became one of the foundational studies in the tumor promotion field, accumulating over 500 citations. It provided the first direct evidence in a biologically relevant cell system (epidermal cells, the actual target of skin tumor promoters) that tumor promoters disrupt intercellular communication. The finding helped establish the “gap junction hypothesis” of tumor promotion as a major paradigm in cancer biology through the 1980s and 1990s.</p>
+    <p><strong>Connection to Burgoyne:</strong> Although <mark>Burgoyne</mark> is not an author, the paper illustrates the rich intellectual community at Flinders in this period. <mark>Burgoyne</mark> and Murray occupied the same department, shared interest in nuclear and cellular biology, and their ongoing discussions contributed to both researchers' programmes. The “valuable discussion” acknowledged here likely reflects conversations about how tumor promoter effects at the cell surface connect to nuclear events — territory where <mark>Burgoyne</mark>'s chromatin expertise was directly relevant. This same Murray–Burgoyne intellectual axis would later produce the Testori PKC-chromatin papers (1988–1992), where the two research programmes fully converged.</p>
+  box_style: influence
+- heading: Connections to Burgoyne's Work
+  body_html: |-
+    <ul>
+    <li><strong>Earlier:</strong> <a href="1971_chalmers_preformed_purines_lymphoid.html">Chalmers, Atkinson, Burgoyne &amp; Murray (1971)</a> — first Murray–Burgoyne collaboration on purine metabolism in lymphoid tissue</li>
+    <li><strong>Later — PKC-chromatin programme:</strong> <a href="1988_testori_DNA_binding_PKC.html">Testori, Hii, Fournier, Burgoyne &amp; Murray (1988)</a> — DNA-binding proteins co-purifying with protein kinase C; <a href="1991_testori_phosphorylation_chromatin_HL60.html">Testori, Cahill &amp; Burgoyne (1991)</a> — phosphorylation of chromatin-associated proteins in HL-60 cells; <a href="1992_testori_substrate_conformation_PKC.html">Testori, Cahill &amp; Burgoyne (1992)</a> — substrate conformation and PKC activity. These papers brought together Murray's interest in PKC (an enzyme activated by tumor promoters like TPA) and <mark>Burgoyne</mark>'s chromatin expertise.</li>
+    <li><strong>Phase 3 chromatin work:</strong> <mark>Burgoyne</mark>'s ongoing chromatin superstructure research (1975–1992) provided the intellectual backdrop for understanding how cell-surface signals like tumor promoters might ultimately affect nuclear organisation</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Andrew W. Murray</strong> — Professor, School of Biological Sciences, Flinders University. Long-standing colleague of <mark>Burgoyne</mark>'s; specialist in phorbol ester biochemistry, protein kinase C, and purine metabolism. Co-author on Chalmers et al. (1971) and the Testori et al. series (1988–1992). <strong>D. James Fitzgerald</strong> — Postdoctoral researcher with Murray at Flinders; went on to a distinguished career in tumor promotion and gap junction research.</p>

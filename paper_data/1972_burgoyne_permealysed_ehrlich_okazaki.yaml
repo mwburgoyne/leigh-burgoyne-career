@@ -1,0 +1,70 @@
+id: 1972_burgoyne_permealysed_ehrlich_okazaki
+title: |-
+  Deoxyribonucleic Acid Synthesis in Mammalian Systems: Permealysed Ehrlich Ascites Cells In Vitro First Label Okazaki-Type Low-Molecular-Weight DNA and Then High-Molecular-Weight DNA
+page_title: Burgoyne (1972) — Permealysed Ehrlich Ascites Cells and Okazaki Fragments
+authors:
+- Leigh A. Burgoyne
+authors_affiliation: sole author
+venue: Biochemical Journal, 130, 959–964
+paper_number: null
+doi: 10.1042/bj1300959
+funding: null
+citations: 25
+citations_source: OpenAlex (DOI)
+tags:
+- DNA Replication
+- Okazaki Fragments
+- Permealysed Cells
+- Ehrlich Ascites
+- Sole Author
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '1972'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1972 - Deoxyribonucleic acid synthesis in mammalian systems. Permealysed Ehrlich ascites cells in vitro first label Okazaki-type low-molecular-weight deoxyribonucleic acid and then high-molecular-weight deoxyribonuclei.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This sole-author paper represents a major technical advance over the isolated nuclei system. Burgoyne recognised that isolated nuclei, while useful for studying Ca<sup>2+</sup>-dependent endonuclease, were an "imperfect reflection" of in vivo DNA replication. The nuclei only added 1–3 nucleotides at primer termini and required Ca<sup>2+</sup> activation — behaviour more consistent with repair than replication. To bridge the gap between isolated nuclei and intact cells, he developed a method for preparing permealysed (permeabilised) Ehrlich ascites tumour cells using Ficoll density gradients and homogenisation, creating a preparation that retained nuclear architecture and cytoplasmic remnants while allowing direct entry of nucleotide triphosphates.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Okazaki fragment synthesis demonstrated:</strong> In the first 1–2 minutes of labelling with d[<sup>3</sup>H]TTP, up to 60% of radioactivity appeared in low-molecular-weight DNA pieces. Over the next several minutes, the label progressively shifted to high-molecular-weight DNA — the hallmark of Okazaki fragment synthesis and ligation, as described in bacterial systems (Okazaki et al., 1968).</li>
+    <li><strong>Pulse-chase confirms fragment processing:</strong> Adding excess non-radioactive dTTP after 2.5 minutes of labelling caused the low-molecular-weight labelled DNA to chase into high-molecular-weight forms, confirming true fragment processing rather than artefactual degradation.</li>
+    <li><strong>Not Ca<sup>2+</sup>-dependent:</strong> Unlike the isolated nuclei preparations, permealysed cells were not stimulated by calcium — indicating the DNA synthesis was not dependent on the Ca<sup>2+</sup>-dependent endonuclease and was more closely related to normal replication.</li>
+    <li><strong>Direct nucleotide incorporation confirmed:</strong> d[<sup>3</sup>H]TTP was incorporated directly, not via conversion to thymidine and uptake by intact cells. Addition of excess thymidine caused only ~5% inhibition; thymidine incorporation required phosphorylating agents (showing kinase-dependent conversion).</li>
+    <li><strong>Nuclear, not mitochondrial:</strong> Washing with 7 M urea or 1% Triton X-100 did not release incorporated <sup>3</sup>H, indicating the labelled DNA was nuclear rather than mitochondrial.</li>
+    <li><strong>Environment sensitivity:</strong> Removing the cytoplasmic sheath (by washing without Ficoll) caused nuclei to produce persistent rather than transient low-molecular-weight DNA, suggesting "correct co-ordination of the processes of DNA synthesis in mammalian cells may be particularly sensitive to the physical properties of the solutions in which they are taking place."</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This was one of the earliest demonstrations of Okazaki fragment synthesis and processing in a permeable mammalian cell system. The ability to study near-physiological DNA replication in a system where substrates could be directly supplied and manipulated was a significant advance. The paper also explicitly distinguished between the repair-type synthesis seen in isolated nuclei (Ca<sup>2+</sup>-dependent, short patches) and the replication-type synthesis in permealysed cells (Ca<sup>2+</sup>-independent, Okazaki fragments chased into high MW DNA).</p>
+    <p><strong>Career significance:</strong> This is Burgoyne's first sole-author paper, demonstrating independent scientific leadership. The preparation method — using Ficoll density gradients and careful homogenisation to create a permeable yet functional cell system — shows the same practical ingenuity seen throughout his career. The paper also cites Wallace, Hewish, Venning &amp; Burgoyne (1971) — the first published appearance of D. R. Hewish in Burgoyne's collaborator network, foreshadowing their landmark 1973 chromatin substructure paper. Waqar's PhD thesis (Flinders, 1972) is also cited, confirming that Waqar completed his doctorate under Burgoyne's supervision.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970a,b): Ca<sup>2+</sup>-dependent nuclear DNA synthesis system</li>
+    <li>Okazaki et al. (1968): Discovery of Okazaki fragments in bacterial DNA replication (PNAS)</li>
+    <li>Schandl &amp; Taylor (1969): Okazaki-type fragments in mammalian cells</li>
+    <li>Wallace, Hewish, Venning &amp; Burgoyne (1971): Biochem. J. — nuclear DNA polymerase characterisation</li>
+    <li>Waqar (1972): PhD thesis on DNA synthesis in Ehrlich ascites cells</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Methodology for studying near-physiological DNA replication in permeable cell systems</li>
+    <li>Distinction between repair-type and replication-type DNA synthesis in vitro</li>
+    <li>Understanding of how cellular environment affects DNA synthesis fidelity</li>
+    <li>The broader permeable cell technology used by many subsequent investigators</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p>This is a sole-author paper. <strong>Mrs. J. Mobbs</strong> acknowledged for technical assistance. The references reveal the growing Burgoyne lab team at Flinders: <strong>D. R. Hewish</strong> and <strong>M. M. Venning</strong> (cited via Wallace et al. 1971), and <strong>M. A. Waqar</strong> (PhD thesis, 1972).</p>

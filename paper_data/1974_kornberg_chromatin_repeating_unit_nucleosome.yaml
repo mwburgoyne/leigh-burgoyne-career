@@ -1,0 +1,85 @@
+id: 1974_kornberg_chromatin_repeating_unit_nucleosome
+title: 'Kornberg (1974) — Chromatin Structure: A Repeating Unit of Histones and DNA'
+page_title: 'Kornberg (1974) — Chromatin Structure: A Repeating Unit of Histones and DNA'
+authors:
+- Roger D. Kornberg
+authors_affiliation: null
+venue: <em>Science</em>, 184(4139), 868–871
+paper_number: null
+doi: 10.1126/science.184.4139.868
+funding: null
+citations: 2616
+citations_source: OpenAlex (DOI)
+tags:
+- Nucleosome Model
+- Chromatin Structure
+- Cites Hewish & Burgoyne
+- Nobel Legacy
+burgoyne_index: null
+extra_meta:
+- label: Affiliation
+  value_html: MRC Laboratory of Molecular Biology, Cambridge, England (Junior Fellow, Society of Fellows of Harvard University)
+- label: Date
+  value_html: 24 May 1974
+- label: Type
+  value_html: |-
+    External paper — this is not a Burgoyne publication but the paper in which Kornberg explicitly cites Hewish & Burgoyne's 1973 discovery as key evidence for the nucleosome model
+authors_label: Author
+venue_label: Journal
+landmark_inline_text: KEY CITATION
+landmark: false
+pdf_link:
+  href: ../reference_papers/1974 - Chromatin structure a repeating unit of histones and DNA.pdf
+  text: View Original PDF
+sections:
+- heading: 'Context: Why This Paper Matters to Burgoyne’s Story'
+  body_html: |-
+    <p>This is the paper where Roger D. Kornberg proposed the nucleosome model, the idea that chromatin structure is based on a repeating unit of eight histone molecules and about 200 base pairs of DNA. It is one of the most influential papers in the history of molecular biology (~2,606 citations) and the foundation for Kornberg's subsequent career studying eukaryotic transcription, for which he received the <strong>2006 Nobel Prize in Chemistry</strong>.</p><p>The paper explicitly cites <a href="1973_hewish_chromatin_substructure.html">Hewish &amp; Burgoyne (1973)</a> as providing the crucial experimental evidence for the ~200 bp repeating unit. This is the direct documentary link between <mark>Leigh Burgoyne</mark>'s 1973 chromatin discovery and the Nobel Prize.</p>
+- heading: The Hewish & Burgoyne Citation
+  body_html: |-
+    <blockquote>
+      “This coincides in a rather striking way with the results of digestion of chromatin by certain nucleases, in which most of the DNA is cleaved to pieces of about 200 base pairs. <strong>The first such observation was made by Hewish and Burgoyne</strong> in work on digestion of chromatin in rat liver nuclei by an endogenous nuclease (7). In this digestion more than 80 percent of the DNA is cleaved to multiples of from one to six times 200 base pairs.”
+      <div class="attribution">— Roger D. Kornberg, <em>Science</em> 184, 868–871 (1974), p. 869</div>
+    </blockquote><blockquote>
+      “A more clear-cut result has come from an extension of the work of Hewish and Burgoyne, in which staphylococcal nuclease has been shown to cleave more than 90 percent of the DNA in rat liver nuclei to pieces of about 200 base pairs.”
+      <div class="attribution">— Roger D. Kornberg, <em>Science</em> 184, 868–871 (1974), p. 869</div>
+    </blockquote><p>Reference 7 reads: <em>“D. R. Hewish and L. A. Burgoyne, Biochem. Biophys. Res. Commun. 52, 504 (1973); the extent of digestion and size of the pieces are from D. R. Hewish, personal communication.”</em></p><p>Kornberg credits Hewish &amp; Burgoyne with <strong>“the first such observation”</strong>, that is, the first experimental demonstration that DNA in chromatin is cleaved into a regular, repeating pattern. This observation was the key experimental fact that Kornberg synthesised with histone oligomer data to propose the nucleosome.</p>
+- heading: What Kornberg Proposed
+  body_html: |-
+    <p>Kornberg's model, presented in this paper, had two core proposals:</p><ol>
+    <li><strong>Chromatin structure is based on a repeating unit</strong> of two each of histones F2A1, F3, F2A2, and F2B (now called H3, H4, H2A, and H2B) and about 200 base pairs of DNA — the nucleosome.</li>
+    <li><strong>A chromatin fibre consists of many such units forming a flexibly jointed chain</strong> — described memorably as “rather like beads on a string.”</li>
+    </ol><p>The evidence came from three converging lines: (1) histone cross-linking showing an (F2A1)<sub>2</sub>(F3)<sub>2</sub> tetramer; (2) X-ray diffraction showing a 100 Å repeat requiring all four core histones but not F1; and (3) <strong>the Hewish &amp; Burgoyne nuclease digestion experiment</strong> showing ~200 bp DNA fragments. The convergence of these three independent lines of evidence — biochemical, structural, and enzymatic — made the case for the repeating unit compelling.</p>
+- heading: The Chain of Influence
+  body_html: |-
+    <p>This paper documents, in Kornberg's own words, the direct intellectual debt to Hewish &amp; Burgoyne's 1973 experiment. The chain of influence runs:</p>
+    <ol>
+    <li><strong>Hewish &amp; Burgoyne (1973)</strong> — first experimental evidence for a repeating chromatin subunit (~200 bp DNA ladder from endogenous nuclease digestion). <a href="1973_hewish_chromatin_substructure.html">~1,172 citations.</a></li>
+    <li><strong>Kornberg (1974, this paper)</strong> — synthesised Hewish &amp; Burgoyne's evidence with histone biochemistry and X-ray data to propose the nucleosome model. ~2,606 citations.</li>
+    <li><strong>Olins &amp; Olins (1974)</strong> — visualised “nu bodies” (beads on a string) by electron microscopy. Also cited Hewish &amp; Burgoyne.</li>
+    <li><strong>Noll (1974)</strong> — confirmed the ~200 bp repeat with micrococcal nuclease. Also cited Hewish &amp; Burgoyne.</li>
+    <li><strong>Kornberg (2006)</strong> — awarded the Nobel Prize in Chemistry for “studies of the molecular basis of eukaryotic transcription,” work built upon the understanding of chromatin organisation that began with the nucleosome model he proposed in this paper.</li>
+    </ol>
+  box_style: landmark
+- heading: The MRC Connection
+  body_html: |-
+    <p>Kornberg wrote this paper at the MRC Laboratory of Molecular Biology in Cambridge — the same institution where Francis Crick was based. Indeed, Kornberg thanks “Drs. A. Klug, F. H. C. Crick, and M. S. Bretscher for helpful discussions” and lists a forthcoming paper “R. D. Kornberg, A. Klug, F. H. C. Crick, in preparation” (reference 38). Two months before this paper appeared, Crick had described the Hewish &amp; Burgoyne result as a “breakthrough” on <a href="1974_crick_bradbury_BBC_scientifically_speaking.html">BBC Radio Three</a> (25 March 1974). At that very time, <mark>Leigh Burgoyne</mark> was on study leave at MRC Mill Hill in London, working with J. R. Tata — embedded in the same MRC network.</p><p>The connection between Crick and Burgoyne was direct. Crick telephoned Burgoyne to ask when the <a href="1974_burgoyne_chromatin_substructure_2D.html">Burgoyne, Hewish &amp; Mobbs (1974)</a> 2D electrophoresis paper would be published, as he wanted to cite it. When Leigh told him the manuscript was stuck with the <em>Biochemical Journal</em> editors, Crick apparently contacted the journal, and the paper was accepted the following day.</p>
+- heading: Companion Paper
+  body_html: |-
+    <p>This paper is the second of a back-to-back pair. The first paper, by Kornberg and Thomas (<em>Science</em> 184, 865–868, 1974), presented the histone cross-linking and oligomer evidence. This second paper synthesised that evidence with the nuclease digestion data from Hewish &amp; Burgoyne and the X-ray results to propose the model. Both papers appeared in the same issue of <em>Science</em> on 24 May 1974.</p>
+- heading: Connections
+  body_html: |-
+    <ul>
+    <li><strong>The discovery Kornberg cites:</strong> <a href="1973_hewish_chromatin_substructure.html">Hewish &amp; Burgoyne (1973)</a> — BBRC 52(2), 504–510. Chromatin sub-structure: regularly spaced nuclease digestion sites. ~1,172 citations.</li>
+    <li><strong>The companion endonuclease paper:</strong> <a href="1973_hewish_calcium_endonuclease.html">Hewish &amp; Burgoyne (1973)</a> — Characterisation of the Ca-Mg endonuclease.</li>
+    <li><strong>The 2D gel follow-up:</strong> <a href="1974_burgoyne_chromatin_substructure_2D.html">Burgoyne &amp; Hewish (1974)</a> — Two-dimensional polyacrylamide gel electrophoresis confirmation of repeating substructure.</li>
+    <li><strong>Crick BBC broadcast:</strong> <a href="1974_crick_bradbury_BBC_scientifically_speaking.html">BBC Radio Three, 25 March 1974</a> — Crick describes the Hewish &amp; Burgoyne result as a “breakthrough.”</li>
+    <li><strong>Kornberg &amp; Thomas (1974):</strong> Science 184, 865–868. Companion paper on histone oligomers.</li>
+    <li><strong>Olins &amp; Olins (1974):</strong> Science 183, 330–332. Electron microscopic visualisation of “nu bodies.”</li>
+    <li><strong>Noll (1974):</strong> Nature 251, 249–251. Micrococcal nuclease ladder confirming ~200 bp repeat.</li>
+    <li><strong>Kornberg Nobel Prize (2006):</strong> Nobel Prize in Chemistry for “studies of the molecular basis of eukaryotic transcription.”</li>
+    </ul>
+  box_style: connections
+- heading: About the Author
+  body_html: |-
+    <p><strong>Roger D. Kornberg</strong> (born 1947) — Son of Arthur Kornberg (1959 Nobel laureate for DNA polymerase discovery). At the time of this paper, Roger Kornberg was a Junior Fellow of the Society of Fellows of Harvard University, working at the MRC Laboratory of Molecular Biology in Cambridge. He went on to Stanford University, where he spent his career studying the mechanism of eukaryotic transcription. He was awarded the <strong>2006 Nobel Prize in Chemistry</strong> (unshared) for “his studies of the molecular basis of eukaryotic transcription.” His work on the RNA polymerase II complex and the mediator complex built upon the foundational understanding of chromatin structure that this 1974 paper helped establish.</p>

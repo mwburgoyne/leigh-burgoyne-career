@@ -1,0 +1,83 @@
+id: 2025_catcheside_burgoyne_macrofungi_high_MW_DNA
+title: Methodology for Extracting High-Molecular-Weight DNA from Field Collections of Macrofungi
+page_title: 2025 — Methodology for Extracting High-Molecular-Weight DNA from Field Collections of Macrofungi
+authors:
+- Leigh A. Burgoyne
+- Andy R. Nilsen
+- Teresa Lebel
+- Pamela S. Catcheside
+- Tom W. May
+- David Orlovich
+- Alan Kuo
+- Anna Lipzen
+- Kurt Labutti
+- Robert Riley
+- William Andreopoulos
+- Maxim Koriabine
+- Mi Yan
+- Vivian Ng
+- Igor V. Grigoriev
+- David E. A. Catcheside
+authors_affiliation: null
+venue: <em>Journal of Fungi</em>, 11, 490 (2025)
+paper_number: null
+doi: 10.3390/jof11070490
+funding: null
+citations: 1
+citations_source: OpenAlex (DOI)
+tags:
+- DNA extraction
+- Macrofungi
+- High-molecular-weight DNA
+- Chromatin isolation
+- Long-read sequencing
+- Mycology
+- Field collection
+- Genomics
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '2025'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2025 - Methodology for Extracting High-Molecular-Weight DNA from Field Collections of Macrofungi.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This 2025 paper is a remarkable late-career publication by <mark>Leigh A. Burgoyne</mark>, Emeritus Professor at Flinders University, who is listed as first author and credited with designing the extraction protocol, performing the extractions, and writing the paper. Published when <mark>Burgoyne</mark> was approximately 84 years old, it represents perhaps the most striking example of his career-long mastery of DNA biochemistry being applied to an entirely new domain: mycology and fungal genomics.</p><p>The collaboration with David E. A. Catcheside (corresponding author) has deep roots. Catcheside is a <em>Neurospora</em> geneticist at Flinders University, and <mark>Burgoyne’s</mark> earliest postdoctoral work was in the Giles lab (1969) working on <em>Neurospora</em>. The Catcheside connection also reaches back to the 2007 microbial forensics chapter (Pamela Catcheside as co-author). This paper thus bridges an extraordinary arc—from <mark>Burgoyne’s</mark> foundational 1973 discovery of chromatin substructure (the nucleosome ladder, with Hewish) through decades of DNA preservation technology (FTA cards, understanding of DNA degradation mechanisms), now channelled into solving a practical genomics problem for unculturable fungi.</p><p>The project involved a large international collaboration with the U.S. Department of Energy Joint Genome Institute (JGI), the University of Otago (New Zealand), the State Herbarium of South Australia, and the Royal Botanic Gardens Victoria, aimed at sequencing genomes of Australasian ectomycorrhizal and saprotrophic macrofungi, many of which cannot be cultured in the laboratory.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li>Developed a chromatin-isolation-based protocol for extracting high-molecular-weight DNA from field-collected macrofungi, yielding DNA with modal molecular lengths up to 38,000 bp suitable for long-read sequencing.</li>
+    <li>Introduced a field-collection strategy using isopropanol immersion with sodium carbonate-impregnated paper strips to stabilise tissue at ambient temperature in remote locations where cryostorage is impractical, drawing directly on <mark>Burgoyne’s</mark> deep understanding of DNA degradation mechanisms (depurination, free-radical damage, enzymatic cleavage).</li>
+    <li>Successfully prepared DNA from 64 preparations across 48 collections of 33 species, enabling assembly of 23 high-quality genomes with BUSCO completeness scores ranging from 95.5% to 98.9% and CEGMA scores from 97.8% to 99.6%.</li>
+    <li>Demonstrated that the key challenge is biological degradation prior to collection (insect damage, necrosis, apoptosis-like chromatin digestion), not the extraction method itself. It cites the nucleosomal ladder pattern that <mark>Burgoyne</mark> himself co-discovered in 1973 (Hewish &amp; Burgoyne) as diagnostic evidence of pre-collection DNA damage.</li>
+    <li>Showed that protecting DNA within chromatin during early purification steps, using polyamine-containing buffers, enables washing away of fungal metabolites before releasing the vulnerable naked DNA, an elegant application of chromatin biology to a practical problem.</li>
+    <li>Identified that pulse-field electrophoresis could rescue preparations contaminated with low-molecular-weight DNA, and that yields of 25–80 μg of DNA per 200 mg of dry fungus were typical for good-quality samples.</li>
+    </ul><div class="influence-box">
+    <h2>Significance &amp; Contribution</h2>
+    <p>This paper is a masterclass in applied DNA biochemistry, bringing together threads from across <mark>Burgoyne’s</mark> entire career. His 1973 co-discovery of the nucleosome ladder (chromatin substructure) is directly cited—the same ~200 bp periodicity pattern is used diagnostically to identify pre-collection DNA damage in fungal tissue. His decades of work on DNA preservation and degradation (FTA technology, photosensitiser-mediated DNA damage, understanding of depurination and free-radical mechanisms) directly inform the collection and extraction strategies. The chromatin-isolation approach exploits his fundamental understanding of how DNA is packaged and protected in vivo. Published in his mid-eighties, this paper demonstrates that <mark>Burgoyne’s</mark> expertise remained at the cutting edge, enabling a new generation of fungal genome projects that would otherwise be impossible for species that resist laboratory culture.</p>
+    </div><div class="connections-box">
+    <h2>Knowledge Built Upon</h2>
+    <ul>
+    <li><strong>Hewish &amp; <mark>Burgoyne</mark> (1973)</strong> — Chromatin substructure discovery; the nucleosomal digestion ladder is directly cited as a diagnostic marker of DNA degradation in collected fungi</li>
+    <li><strong>Seah &amp; <mark>Burgoyne</mark> (2001)</strong> — Photosensitiser-initiated DNA damage under dry conditions; directly cited as the basis for processing DNA in subdued light</li>
+    <li><strong>FTA technology and DNA preservation work (1990s–2000s)</strong> — Decades of understanding DNA stabilisation at ambient temperature, informing the isopropanol/carbonate field-collection strategy</li>
+    <li><strong>Burgoyne, Waqar &amp; Atkinson (1970)</strong> — Discovery of the Ca<sup>2+</sup>-dependent endonuclease; the understanding of endogenous nuclease activity that degrades chromatin DNA directly informs the extraction protocol’s strategy of protecting DNA within chromatin</li>
+    <li><strong><mark>Burgoyne’s</mark> postdoctoral <em>Neurospora</em> work (1969, Giles lab)</strong> — The fungal genetics connection that ultimately links to the Catcheside collaboration</li>
+    <li><strong>Catcheside &amp; <mark>Burgoyne</mark> (2007)</strong> — Microbial forensics chapter with Pamela Catcheside, an earlier node in this collaborative network</li>
+    </ul>
+    </div><div class="connections-box">
+    <h2>What It Contributed To</h2>
+    <ul>
+    <li>Enabled the assembly of 23 high-quality genomes of Australasian macrofungi, deposited at the JGI MycoCosm portal, a significant contribution to fungal genomic resources</li>
+    <li>Provides a reproducible protocol for the wider mycological community to obtain sequencing-quality DNA from unculturable fungi collected in remote field locations</li>
+    <li>Demonstrates the ongoing relevance of classical chromatin biology and DNA biochemistry in the era of long-read genomics</li>
+    <li>As <mark>Burgoyne’s</mark> most recent publication, it connects his earliest fundamental discoveries to contemporary applied genomics</li>
+    </ul>
+    </div>
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>David E. A. Catcheside</strong> — Corresponding author; <em>Neurospora</em> geneticist, Flinders University. Coordinated the project, collected samples, ran gels, co-wrote the paper. Connection to <mark>Burgoyne</mark> spans decades through fungal genetics and the Flinders department.</p><p><strong>Pamela S. Catcheside</strong> — State Herbarium of South Australia / Flinders University. Identified species and collected samples. Also co-author on 2007 microbial forensics chapter with <mark>Burgoyne</mark>.</p><p><strong>Igor V. Grigoriev</strong> — Corresponding author; JGI / UC Berkeley. Coordinated nucleic acid sequencing, genome assembly, and annotation at the Joint Genome Institute.</p><p><strong>Teresa Lebel</strong> — Flinders University / State Herbarium of South Australia. Fungal taxonomist; identified species and collected samples.</p><p><strong>Tom W. May</strong> — Royal Botanic Gardens Victoria. Fungal taxonomist; identified species and collected samples.</p><p><strong>Andy R. Nilsen</strong> — University of Otago, New Zealand. Tested the protocol on New Zealand fungi.</p><p><strong>David Orlovich</strong> — University of Otago, New Zealand. Identified species and collected samples.</p>

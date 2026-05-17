@@ -1,0 +1,74 @@
+id: 2002_burgoyne_dry_solid_medium_patent
+title: Dry Solid Medium for Storage and Analysis of Genetic Material (US 6,447,804 B1)
+page_title: 2002 — Dry Solid Medium for Storage and Analysis of Genetic Material (US 6,447,804)
+authors:
+- Leigh Alexander Burgoyne
+authors_affiliation: null
+venue: null
+paper_number: null
+doi: null
+funding: null
+citations: N/A (patent — not indexed in academic databases)
+tags:
+- FTA Technology
+- DNA Storage
+- Dry Solid Medium
+- Genetic Material Preservation
+- Means-Plus-Function Claims
+- Automated Analysis
+- PCR
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Whatman, plc (Kent, GB)
+- label: Patent Number
+  value_html: US 6,447,804 B1
+- label: Date of Patent
+  value_html: September 10, 2002
+- label: Filed
+  value_html: September 10, 1999 (Application No. 09/393,991)
+- label: Priority Date
+  value_html: October 5, 1988 (AU 0775/88)
+authors_label: Inventor
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2002 - Dry solid medium for storage and analysis of genetic material.pdf
+  text: View Original Patent (PDF)
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>US 6,447,804 B1, granted on September 10, 2002, is the twelfth issued patent in <mark>Burgoyne</mark>’s FTA technology family, continuing the lineage that traces back to the original Australian provisional application filed on October 5, 1988. This patent is a continuation-in-part of application 09/335,656 (which became US 6,294,203) and a continuation of application 08/574,888 (which became US 5,972,386). By 2002, Whatman plc was firmly established as the assignee for the FTA product line, and the patent portfolio was mature enough to require carefully crafted claims to navigate an increasingly crowded prior art landscape. This patent represents another strategic approach to claiming the core FTA technology — this time using means-plus-function language that defines the invention in terms of functional outcomes rather than purely structural components.</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Means-plus-function claim structure:</strong> The single claim uses functional language — “a preserving means,” “a means for performing a subsequent genetic analysis” — rather than specifying particular chemical compositions, giving the claim potentially broad scope under 35 U.S.C. §112, ¶6.</li>
+    <li><strong>Integrated storage and analysis platform:</strong> The claim explicitly combines three elements on a single dry solid medium: (a) a solid matrix for sorbing genetic material, (b) a preserving means to protect against degradation, and (c) a means for performing subsequent genetic analysis — unifying collection, preservation, and analytical functionality into one device.</li>
+    <li><strong>Broad analytical compatibility:</strong> The specification details compatibility with PCR, LCR, reverse transcriptase-initiated PCR, RFLP, genomic sequencing, enzymatic assays, affinity labeling, and antibody-based detection methods, establishing the medium as a universal platform.</li>
+    <li><strong>Wax-based retaining agent for analytical components:</strong> The patent elaborates on the use of wax carriers (e.g., paraffin) to retain pre-loaded PCR primers and other analytical components during aqueous washing, releasing them upon heating during the first PCR thermal cycle.</li>
+    <li><strong>Multi-well kit configuration for automated processing:</strong> Detailed description of 96-well plate configurations with pre-punched dry solid medium discs, enabling robotic sample transfer, tracking via bar codes, and high-throughput automated processing without human contact with blood samples.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>US 6,447,804 represents a strategically important continuation in <mark>Burgoyne</mark>’s FTA patent family, notable for its use of means-plus-function claim language. While earlier patents in the family defined the invention through specific chemical compositions (weak base, chelating agent, detergent, free radical trap), this patent claims the technology through functional outcomes — “preserving means” and “means for performing subsequent genetic analysis.” This approach provided complementary protection to the compositional claims in US 5,496,562 and its progeny. The single broad claim, combined with the extensive specification detailing multiple embodiments and analytical methods, served as an important defensive patent, covering the FTA technology from a different claim perspective. The detailed description of automated 96-well plate processing workflows was particularly forward-looking, anticipating the high-throughput laboratory automation that would become standard in forensic and clinical genetics laboratories.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><strong>US 5,496,562 (1996):</strong> The foundational FTA patent establishing the core composition of weak base, chelating agent, detergent, and free radical trap on a cellulose matrix — incorporated by reference.</li>
+    <li><strong>US 5,756,126 (1998):</strong> The analytical platform continuation-in-part that introduced pre-loaded PCR primers and components for subsequent analysis on the dry solid medium.</li>
+    <li><strong>US 5,972,386 (1999):</strong> The wax carrier retaining agent patent, whose paraffin-suspended primer technology is extensively described in this specification.</li>
+    <li><strong>US 6,294,203 (2001):</strong> The first Whatman plc-assigned patent using means-plus-function language, of which this patent is a direct continuation-in-part.</li>
+    <li><strong>McCabe et al. (1987):</strong> Prior art work on DNA microextraction from dried blood spots on filter paper, establishing the baseline that <mark>Burgoyne</mark>’s invention improved upon.</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Strengthened the overall FTA patent portfolio with a complementary means-plus-function claiming strategy, providing Whatman plc with additional enforcement options.</li>
+    <li>The detailed 96-well plate automated processing workflows described in the specification became the basis for Whatman’s FTA sample processing kits used in high-throughput forensic and clinical laboratories worldwide.</li>
+    <li>Supported the commercial expansion of FTA technology into newborn screening applications (PKU, galactosemia), with the converter solution enabling compatibility with standard enzymatic diagnostic assays.</li>
+    <li>Later FTA patent family members and international equivalents continued to build on the claims and specifications established across this patent and its predecessors.</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: '<p><strong><mark>Leigh Alexander Burgoyne</mark></strong> — Sole inventor. Assignee: Whatman plc, Kent (GB).</p>'

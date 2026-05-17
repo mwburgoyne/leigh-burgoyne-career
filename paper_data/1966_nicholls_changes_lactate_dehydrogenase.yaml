@@ -1,0 +1,69 @@
+id: 1966_nicholls_changes_lactate_dehydrogenase
+title: |-
+  Changes in the Properties of L-Lactate Dehydrogenase (Cytochrome b<sub>2</sub>) from Yeast During Preparation of the Crystalline Enzyme
+page_title: Nicholls, Atkinson, Burgoyne & Symons (1966) — Changes in L-Lactate Dehydrogenase
+authors:
+- R. G. Nicholls
+- M. R. Atkinson
+- L. A. Burgoyne
+- R. H. Symons
+authors_affiliation: null
+venue: Biochimica et Biophysica Acta, 122, 14–21
+paper_number: null
+doi: 10.1016/0926-6593(66)90087-7
+funding: null
+citations: 15
+citations_source: Crossref (title+author)
+tags:
+- Enzyme Biochemistry
+- Yeast
+- Cytochrome b2
+- Protein Crystallisation
+burgoyne_index: 2
+extra_meta:
+- label: Year
+  value_html: '1966'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1966 - Changes in the properties of l-lactate dehydrogenase (cytochrome b2) from yeast during preparation of the crystalline enzyme.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper was produced during Leigh Burgoyne's early career at the University of Adelaide, supported by a Nuffield Foundation research scholarship, working under R. H. Symons in the Departments of Agricultural Biochemistry and Biochemistry. Yeast cytochrome b<sub>2</sub> (L-lactate dehydrogenase, EC 1.1.2.3) had been crystallised by Appleby &amp; Morton in the 1950s, but the relationship between the crystalline enzyme and the native intracellular form was poorly understood. Labeyrie &amp; Slonimski had noted kinetic changes during purification but the mechanism was unexplained.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Single native form:</strong> Soluble and particulate fractions of yeast L-lactate dehydrogenase were shown to be identical by starch gel electrophoresis, supporting the conclusion that yeast contains a single molecular species of this enzyme.</li>
+    <li><strong>Modification during purification:</strong> On storage at 4°C after partial purification, the enzyme underwent progressive changes: the Michaelis constant (K<sub>m</sub>) for L-lactate increased (from 0.6 mM to 1.7 mM with ferricyanide; from 0.08 mM to 0.5 mM with cytochrome <em>c</em>), electrophoretic mobility increased, and multiple bands appeared.</li>
+    <li><strong>Modification is prerequisite for crystallisation:</strong> Using <sup>35</sup>S-labelled enzyme, the authors demonstrated that previously crystallised enzyme preferentially re-crystallised from mixtures with unmodified enzyme, proving that the conformational modification must precede crystallisation. Butanol saturated solutions prevented both the modification and crystallisation.</li>
+    <li><strong>DNA involvement:</strong> The paper also identified that partial breakdown of high molecular weight DNA during purification was a second, independent prerequisite for crystallisation, an early observation of DNA–protein interactions that foreshadowed Burgoyne's later career focus.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This was one of the earliest demonstrations that enzyme crystallisation can involve artefactual modification of the native protein, a cautionary finding for the broader enzymology community. It highlighted that crystalline enzyme preparations, widely used as "pure" reference standards, may not represent the physiological form.</p>
+    <p><strong>Career significance:</strong> This is among Burgoyne's earliest publications, produced during his postgraduate work at Adelaide. The observation of DNA's role in the crystallisation process represents an early intersection with nucleic acid biochemistry that would become central to his subsequent career.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Appleby &amp; Morton's crystallisation procedure for cytochrome b<sub>2</sub> (1954, 1959)</li>
+    <li>Somlo's work on particulate vs. soluble fractions (1962)</li>
+    <li>Labeyrie &amp; Slonimski's kinetic observations during purification (1964)</li>
+    <li>Symons' work on the DNA component of cytochrome b<sub>2</sub> (1965)</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>The companion paper by <a href="1966_burgoyne_DNA_component_cytochrome_b2.html">Burgoyne &amp; Symons (1966)</a> on the DNA component of cytochrome b<sub>2</sub></li>
+    <li>Burgoyne &amp; Symons' Methods in Enzymology chapter (1966) on the crystalline enzyme procedure</li>
+    <li><a href="1967_burgoyne_molecular_structure_cytochrome_b2.html">Burgoyne, Dyer &amp; Symons (1967)</a> ultrastructure study of crystalline cytochrome b<sub>2</sub></li>
+    <li>Broader enzymology literature on artefacts of protein purification</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>R. H. Symons</strong> — Burgoyne's PhD supervisor at Adelaide, specialist in nucleic acids and plant virology. <strong>M. R. Atkinson</strong> — biochemist at Adelaide who would also collaborate on the DNA synthesis work that followed. <strong>R. G. Nicholls</strong> — fellow postgraduate at Adelaide.</p>

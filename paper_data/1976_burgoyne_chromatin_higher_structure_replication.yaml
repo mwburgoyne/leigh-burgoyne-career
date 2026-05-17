@@ -1,0 +1,82 @@
+id: 1976_burgoyne_chromatin_higher_structure_replication
+title: |-
+  Chromatin Structure: A Property of the Higher Structure of Chromatin and the Time Course of Its Formation During Chromatin Replication
+page_title: Burgoyne, Mobbs & Marshall (1976) — Chromatin Higher Structure and Replication
+authors:
+- L. A. Burgoyne
+- J. D. Mobbs
+- A. J. Marshall
+authors_affiliation: null
+venue: Nucleic Acids Research, 3(12), 3293–3304
+paper_number: null
+doi: 10.1093/nar/3.12.3293
+funding: null
+citations: 23
+citations_source: Crossref (title+author)
+tags:
+- Chromatin Superstructure
+- DNase I Resistance
+- Chromatin Replication
+- Nucleosome Packing
+- Maturation
+- Higher-Order Structure
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '1976'
+- label: Received
+  value_html: 13 September 1976
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1976 - Chromatin structure a property of the higher structure of chromatin and the time course of its formation during chromatin replication.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By 1976, the nucleosome as the basic repeating unit of chromatin was well established. The next frontier was understanding how nucleosomes are packed into higher-order structures. This paper shifts Burgoyne's focus from the nucleosome level to chromatin superstructure — using differential nuclease susceptibility as a probe. The key insight is that DNase I resistance reveals a level of organisation <em>above</em> the nucleosome: a fragile but highly protective packing arrangement. The paper also introduces an elegant pulse-labelling approach to follow the kinetics of chromatin maturation after DNA replication in regenerating rat liver. A. J. Marshall appears as a new collaborator.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Resting chromatin is highly resistant to DNase I:</strong> Over 90 min of DNase I digestion, only ~0.5% of DNA was rendered acid-soluble in intact nuclei. The bulk DNA remained &gt;800 bp. This is a near-total resistance at the genome level.</li>
+    <li><strong>Trypsin destroys this resistance:</strong> When trypsin was added alongside DNase I, the DNA became rapidly and extensively degraded (~20% acid-soluble by 90 min). Trypsin removes histone H1 and modifies other histones, destroying the higher-order packing that protects against DNase I.</li>
+    <li><strong>Calcium also destroys the resistance:</strong> Adding 1 mM Ca<sup>2+</sup> (replacing EGTA) dramatically increased DNase I susceptibility (~40% acid-soluble by 90 min), possibly via Ca-Mg endonuclease action, Ca<sup>2+</sup>-stimulated proteases, or direct effects on DNase I catalysis.</li>
+    <li><strong>Micrococcal nuclease is NOT hindered by superstructure:</strong> In sharp contrast to DNase I, micrococcal nuclease attacked resting chromatin rapidly and trypsin had virtually no effect on its action. This means the superstructure specifically blocks DNase I (MW 31,000, ~41 Å diameter) but not micrococcal nuclease (MW 16,800, ~34 Å diameter) — suggesting a packing system with extremely uniform gap dimensions.</li>
+    <li><strong>Newly synthesized chromatin is transiently DNase I susceptible:</strong> Using intraportal <sup>3</sup>H-thymidine pulse labelling in regenerating rat liver, newly synthesized chromatin (3.2 min post-pulse) was as susceptible to DNase I as trypsinised chromatin. This susceptibility decreased rapidly over ~10 min to the near-complete resistance of mature chromatin.</li>
+    <li><strong>Three-stage maturation model proposed:</strong> Integrating with Weintraub's work on chick chromatin, Burgoyne proposed: (1) a very short initial DNase I-resistant phase (Weintraub), (2) a longer DNase I-susceptible phase (~3–10 min, this paper), (3) the final highly DNase I-resistant state of mature organised chromatin.</li>
+    <li><strong>Size-exclusion model for superstructure:</strong> The differential susceptibility to DNase I vs micrococcal nuclease suggests nucleosomes are packed so that each protects its neighbours from molecules &gt;~41 Å but not from molecules &lt;~34 Å. This implies extremely uniform inter-nucleosome spacing in the higher-order structure.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper represents an important conceptual advance — moving beyond the nucleosome itself to ask how nucleosomes are packed in three dimensions. The differential nuclease susceptibility approach (DNase I vs micrococcal nuclease, +/− trypsin) was an elegant experimental strategy. The chromatin maturation kinetics experiment was technically demanding (intraportal labelling, rapid sacrifice, nuclear isolation) and provided one of the first direct measurements of higher-order chromatin assembly time after replication. The similarity to Seale's findings in HeLa cells (1975) indicated this was a general phenomenon.</p>
+    <p><strong>Career significance:</strong> This paper marks the beginning of Burgoyne's sustained programme on chromatin higher-order structure that would continue through the 1980s. A. J. Marshall appears as a new collaborator — the first appearance of this name in the series. The paper also demonstrates Burgoyne's characteristic approach: using multiple enzyme probes on the same preparation to deduce structural features by differential sensitivity. Reference 1 cites Marshall &amp; Burgoyne (1976, same journal), indicating a companion paper.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1976_marshall_chromatin_extracts_interpretation.html">Marshall &amp; Burgoyne (1976)</a>: Companion paper on nuclear preparations (Nucleic Acid Res. 3, 1101)</li>
+    <li><a href="1975_burgoyne_CaMg_endonuclease_Asites.html">Burgoyne &amp; Mobbs (1975)</a>: Ca-Mg endonuclease A-site quantitative study</li>
+    <li>Hewish &amp; Burgoyne (1973): Chromatin substructure landmark</li>
+    <li>Burgoyne, Hewish &amp; Mobbs (1974): 2D PAGE chromatin substructure</li>
+    <li>Noll (1974): Micrococcal nuclease chromatin digestion</li>
+    <li>Weintraub (1973): DNase I susceptibility of newly replicated chick chromatin</li>
+    <li>Seale (1975): Post-synthetic DNase I susceptibility in HeLa cells</li>
+    <li>Oudet, Gross-Bellard &amp; Chambon (1975): Nucleosome visualisation</li>
+    <li>Bradbury (1976): Histone H1 role in higher-order chromatin structure</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Understanding of chromatin higher-order packing as a distinct structural level above the nucleosome</li>
+    <li>Size-exclusion model for inter-nucleosome gaps in the superstructure</li>
+    <li>Chromatin maturation kinetics after DNA replication (~10 min to reach full protection)</li>
+    <li>Later Burgoyne chromatin superstructure studies (1981–1987 alternating nucleosome series)</li>
+    <li>Broader field of DNase I hypersensitivity as a probe of chromatin structure and gene regulation</li>
+    <li>Burgoyne &amp; Bhakoo (1999) — pyknosis work connecting chromatin condensation to apoptotic cell death, extending the understanding of higher-order chromatin transitions</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>J. D. Mobbs (Jennifer Mobbs)</strong> — continuing co-author from the 1975 A-sites paper. <strong>A. J. Marshall</strong> — new collaborator, first appearance in the series; also has a companion paper (Marshall &amp; Burgoyne, 1976). Funded by the Australian Research Grants Committee and Flinders University Research Budget.</p>

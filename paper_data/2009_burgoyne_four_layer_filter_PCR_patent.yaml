@@ -1,0 +1,86 @@
+id: 2009_burgoyne_four_layer_filter_PCR_patent
+title: Methods Using Four-Layer Filter for PCR Sample Preparation (US 7,504,363 B2)
+page_title: 2009 — Methods Using Four-Layer Filter for PCR Sample Preparation (US 7,504,363 B2)
+authors:
+- Leigh Alexander Burgoyne
+- Mitcham
+authors_affiliation: AU
+venue: null
+paper_number: null
+doi: null
+funding: null
+citations: 1
+citations_source: cited by
+tags:
+- FTA Technology
+- PCR Sample Preparation
+- Multi-Layer Filtration
+- Virion Detection
+- Blood Screening
+- RT-PCR
+- DNA Array
+- Hepatitis C
+- Coxsackie Virus
+- Field Diagnostics
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Whatman, Inc., Florham Park, NJ (US)
+- label: Patent Number
+  value_html: US 7,504,363 B2
+- label: Date of Patent
+  value_html: March 17, 2009
+- label: Filed
+  value_html: 'December 17, 2004 (divisional of US 10/298,255, filed November 15, 2002; Provisional: November 15, 2001)'
+- label: Parent Patent
+  value_html: US 6,869,769
+- label: Claims
+  value_html: 17 (methods)
+authors_label: Inventor
+citations_approx: true
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2009 - Methods using four-layer filter for PCR sample preparation.pdf
+  text: View Original Patent (PDF)
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By the early 2000s, <mark>Burgoyne’s</mark> FTA technology had become widely adopted for collecting and storing DNA on solid media, but a significant challenge remained in the detection of viral and bacterial pathogens from biological fluids. Existing RT-PCR screening methods relied on highly specific primers, which could only detect known virion species and occasionally missed extreme sequence variants. Random primer approaches, while broader in scope, suffered from low amplification efficiency and interfered with DNA array analysis. Meanwhile, the collection of samples from biological fluids such as blood required separation of the serum fraction from cellular components — typically achieved with a laboratory centrifuge, making field deployment impractical. This patent addressed both problems simultaneously: a disposable, multi-layer filtration device that acts as a “field substitute for a microcentrifuge,” combined with a low-specificity, high-gain PCR amplification strategy.</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Four-layer disposable filtration device:</strong> A composite device comprising (1) a collection layer of neutral porous matrix with dry anticoagulant (Tris-EDTA) or liquefying agent (thiol for saliva); (2) a filter layer with particle size limit that precludes eukaryotic cells but passes prokaryotic cells and virions; (3) a reagent-free separator layer acting as a break-point; and (4) an isolation/storage layer comprising FTA-coated material with high-concentration SDS that captures, lyses, and preserves virion nucleic acids.</li>
+    <li><strong>Field-deployable “disposable centrifuge”:</strong> Blood or saliva applied to the top layer is drawn by capillary action through the device, with cells retained at the filter layer while serum containing virions passes through to the FTA isolation layer — no centrifuge or laboratory equipment required.</li>
+    <li><strong>Self-sterilising design:</strong> After filtration ceases, SDS back-diffuses from the FTA layer upward through the device, killing cells retained on the filter layer and sterilising the entire apparatus for safe storage and transport.</li>
+    <li><strong>Optional capping layer:</strong> An SDS-impregnated porous stopper with adhesive edge seals the device after use, ensuring biosafety during desiccated storage and mailing.</li>
+    <li><strong>Low-specificity, high-gain PCR method:</strong> Uses only 2–3 non-random primers (derived from known virion sequences such as hepatitis C) under slightly reduced stringency conditions with long-range PCR, enabling amplification of a broad sample of any virion genome — known or unknown, RNA or DNA.</li>
+    <li><strong>DNA array compatible:</strong> Because only a few defined primers are used (not random primers), free primer and primer-dimer effects can be predicted and blocked during DNA array analysis.</li>
+    <li><strong>Demonstrated with hepatitis C and Coxsackie virus:</strong> Successful RT-PCR amplification of hepatitis C from contaminated serum stored on FTA paper, and broad amplification of non-homologous Coxsackie virus B4 genome using unrelated hepatitis C primers.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This patent represents the culmination of <mark>Burgoyne’s</mark> decade-long effort to transform FTA technology from a DNA storage medium into a complete field-to-laboratory diagnostic pipeline. The four-layer device eliminated the need for a centrifuge in the field, making it possible to collect, filter, preserve, and transport biological samples for viral screening using nothing more than a disposable card and a desiccant. The accompanying PCR method was remarkably forward-looking: by using non-random but low-specificity primers, it could detect not just targeted pathogens but also previously unknown virions and extreme sequence variants — essentially a broad-spectrum molecular surveillance tool. This was particularly relevant for mass screening programmes, field epidemiology in resource-limited settings, and the discovery of novel pathogens.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><mark>Burgoyne</mark> FTA patents: US 5,496,562 (1996) through US 6,294,203 (2001) — foundational solid medium DNA storage and processing technology</li>
+    <li>Rogers &amp; <mark>Burgoyne</mark> (1997): Bacterial typing from FTA-stored bacteria without DNA extraction</li>
+    <li>Rogers &amp; <mark>Burgoyne</mark> (2000): Reverse transcription of RNA virus genome directly from FTA paper</li>
+    <li>Parent patent US 6,869,769 (2005): Device and kit claims for the four-layer filter system</li>
+    <li>Panteleeff et al. (1999): Screening dried blood on filter paper for HIV-1 DNA</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Field-deployable pathogen surveillance in resource-limited settings without laboratory centrifugation</li>
+    <li>Mass screening programmes for blood-borne viruses (HIV, hepatitis C) using disposable collection devices</li>
+    <li>Broad-spectrum virion discovery protocols combining low-specificity PCR with DNA microarray analysis</li>
+    <li>Detection of novel and variant pathogens through cross-reactive, non-random primer amplification strategies</li>
+    <li>Extended the Whatman FTA commercial product line into virology and public health diagnostics</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators / Inventors
+  body_html: |-
+    <p><strong><mark>Leigh Alexander Burgoyne</mark></strong> — Sole inventor. Assignee: Whatman, Inc., Florham Park, NJ. The patent draws on the earlier experimental work of Craig Rogers (Flinders University), referenced as co-author on the key enabling publications (Rogers &amp; <mark>Burgoyne</mark> 1997, 2000).</p>

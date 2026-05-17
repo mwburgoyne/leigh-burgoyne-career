@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page_title }}</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body class="page-summary">
+
+<a class="back-link" href="../index.html">&larr; Back to Career Arc</a>
+
+<h1>{{ title | safe }}</h1>
+{% if subtitle_html %}{{ subtitle_html | safe }}
+{% endif %}
+<div class="meta">
+  <p><strong>{{ authors_label or 'Authors' }}:</strong> {{ authors_html }}{% if authors_affiliation %} ({{ authors_affiliation }}){% endif %}</p>
+  {%- if venue %}
+  <p><strong>{{ venue_label or 'Venue' }}:</strong> {{ venue | safe }}</p>
+  {%- endif %}
+  {%- if paper_number %}
+  <p><strong>Paper number:</strong> {{ paper_number }}</p>
+  {%- endif %}
+  {%- if doi %}
+  <p><strong>DOI:</strong> <a href="https://doi.org/{{ doi }}">{{ doi }}</a></p>
+  {%- endif %}
+  {%- if funding %}
+  <p><strong>Funding:</strong> {{ funding }}</p>
+  {%- endif %}
+  {%- for m in extra_meta or [] %}
+  <p><strong>{{ m.label }}:</strong> {{ m.value_html | safe }}</p>
+  {%- endfor %}
+  {%- if citations is not none or citations_source or citations_note %}
+  <p><strong>Citations:</strong> {% if citations is none %}not catalogued{% else %}{% if citations_approx %}~{% endif %}{% if citations is number %}{{ "{:,}".format(citations) }}{% else %}{{ citations }}{% endif %}{% endif %}{% if citations_source %} ({{ citations_source.split(' (')[0] }}){% endif %}{% if citations_note %} &mdash; {{ citations_note }}{% endif %}</p>
+  {%- endif %}
+  {%- for note in meta_notes or [] %}
+  <p>{{ note | safe }}</p>
+  {%- endfor %}
+  <p>{% if landmark_inline_text %}<span class="landmark-inline">{{ landmark_inline_text | safe }}</span> {% endif %}{% for tag in tags %}<span class="tag">{{ tag | safe }}</span> {% endfor %}</p>
+</div>
+{% if pdf_link and not is_sanitised %}
+<a class="pdf-link" href="{{ pdf_link.href }}">{{ pdf_link.text }}</a>
+{% endif %}
+{% if landmark %}
+<div class="landmark-box">
+{{ landmark_html | safe }}
+</div>
+{% endif %}
+{% if preamble_html %}
+{{ preamble_html | safe }}
+{% endif %}
+{% for section in sections %}
+<h2>{{ section.heading }}</h2>
+{% if section.box_style %}<div class="{{ section.box_style }}">
+{{ section.body_html | safe }}
+</div>
+{% else %}
+{{ section.body_html | safe }}
+{% endif %}
+{% endfor %}
+
+<a class="back-link" href="../index.html" style="display:inline-block;margin-top:30px;">&larr; Back to Career Arc</a>
+
+</body>
+</html>

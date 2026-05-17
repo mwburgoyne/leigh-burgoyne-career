@@ -1,0 +1,84 @@
+id: 1987_davis_disomal_series_16N
+title: 'The DNase I Generated Disomal Series Is Coherent to 16N: Implications for Coiling Models of Chromatin Structure'
+page_title: Davis & Burgoyne (1987) — DNase I Disomal Series Coherent to 16N
+authors:
+- S.J. Davis
+- L.A. Burgoyne
+authors_affiliation: null
+venue: FEBS Letters, 226(1), 88–90
+paper_number: null
+doi: 10.1016/0014-5793(87)80556-2
+funding: null
+citations: 1
+citations_source: Crossref (title+author)
+tags:
+- Chromatin Superstructure
+- Dinucleosome
+- DNase I
+- Disomal Series
+- 16N Coherence
+- Coil Models Critique
+- Back-to-Back Folding
+- Field-Inversion Gel Electrophoresis
+- Klenow End-Labelling
+- Chicken Erythrocytes
+burgoyne_index: 1
+extra_meta:
+- label: Affiliation
+  value_html: School of Biology, Flinders University, Bedford Park, South Australia 5042, Australia
+- label: Year
+  value_html: '1987'
+- label: Received
+  value_html: 12 October 1987
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1987 -The DNase I generated disomal series is coherent to 16N Implications for coiling models of chromatin structure.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This short communication in FEBS Letters is the companion paper to the comprehensive <a href="1987_drinkwater_chromatin_mixed_patterns.html">Drinkwater, Wilson, Skinner &amp; Burgoyne (1987)</a> Nucleic Acids Research study on chromatin mixed patterns (paper #27). While the NAR paper provided the broad structural framework and systematic critique of coil models, this paper delivers a focused experimental test: can the DNase I-generated disomal (2N) series be extended to its maximum using improved resolution techniques? The Burgoyne lab had previously tracked the 2N series to 10–12N using standard gel electrophoresis (Burgoyne &amp; Skinner 1982). Here, two technical advances — Klenow end-labelling with [<sup>32</sup>P]dATP (eliminating the overloading required for ethidium bromide staining) and field-inversion gel electrophoresis (FIGE, a recently developed technique for separating large DNA fragments) — are combined to push the resolution to its limit. S.J. Davis is a new first-author collaborator, not seen in previous Burgoyne lab papers. The correspondence address lists Davis, suggesting this may have been a student project or short-term collaboration.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Disomal series coherent to 16N:</strong> Using ferritin-DNase I probes on permeabilised chicken erythrocytes, the 2N series was clearly resolved up to the 16N level (i.e., fragments corresponding to 16 nucleosomes, ~3.2 kb) without any break in coherence or degeneration into a 1N series. This extends the earlier observation of 10–12N (Burgoyne &amp; Skinner 1982) by 4–6 orders.</li>
+    <li><strong>No break in coherence predicted by coil models:</strong> Bridge-crossing coil models (e.g., Williams et al. 1986; Staynov 1983) predict that the disomal series should lose coherence at approximately 6N, where the first cyclic change in nucleosome exposure occurs as the coil completes its turn. No such break was observed at any point up to 16N.</li>
+    <li><strong>No “coil signature” detected:</strong> If chromatin were organised as a regular coil, a preferentially generated class of fragments with a length equal to the coil cycle should appear. No such signature class was found, providing strong circumstantial evidence against regular coil models.</li>
+    <li><strong>Technical advances enabling resolution:</strong> Two methods were critical: (1) Klenow fragment end-labelling with [<sup>32</sup>P]dATP allowed loading of only 75 ng DNA per lane (vs. micrograms for ethidium bromide), eliminating overloading artefacts; (2) field-inversion gel electrophoresis (FIGE) with ramped forward/backward fields provided superior separation of large fragments compared to standard electrophoresis.</li>
+    <li><strong>Coiling models incompatible:</strong> To accommodate a coherent 2N series to 16N, bridge-crossing coil models would require at least 14–16 nucleosomes per turn, producing coil diameters considerably larger than the accepted 30 nm fibre width and requiring unreasonably long linker DNA.</li>
+    <li><strong>Support for back-to-back double-stranded model:</strong> The authors propose that the data strongly support simple “back-to-back” double-stranded structures within chromatin — linear folds of DNA rather than coils — as the only model compatible with both the extended coherent disomal series and the absence of a coil signature.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper provides the strongest single piece of evidence against bridge-crossing coil models of the 30 nm chromatin fibre. By extending the coherent disomal series from 10–12N to 16N — well beyond the ~6N break point predicted by coil models — it eliminates a broad class of chromatin structure models. The simultaneous absence of a coil signature reinforces the argument. The result is parsimonious: only the back-to-back zigzag nucleofilament model, championed by the Burgoyne lab since 1981, can explain an indefinitely coherent 2N series without requiring implausible structural parameters. The adoption of FIGE technology (Carle, Frank &amp; Olsen 1986) for chromatin digestion analysis was methodologically novel.</p>
+    <p><strong>Career significance:</strong> This is one of the last papers in Burgoyne’s Phase 3 chromatin superstructure programme (1975–1987). Together with the companion Drinkwater et al. 1987 NAR paper, it represents the culmination of the dinucleosome research line that began with the 1981 BBRC paper. S.J. Davis appears as first author — a new collaborator, likely a student or postdoc given the focused, short-communication nature of the work. Published in FEBS Letters, a rapid-communication journal, reflecting the paper’s sharp experimental focus. Funded by the Australian Research Grants Scheme.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1981_burgoyne_chromatin_superstructure_alternating.html">Burgoyne &amp; Skinner (1981)</a> BBRC: Fe-DNase I probe concept, discovery of 2N dinucleosomal repeat, alternating nucleosome exposure model</li>
+    <li><a href="1982_burgoyne_avian_erythrocyte_dinucleosomal.html">Burgoyne &amp; Skinner (1982)</a> NAR: Extension of avian erythrocyte disomal series to 10–12N using standard electrophoresis</li>
+    <li><a href="1985_burgoyne_back_to_back_zigzag_chromatin.html">Burgoyne (1985)</a> Cytobios 43: Theoretical review of chromatin models, back-to-back double-stranded nucleofilament concept</li>
+    <li>Williams, Athey, Muglia, Schappe, Gough &amp; Langmore (1986) Biophys. J.: Double helical crossed-linker (bridge-crossing) coil model</li>
+    <li>Staynov (1983) Int. J. Biol. Macromol.: Coiling model with predicted disomal series break</li>
+    <li>Carle, Frank &amp; Olsen (1986) Science: Field-inversion gel electrophoresis technique for large DNA separation</li>
+    <li>Ris &amp; Chandler (1963); Ris (1967): EM evidence for double-stranded chromatin fibres</li>
+    <li>Lindikeit et al. (1977): EM evidence for double-stranded chromatin</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Definitive extension of the disomal series to 16N, eliminating bridge-crossing coil models</li>
+    <li>Strongest single argument from the Burgoyne lab against solenoid/coil models of the 30 nm fibre</li>
+    <li>Companion to Drinkwater et al. 1987 NAR paper: together they form the climactic double publication of the chromatin superstructure programme</li>
+    <li>Final support for the back-to-back zigzag nucleofilament model as the primary alternative to coil models</li>
+    <li>Methodological introduction of FIGE and radiolabelling for high-resolution chromatin digestion analysis</li>
+    <li>Marks the final publication in the probe-based dinucleosomal repeat series, though chromatin conformation themes continued in later work (1991-1992 phosphorylation studies, 1999 pyknosis paper, and beyond)</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>S.J. Davis</strong> — first author, new collaborator at School of Biology, Flinders University. Listed as correspondence address, suggesting possibly a student or postdoc leading this focused project. Not seen in any earlier or later Burgoyne lab papers in this collection. Funded by the Australian Research Grants Scheme.</p>

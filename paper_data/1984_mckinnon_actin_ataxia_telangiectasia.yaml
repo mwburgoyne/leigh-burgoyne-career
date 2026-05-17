@@ -1,0 +1,78 @@
+id: 1984_mckinnon_actin_ataxia_telangiectasia
+title: |-
+  Regulation of the Cellular Actin Levels in Response to Changes in the Cell Density in Ataxia Telangiectasia Lymphoblastoid Cells
+page_title: McKinnon & Burgoyne (1984) — Actin Regulation in Ataxia Telangiectasia
+authors:
+- Peter J. McKinnon
+- L. A. Burgoyne
+authors_affiliation: null
+venue: Biochemical and Biophysical Research Communications, 119(2), 561–566
+paper_number: null
+doi: 10.1016/s0006-291x(84)80285-5
+funding: null
+citations: 6
+citations_source: Crossref (title+author)
+tags:
+- Ataxia Telangiectasia
+- Actin Regulation
+- Cell Density
+- 37K Protein
+- Lymphoblastoid
+- Protein Expression
+- Disease Biology
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1984'
+- label: Received
+  value_html: 25 January 1984
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1984 - Regulation of the cellular actin levels in response to changes in the cell density in ataxia telangiectasia lymphoblastoid cells.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper marks a significant shift in Burgoyne’s research from pure chromatin structure to disease-associated cell biology. Ataxia telangiectasia (AT) is a rare autosomal recessive disorder characterised by progressive cerebellar ataxia, telangiectasias, immune deficiency, cancer predisposition, and extreme sensitivity to ionising radiation. The connection to Burgoyne’s chromatin work is through actin: the 1982 dinucleosomal repeat paper had noted that actin binds DNase I and is a common chromatin contaminant/component. Here, McKinnon and Burgoyne discover an unusual density-dependent regulation of actin levels specific to AT lymphoblastoid cells. Peter J. McKinnon is a new collaborator — likely a PhD student who later became a prominent neuroscientist specialising in DNA damage response and neurodegeneration at St. Jude Children’s Research Hospital.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Density-dependent actin decrease in AT cells:</strong> When AT lymphoblastoid cells (AT1ABR) were stepped from low to high density culture conditions, actin (43K dalton protein) levels decreased markedly on SDS-PAGE gels.</li>
+    <li><strong>Reciprocal 37K protein induction:</strong> As actin levels decreased, a 37K dalton protein increased by orders of magnitude. At maximal induction, the 37K protein became one of the most abundant cellular proteins.</li>
+    <li><strong>37K protein is NOT an actin derivative:</strong> V-8 protease partial proteolytic fingerprinting showed completely different peptide patterns for the 37K protein and actin; the two proteins are structurally unrelated.</li>
+    <li><strong>43K protein confirmed as actin:</strong> Identified by electrophoretic mobility, abundance, and immunoprecipitation with rabbit anti-actin antibodies.</li>
+    <li><strong>AT-specific phenomenon:</strong> Observed in 3 of 4 AT cell lines (AT1ABR, AT3ABR, AT5ABR) but <em>not</em> in normal control lymphoblastoid lines (C5ABR, C10ABR). The exception (AT4ABR) may reflect the known genetic heterogeneity in AT complementation groups.</li>
+    <li><strong>Not due to serum deprivation:</strong> The 37K protein induction still occurred when foetal calf serum was present, ruling out nutrient stress as the cause.</li>
+    <li><strong>Not of EBV viral origin:</strong> The known EBV antigens in transformed cell lines do not correspond to the 37K protein, and its induction pattern does not match lytic cycle activation.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper reports a novel, disease-specific abnormality in actin regulation — the first report of this type of density-dependent actin regulation. While the mechanism remained unclear, the observation that AT cells show dramatically altered actin dynamics at high density is significant because actin is involved in numerous cellular functions (endocytosis, receptor internalisation, cell motility, microfilament integrity). The finding anticipated later understanding that AT (caused by ATM kinase mutations) involves widespread cellular dysfunction beyond just DNA repair, including cytoskeletal regulation and cell signalling.</p>
+    <p><strong>Career significance:</strong> This paper represents a new research direction for Burgoyne — moving from chromatin biochemistry into disease cell biology. The connection to his chromatin work is through actin (noted as a DNase I-binding chromatin component in the 1982 paper). Peter J. McKinnon as first author suggests he was a student or early-career researcher in Burgoyne’s lab; McKinnon later became an internationally recognised expert on ATM/DNA damage and neurodegeneration. The AT cell lines were supplied by Paula Imray and Jane Houldsworth, indicating collaboration with the Australian AT research community (M. F. Lavin et al.).</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1982_burgoyne_avian_erythrocyte_dinucleosomal.html">Burgoyne &amp; Skinner (1982)</a>: DNase I-actin interaction noted in chromatin studies</li>
+    <li>Lavin, Ford &amp; Houldsworth (1982): AT cell line characterisation</li>
+    <li>Murnane &amp; Painter (1982): AT radiation sensitivity, PNAS</li>
+    <li>Jaspers &amp; Bootsma (1982): AT genetic heterogeneity, PNAS</li>
+    <li>Fryberg et al. (1981): Actin multigene family</li>
+    <li>Craig &amp; Pollard (1982): Actin-binding proteins and regulation</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>First report of density-dependent actin regulation specific to AT cells</li>
+    <li>Evidence that AT involves cytoskeletal/protein regulation abnormalities beyond DNA repair</li>
+    <li>Foundation for the 1985 follow-up paper on the actin-derived protein in AT</li>
+    <li>Connection between chromatin biology (actin-DNase I) and disease phenotypes</li>
+    <li>Early contribution to the growing AT literature that culminated in ATM gene cloning (1995)</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Peter J. McKinnon</strong> — new collaborator, first author (likely PhD student; later became a leading researcher on ATM/DNA damage and neurodegeneration at St. Jude Children’s Research Hospital, Memphis). Cell lines supplied by <strong>Paula Imray</strong> and <strong>Jane Houldsworth</strong> (Australian AT research community). No specific funding acknowledgement listed.</p>

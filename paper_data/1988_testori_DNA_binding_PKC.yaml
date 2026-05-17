@@ -1,0 +1,73 @@
+id: 1988_testori_DNA_binding_PKC
+title: DNA-Binding Proteins in Protein Kinase C Preparations
+page_title: Testori, Hii, Fournier, Burgoyne & Murray (1988) — DNA-Binding Proteins in PKC Preparations
+authors:
+- Alessandro Testori
+- Charles S.T. Hii
+- Agnes Fournier
+- Leigh A. Burgoyne & Andrew W. Murray
+authors_affiliation: null
+venue: Biochemical and Biophysical Research Communications, 156(1), 222–227
+paper_number: null
+doi: 10.1016/s0006-291x(88)80828-3
+funding: null
+citations: 13
+citations_source: Crossref (title+author)
+tags:
+- Protein Kinase C
+- DNA-Binding Proteins
+- Repetitive DNA
+- Cell Signalling
+- Gene Regulation
+- Zinc Finger Motif
+- Mobility Shift Assay
+burgoyne_index: 3
+extra_meta:
+- label: Year
+  value_html: '1988'
+- label: Affiliation
+  value_html: School of Biological Sciences, Flinders University, Bedford Park, South Australia
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1988 - DNA-binding proteins in protein kinase C preparations.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By 1988, protein kinase C (PKC) had been identified as a central mediator of tumour-promoting phorbol ester signalling and a key component of the phosphatidylinositol transmembrane signalling pathway. While PKC was known to cause changes in gene expression following activation by phorbol esters like TPA, the prevailing assumption was that PKC influenced gene expression only indirectly, via phosphorylation cascades. However, PKC’s amino-terminal structure contained a conserved cysteine-rich tandem repeat resembling motifs found in metalloproteins and DNA-binding proteins, raising a provocative question: could PKC, or a fragment of it, directly bind DNA? This paper sits at a fascinating intersection of Burgoyne’s expertise in DNA and chromatin biochemistry with the Murray laboratory’s strength in protein kinase C signalling. Andrew W. Murray is a different person from the A. W. Murray who co-authored the 1971 purine metabolism paper.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Sequence-selective DNA binding:</strong> Human DNA enriched in repetitive sequences specifically bound to a component or components present in highly purified rat brain PKC preparations. The binding was sequence-selective, resistant to competition with excess poly(d[I-C]) non-specific competitor DNA.</li>
+    <li><strong>Cloning of binding fragments:</strong> DNA fragments that bound to PKC preparations were cloned in pUC-19, yielding four clones with PKC-binding inserts, including one (C-II) with an approximately 140 bp insert.</li>
+    <li><strong>Mobility-shift confirmation:</strong> Incubation with purified PKC preparations caused the selective disappearance of a 170 bp band containing the intact binding site near an internal SalI restriction site, while a closely related 150 bp control fragment (with the site cleaved) was unaffected.</li>
+    <li><strong>Identity caveat:</strong> The authors noted that whether the binding protein was PKC itself, a PKC fragment, or a co-purifying contaminant could not be definitively established from these experiments alone.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper raised the provocative possibility that PKC or a PKC-derived fragment could function as a sequence-selective DNA-binding protein, offering a potential direct mechanism by which PKC activation could influence gene expression — bypassing the need for intermediate phosphorylation cascades. It was an early example of exploring whether signalling kinases might have direct nuclear functions, a concept that would gain wider acceptance in subsequent years.</p>
+    <p><strong>Career significance:</strong> This paper represents a collaborative side-branch, bridging Burgoyne’s DNA and repetitive sequence expertise with the cell signalling focus of the Murray laboratory at Flinders. It is the only paper in Burgoyne’s bibliography that directly addresses signal transduction. The collaboration with A. Testori, C.S.T. Hii, and A. Fournier reflects Burgoyne’s willingness to contribute DNA expertise to adjacent fields.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>PKC identification as phorbol ester receptor (Castagna et al. 1982; Nishizuka 1986)</li>
+    <li>Cysteine-rich tandem repeat in PKC resembling zinc-finger DNA-binding domains (Parker et al. 1986)</li>
+    <li>Murray, Fournier &amp; Hardy (1987): PKC structural motif analysis</li>
+    <li>Phorbol ester-induced gene expression changes (Chiu et al. 1987; Angel et al. 1987)</li>
+    <li>Burgoyne’s prior work on human repetitive DNA and DNA-protein interactions</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Investigations of direct nuclear roles for signalling kinases</li>
+    <li>DNA-affinity chromatography approaches to identify DNA-binding components in kinase preparations</li>
+    <li>Understanding of functional significance of cysteine-rich zinc-finger-like domains in PKC</li>
+    <li>Bridging Burgoyne’s chromatin/DNA biochemistry with cell signalling research</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Andrew W. Murray</strong> — Senior collaborator and PKC signalling expert at Flinders University. <strong>Alessandro Testori</strong> — Lead experimental contributor on DNA-binding and cloning experiments. <strong>Charles S.T. Hii</strong> — Co-investigator in PKC purification and characterisation. <strong>Agnes Fournier</strong> — Collaborator with prior work on PKC fragments.</p>

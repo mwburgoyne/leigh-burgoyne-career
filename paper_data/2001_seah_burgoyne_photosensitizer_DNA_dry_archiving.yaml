@@ -1,0 +1,94 @@
+id: 2001_seah_burgoyne_photosensitizer_DNA_dry_archiving
+title: 'Photosensitizer Initiated Attacks on DNA Under Dry Conditions and Their Inhibition: A DNA Archiving Issue'
+page_title: 2001 — Photosensitizer Initiated Attacks on DNA Under Dry Conditions
+authors:
+- L.H. Seah
+- L.A. Burgoyne
+authors_affiliation: null
+venue: 'Journal of Photochemistry and Photobiology B: Biology, 61, 10–20'
+paper_number: null
+doi: 10.1016/S1011-1344(01)00132-4
+funding: null
+citations: 9
+citations_source: Semantic Scholar (DOI)
+tags:
+- FTA Technology
+- DNA Archiving
+- Photosensitization
+- DNA Damage
+- Singlet Oxygen
+- Methylene Blue
+- Riboflavin
+- Free Radicals
+- Tris–Urate
+- DNA Hydration
+- Oxidative Damage
+- DNA Preservation
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '2001'
+- label: PMID
+  value_html: <a href="https://pubmed.ncbi.nlm.nih.gov/11485843">11485843</a>
+- label: Received
+  value_html: '9 November 2000; Accepted: 4 May 2001'
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University of South Australia, Bedford Park, SA 5042
+- label: Phase
+  value_html: Phase 4 — DNA Forensics, FTA Technology & Applied Biology
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/2001 - Photosensitizer initiated attacks on DNA under dry conditions and their inhibition a DNA archiving issue.pdf
+  text: View Original PDF
+sections:
+- heading: Related Conference Poster
+  body_html: |-
+    <ul>
+    <li><a href="../burgoyne_papers/posters/2000 - DNA Integrity on Databasing Material (Seah and Burgoyne poster).pdf">The Study of DNA Integrity on Databasing Material: An In-situ Electrophoretic Method</a> — poster by Seah &amp; Burgoyne (c. 2000)</li>
+    </ul>
+- heading: Context & Background
+  body_html: |-
+    <p>By 2001, Burgoyne’s FTA card technology was commercially deployed for forensic DNA databasing, newborn screening, and biodiversity sampling, with seven US patents granted. The Tris–urate chemistry embedded in FTA cards was specifically designed to protect DNA from free radical attack, but the mechanistic basis for this protection under dry conditions had not been rigorously investigated. Previous photosensitization studies had focused exclusively on DNA damage in aqueous environments. This paper addresses a fundamental question: what kinds of reactive species attack dry DNA, and can the Tris–urate formulation actually block them?</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Dry DNA damage differs fundamentally from aqueous:</strong> Under dry conditions, photosensitization produced high levels of strand breaks and AP (apurinic) sites but almost no 8-hydroxyguanine or formamidopyrimidines — the opposite profile from aqueous photosensitization, attributed to extremely low DNA hydration (3–4 water molecules per nucleotide vs. ~20 in B-form DNA).</li>
+    <li><strong>Methylene blue damage is oxygen-dependent (type II):</strong> Strand breaks reduced ~5.8-fold and depurination ~18-fold in nitrogen atmosphere, indicating singlet oxygen-mediated mechanisms.</li>
+    <li><strong>Riboflavin damage is oxygen-independent (type I):</strong> Not appreciably reduced in nitrogen, indicating direct electron/hydrogen transfer reaction. Oxygen partially quenched riboflavin damage.</li>
+    <li><strong>Tris–urate provides strong protection:</strong> Reduced riboflavin strand breaks ~7.5-fold and methylene blue strand breaks ~17-fold compared to plain paper.</li>
+    <li><strong>Attack mechanism is electrophilic:</strong> Protection by urate and caffeine (purine analogues with greater electron donor ability than DNA bases) indicated that free radical damage is electrophilic. Urate acts as a preferential target, intercepting reactive species before they reach DNA.</li>
+    <li><strong>Novel in-situ microgel technique:</strong> Allowed assessment of DNA damage on paper without extraction, using plasmid supercoiling loss and repair enzyme probing (Fpg protein and exonuclease III).</li>
+    <li><strong>Oxygen-independent pathways exist:</strong> At least one damage pathway operates without oxygen, meaning nitrogen storage alone is insufficient — chemical protectants are essential.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> First systematic mechanistic study of photosensitizer-initiated DNA damage under dry archival conditions. Revealed that dry-state damage chemistry is fundamentally different from aqueous systems. The finding that both oxygen-dependent (type II) and oxygen-independent (type I) pathways operate on dry DNA expanded understanding of archival degradation mechanisms.</p>
+    <p><strong>Career significance:</strong> Provided direct mechanistic validation that the Tris–urate formulation in FTA cards effectively protects DNA from photosensitizer-initiated free radical cascades that model aging processes. Reinforced the scientific basis for FTA over simpler storage approaches by demonstrating that chemical protection, not just anaerobic storage, is essential for long-term DNA archiving.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><strong>Seah &amp; Burgoyne (2000) Prog. Forensic Genet. 8:</strong> Precursor conference paper establishing the in-situ microgel technique</li>
+    <li><strong>Burgoyne US 5,496,562 (1994/1996):</strong> Foundational FTA patent describing Tris–urate chemistry</li>
+    <li><strong>Epe, Hegler &amp; Wild (1989) Carcinogenesis:</strong> Singlet oxygen in methylene blue DNA damage</li>
+    <li><strong>Burrows &amp; Muller (1998) Chem. Rev.:</strong> Oxidative nucleobase modifications</li>
+    <li><strong>Saenger (1982):</strong> DNA hydration shell data</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Direct experimental validation of Tris–urate in FTA cards as effective free radical scavenger</li>
+    <li>Established that dry-state DNA damage chemistry differs from aqueous systems</li>
+    <li>Demonstrated urate superiority over caffeine as DNA protectant</li>
+    <li>Showed oxygen-independent pathways require chemical protectants beyond anaerobic storage</li>
+    <li>Scientific foundation for long-term DNA archiving claims of FTA technology</li>
+    <li>Informed aging chemistry for dried specimens in museums, forensics, and herbaria</li>
+    <li>Led to follow-up paper: Seah &amp; Burgoyne (2003) on photosensitizer models of aging</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>L.H. Seah (Linden Seah)</strong> — First and corresponding author. Likely PhD student or postdoctoral researcher under Burgoyne’s supervision at Flinders University. Developed the in-situ microgel electrophoretic technique and conducted the photosensitization experiments. New collaborator in the Burgoyne lab.</p>

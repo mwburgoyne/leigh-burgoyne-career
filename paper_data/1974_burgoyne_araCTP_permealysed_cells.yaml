@@ -1,0 +1,73 @@
+id: 1974_burgoyne_araCTP_permealysed_cells
+title: |-
+  Effect of Cytosine Arabinoside Triphosphate on Deoxyribonucleic Acid Synthesis in Permealysed Cells from Ehrlich Ascites Tumour: Studies of Phosphorylated Drug Metabolites on Quasi-Normal Deoxyribonucleic Acid Replication
+page_title: Burgoyne (1974) — Effect of Cytosine Arabinoside Triphosphate on DNA Synthesis in Permealysed Cells
+authors:
+- Leigh A. Burgoyne
+authors_affiliation: sole author
+venue: Biochemical Pharmacology, 23, 1619–1627
+paper_number: null
+doi: 10.1016/0006-2952(74)90374-8
+funding: null
+citations: 9
+citations_source: Crossref (title+author)
+tags:
+- Cytosine Arabinoside
+- ara-CTP
+- Permealysed Cells
+- Anti-Cancer Drug
+- Chain Termination
+- Sole Author
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '1974'
+- label: Received
+  value_html: 17 July 1973; Accepted 5 October 1973
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1974 - Effect of cytosine arabinoside triphosphate on deoxyribonucleic acid synthesis in permealysed cells from ehrlich ascites tumour Studies of phosphorylated drug metabolites on quasi-normal deoxyribonucleic acid re.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This sole-author paper applies the permealysed Ehrlich ascites cell system (developed in the 1972 paper) to a pharmacological question: how does cytosine arabinoside triphosphate (ara-CTP), the active metabolite of the anti-cancer drug cytosine arabinoside (ara-C), inhibit DNA replication? The permealysed cell system bridges a gap between intact cells (which cannot take up phosphorylated drug metabolites directly) and purified polymerase systems (which lack the organisational complexity of real replication). This paper explicitly demonstrates the utility of permealysed cells as a pharmacological tool for studying phosphorylated drug metabolites.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>ara-CTP is a strong, rapidly reversible inhibitor:</strong> ara-CTP strongly inhibited DNA synthesis in permealysed cells. The inhibition was rapid (maximal within &lt;2 min) and rapidly reversed by dCTP — behaviour matching intact cells but differing from isolated nuclear systems where inhibition developed slowly over 15+ min.</li>
+    <li><strong>ara-C nucleoside is a weak inhibitor:</strong> Unphosphorylated cytosine arabinoside had only weak effects, reversed by both dCTP and deoxycytidine. This confirmed that the triphosphate form is the active species, and that permealysed cells utilise nucleoside triphosphates directly.</li>
+    <li><strong>Pseudo-competitive inhibition model:</strong> Although ara-CTP inhibition appeared competitive (rapid reversal by dCTP), circumstantial evidence suggested "pseudo-competitive" behaviour — actually a chain terminator, but one where the 3′-arabinosyl terminus retains a low (~6–8% of normal) reactivity.</li>
+    <li><strong>Two-case kinetic model resolves in vivo/in vitro discrepancies:</strong> Burgoyne proposed an elegant explanation: Case I (few primer sites, fast chain growth — like replication in vivo and permealysed cells) produces rapid, reversible inhibition with internucleotide ara-CMP. Case II (many primer sites, slow chain growth — like isolated polymerase systems) produces slow, progressive inhibition with predominantly terminal ara-CMP. This unified explanation resolved apparent contradictions in the literature.</li>
+    <li><strong>6% residual DNA synthesis is ara-CTP-resistant:</strong> Maximum inhibition plateaued at ~94%, with a distinct 6% residual that was unaffected by further ara-CTP — suggesting a qualitatively different process, possibly determined by the slow 3′-arabinosyl reaction rate.</li>
+    <li><strong>System loses activity over time but retains polymerase:</strong> Permealysed cells showed non-linear incorporation kinetics (declining rate), but this was not due to exhaustion of substrates or loss of polymerase. Exogenous-primed synthesis remained linear, indicating some "subtle fault" develops in the replication apparatus itself.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> The two-case kinetic model was a satisfying theoretical framework that unified discrepant observations about ara-C action across different experimental systems. The demonstration that permealysed cells could be used to study phosphorylated drug metabolites in a quasi-physiological context was methodologically significant — phosphorylated drugs cannot cross intact cell membranes, and purified enzyme systems lack the organisational context needed for normal drug action.</p>
+    <p><strong>Career significance:</strong> This is Burgoyne's second sole-author paper, published in a pharmacology journal rather than a biochemistry journal, showing breadth in his publication strategy. The paper bridges his DNA replication work (permealysed cell system) with pharmacological applications, demonstrating the utility of his methodological innovations. It also shows Burgoyne's theoretical facility — the two-case kinetic analysis is a piece of clear thinking that resolves a confusing literature.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1972_burgoyne_permealysed_ehrlich_okazaki.html">Burgoyne (1972)</a>: Permealysed Ehrlich ascites cell system (Biochem. J.)</li>
+    <li>Waqar, Burgoyne &amp; Atkinson (1971): Chain-terminating arabinosyl nucleotide analogues in nuclear system</li>
+    <li>Momparler (1969): ara-CTP as chain terminator with purified polymerase</li>
+    <li>Graham &amp; Whitmore (1970): ara-C incorporation into internucleotide links in vivo</li>
+    <li>Waqar (1972): PhD thesis, Flinders University</li>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970): Ca<sup>2+</sup>-dependent priming system</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Understanding of ara-C anti-cancer drug mechanism in near-physiological context</li>
+    <li>Validation of permealysed cell system as pharmacological tool for phosphorylated drug metabolites</li>
+    <li>Theoretical framework (Case I/II kinetics) for understanding chain terminator effects across different experimental systems</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p>Sole-author paper. <strong>Mrs. J. Mobbs</strong> acknowledged for technical assistance. Funded by University of Adelaide Anti-Cancer Foundation. <strong>Dr. W. J. Wechter</strong> provided ara-CMP as a gift.</p>

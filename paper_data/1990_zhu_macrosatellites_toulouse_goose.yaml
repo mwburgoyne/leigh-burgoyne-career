@@ -1,0 +1,85 @@
+id: 1990_zhu_macrosatellites_toulouse_goose
+title: 'The Macrosatellites of the Toulouse Goose: The Major Tandemly Repetitive DNA in the Toulouse Goose Genome'
+page_title: Zhu, Skinner & Burgoyne (1990) — Macrosatellites of the Toulouse Goose
+authors:
+- X. Zhu
+- J. Skinner
+- L.A. Burgoyne
+authors_affiliation: null
+venue: Genome, 33, 641–645
+paper_number: null
+doi: 10.1139/g90-095
+funding: null
+citations: 9
+citations_source: Crossref (title+author)
+tags:
+- Macrosatellite
+- Tandem Repeat
+- Toulouse Goose
+- Anser anser
+- Repetitive DNA
+- Avian Genome
+- GAGAG Pentamer
+- GGGAA Pentamer
+- S1 Nuclease
+- M13 Cloning
+burgoyne_index: 2
+extra_meta:
+- label: Year
+  value_html: '1990'
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University of South Australia
+- label: Corresponding Editor
+  value_html: D. Baillie
+- label: Received
+  value_html: 12 December 1989; Accepted 16 April 1990
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1990 - The macrosatellites of the Toulouse goose the major tandemly repetitive DNA in the Toulouse goose genome.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper extends the Burgoyne lab’s satellite DNA programme from humans and primates to an avian species — the Toulouse goose (<em>Anser anser</em>). Having coined the term “macrosatellite” in the 1988 human satellite III paper, the lab now applied systematic repetitive DNA analysis to a domestic avian genome where virtually no repetitive DNA studies had been reported. The Toulouse goose (French breed) was chosen as the source organism, with the Emden goose (German breed, same species) used as a confirmatory strain. X. Zhu appears as a new first-author collaborator, likely a graduate student.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Four major classes of tandem repeat:</strong> Systematic isolation of repetitive DNA by denaturation/reannealing/S1 nuclease digestion, followed by M13 cloning and cross-hybridisation classification of 118 clones, identified exactly four classes of highly repetitive DNA in the goose genome.</li>
+    <li><strong>Class A (190 bp):</strong> The longest repeat, defined by a HinfI site. Complete and partial copies sequenced from clone TG1-118. Restriction mapping revealed multiple internal sites. Incomplete HinfI digestion produced a ladder up to 3420 bp, proving at least 18 tandemly linked copies. No Genbank homology.</li>
+    <li><strong>Class B (43 bp):</strong> Defined by a FokI site. Two complete and two incomplete copies sequenced from clone TG1-107. Contains two internal HinfI sites. No Genbank homology.</li>
+    <li><strong>Class C (5 bp — GAGAG):</strong> Simple pentameric tandem repeat. Found in mice and chicken genomes. Classified as a macrosatellite.</li>
+    <li><strong>Class D (5 bp — GGGAA):</strong> Simple pentameric tandem repeat. Found in rat, chicken, and human genomes. No known restriction sites. Classified as a macrosatellite.</li>
+    <li><strong>Strain conservation:</strong> Classes A and B confirmed as major repeats in the Emden goose genome, demonstrating conservation across breeds of the same species.</li>
+    <li><strong>Cross-species pentamers:</strong> The GAGAG and GGGAA pentameric macrosatellites are conserved across multiple vertebrate orders, unlike classes A and B which appear species-specific.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper represents the first comprehensive characterisation of tandemly repetitive DNA in a domestic avian genome. The finding that the goose genome contains only four major classes of tandem repeat provided a surprisingly simple picture of repetitive DNA organisation. The extension of the “macrosatellite” concept from humans (1988 paper) to avians demonstrated the generality of this category of DNA variation. The cross-species conservation of the simple pentameric repeats (GAGAG and GGGAA) versus the species-specificity of the longer repeats (190 bp and 43 bp) provided insight into different modes of repetitive DNA evolution.</p>
+    <p><strong>Career significance:</strong> This paper broadens the Burgoyne lab’s satellite DNA programme into comparative avian genomics. X. Zhu is a new first-author collaborator (likely a graduate student or visiting researcher). J. Skinner continues as a core collaborator. Published in <em>Genome</em> (Canadian journal), a natural venue for this type of comparative genomic characterisation. The work connects back to the lab’s earlier use of avian (chicken) erythrocytes for chromatin studies (1981, 1982, 1987 papers), now extending from chromatin structure to repetitive DNA.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Fowler, Drinkwater, Skinner &amp; Burgoyne (1988) Hum Genet: Coined “macrosatellite” for human satellite III</li>
+    <li><a href="1987_fowler_hypervariable_satellite_III.html">Fowler, Drinkwater, Burgoyne &amp; Skinner (1987)</a> NAR: Satellite III probe 228S and hybridisation methods</li>
+    <li>Britten &amp; Kohne (1968): Original description of repetitive DNA</li>
+    <li>Chen, Lin &amp; Hodgetts (1989): Tandem repeat in crane family (Gruidae)</li>
+    <li>Frommer et al. (1982); Prosser et al. (1986): Simple repeated sequences in human satellite DNA</li>
+    <li>Burk et al. (1985): Centromeric localisation of repetitive DNA</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>First detailed repetitive DNA characterisation in a domestic avian genome</li>
+    <li>Extension of the “macrosatellite” concept from humans to avians</li>
+    <li>Demonstration that simple pentameric repeats are conserved across vertebrate orders</li>
+    <li>Foundation for the 1991 interspersed repeat paper extending avian repetitive DNA studies to water birds</li>
+    <li>Later avian species-specific tandem repeat studies (1992)</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>X. Zhu</strong> — First author; new collaborator, likely graduate student at Flinders. <strong>J. Skinner</strong> — Continuing long-term collaborator. Published in <em>Genome</em> (Canada), corresponding editor D. Baillie.</p>

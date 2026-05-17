@@ -1,0 +1,67 @@
+id: 2017_catcheside_burgoyne_vehicle_exteriors_soil_insect_DNA
+title: Extracting Information from Vehicle Exteriors via Soil and Insect DNA
+page_title: 2017 — Extracting Information from Vehicle Exteriors via Soil and Insect DNA
+authors:
+- Leigh Burgoyne
+- Lin Y. Koh
+- David E.A. Catcheside
+authors_affiliation: null
+venue: '<em>Forensic Science International: Genetics Supplement Series</em>'
+paper_number: null
+doi: 10.1016/j.fsigss.2017.10.004
+funding: null
+citations: 1
+citations_source: OpenAlex (DOI)
+tags:
+- DNA
+- Insects
+- Vehicles
+- PCR
+- Soil Metagenomics
+- Forensic Science
+- Arbitrary Primers
+- Next-Generation Sequencing
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '2017'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2017 - Extracting information from vehicle exteriors via soil and insect DNA.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This short paper, presented at the 27th Congress of the International Society for Forensic Genetics (2017), represents a creative extension of <mark>Burgoyne’s</mark> late-career forensic soil metagenomics programme into a new and highly practical domain: extracting journey-history information from the exterior of vehicles. Building on over a decade of work on arbitrarily primed PCR and soil DNA profiling—stretching back to the 2004 SMIPS patent and developed through the 2012 Waters et al. arbitrary primer paper, the 2013–2015 Khodakova et al. soil DNA studies, and the companion 2017 Burgoyne, Koh &amp; Catcheside methods chapter—this paper applies the same toolkit to crushed insect debris on windscreens and bumpers and to mud encrustations in wheel arches. The work was funded by the Department of Justice South Australia, reflecting genuine interest from law enforcement in the technique’s forensic potential.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li>DNA present on vehicle surfaces (crushed insects on upper bodywork and soil encrustations in wheel arches) can be extracted and profiled using arbitrarily primed PCR and next-generation sequencing to produce discriminating 50mer DNA sequences.</li>
+    <li>Wheel-arch mud from the front and rear of the same vehicle showed distinctly different soil DNA profiles: front wheel mud matched strongly (22.63% similarity) to a known nearby soil location (FUYARDS), while rear wheel mud did not match any sampled soils, indicating it originated from a different, unsampled location.</li>
+    <li>Insect DNA collected from the windscreen and lower front of a vehicle during a single journey showed 77.5% overlap in discriminating 50mers, with the diagonal scattergram pattern indicating strong population similarity, though the unshared sequences revealed that insects impacting upper and lower surfaces are not identical.</li>
+    <li>A second journey taken one month later produced an insect DNA profile with zero similarity to the first journey and only 20% overlap between windscreen and lower-front samples, demonstrating that insect populations change dramatically over time and that the DNA record is journey-specific.</li>
+    <li>BLAST searches of NCBI databases yielded matches to many insect genera but only one species-level identification: the honey bee (<em>Apis mellifera</em>).</li>
+    <li>The authors conclude that “there is a large amount of unexploited DNA information on vehicle surfaces that is not difficult to get and analyse,” while acknowledging the methodology is not yet field-ready for criminal investigations.</li>
+    </ul><div class="influence-box">
+    <h2>Significance &amp; Contribution</h2>
+    <p>This paper is notable as a creative proof-of-concept that extends soil DNA metagenomics to a novel forensic application: reading a vehicle’s travel history from the biological material adhering to its exterior. While the citation count is modest (~1), the paper’s significance lies in demonstrating that <mark>Burgoyne’s</mark> arbitrary-primer soil-profiling pipeline can be applied not only to static soil samples but also to the mobile, mixed biological debris that accumulates on a moving vehicle. The sharp temporal distinction between journeys (zero similarity one month apart) is a particularly striking result, showing that the technique could in principle distinguish recent from historical journeys. The work represents the <mark>Burgoyne</mark> group’s effort to push their metagenomics tools toward practical forensic deployment, with backing from a state justice department.</p>
+    </div><div class="connections-box">
+    <h2>Knowledge Built Upon</h2>
+    <ul>
+    <li><strong><mark>Burgoyne</mark> SMIPS patent (2004)</strong> — foundational intellectual property for soil metagenomic profiling via short DNA sequences.</li>
+    <li><strong>Waters et al. (2012)</strong> — established the arbitrary primer PCR approach for uncommitted DNA amplification from complex environmental samples.</li>
+    <li><strong>Khodakova et al. (2013–2015)</strong> — systematic development and validation of soil DNA profiling protocols using discriminating 50mers from South Australian soils.</li>
+    <li><strong><mark>Burgoyne</mark>, Koh &amp; Catcheside (2017, Methods in Molecular Biology)</strong> — the companion methods chapter detailing arbitrarily primed PCR protocols for metagenome comparison, on which this paper’s methodology is directly based.</li>
+    </ul>
+    </div><div class="connections-box">
+    <h2>What It Contributed To</h2>
+    <ul>
+    <li>Demonstrated a new application domain (vehicle journey reconstruction) for the forensic soil metagenomics pipeline, opening a pathway for future forensic tool development.</li>
+    <li>Provided proof-of-concept data for law enforcement (funded by the Department of Justice South Australia) that vehicle-surface DNA can discriminate between journeys and link vehicles to geographic locations.</li>
+    <li>Extended the 50mer arbitrary-primer approach from pure soil to mixed arthropod/insect detritus, broadening the scope of environmental DNA forensics.</li>
+    </ul>
+    </div>
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Lin Y. Koh</strong> — Research associate at Flinders University; key collaborator across <mark>Burgoyne’s</mark> late-career soil metagenomics programme, contributing to both the methods chapter and the applied vehicle-forensics work.</p><p><strong>David E.A. Catcheside</strong> — Professor of Genetics at Flinders University; senior collaborator providing genetics expertise and institutional support for the soil and insect DNA forensics research.</p>

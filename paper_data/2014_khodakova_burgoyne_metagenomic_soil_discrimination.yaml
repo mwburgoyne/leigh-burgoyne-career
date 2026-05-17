@@ -1,0 +1,78 @@
+id: 2014_khodakova_burgoyne_metagenomic_soil_discrimination
+title: Random Whole Metagenomic Sequencing for Forensic Discrimination of Soils
+page_title: 2014 — Random Whole Metagenomic Sequencing for Forensic Discrimination of Soils
+authors:
+- Anastasia S. Khodakova
+- Renee J. Smith
+- Leigh Burgoyne
+- Damien Abarno
+- Adrian Linacre
+authors_affiliation: null
+venue: '<em>PLoS ONE</em>, 9(8): e104996'
+paper_number: null
+doi: 10.1371/journal.pone.0104996
+funding: null
+citations: 52
+citations_source: Semantic Scholar (DOI)
+tags:
+- Forensic Soil Analysis
+- Soil Metagenomics
+- Arbitrarily Primed PCR
+- Shotgun Sequencing
+- Whole Genome Amplification
+- Ion Torrent PGM
+- MG-RAST
+- Bray-Curtis Similarity
+- CAP Ordination
+burgoyne_index: 2
+extra_meta:
+- label: Year
+  value_html: '2014'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2014 - Random Whole Metagenomic Sequencing for Forensic Discrimination of Soils.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By 2014, the proof-of-concept conference paper by Khodakova, <mark>Burgoyne</mark>, Abarno &amp; Linacre (2013) had demonstrated that <mark>Burgoyne’s</mark> Seq5 single arbitrary primer could serve as a front-end for high-throughput soil metagenomic sequencing. This full-length <em>PLoS ONE</em> paper expanded the investigation into a rigorous head-to-head comparison of three random whole-metagenome sequencing approaches — shotgun, whole genome amplification (WGA), and arbitrarily primed PCR (AP-PCR) — for forensic discrimination of visually similar urban soils. Funded by the Attorney General’s Office of South Australia, the study addressed a critical gap: there was no validated method for comparing the DNA content of soils in forensic casework.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Three methods compared:</strong> Shotgun, WGA (Phi29 polymerase), and AP-PCR sequencing of triplicate soil samples from two Adelaide parklands ~3 km apart, using Ion Torrent PGM.</li>
+    <li><strong>Shotgun and WGA failed:</strong> Both standard metagenomic approaches generated highly similar profiles across locations, with frequent misclassification in cross-validation of CAP models.</li>
+    <li><strong>AP-PCR succeeded:</strong> The single arbitrary primer approach achieved 100% correct site-specific classification from class level upward across all taxonomic and metabolic hierarchies.</li>
+    <li><strong>Thorough statistical validation:</strong> CLUSTER, SIMPROF, NMDS, and CAP analyses at all MG-RAST taxonomic and metabolic hierarchies confirmed AP-PCR superiority.</li>
+    <li><strong>Dominant taxa:</strong> Proteobacteria, Actinobacteria, and Bacteroidetes comprised ~70% of annotated reads across all methods.</li>
+    <li><strong>Subsampled datasets confirmed:</strong> RELATE analysis showed strong Spearman rank correlations (r &gt; 0.9) between full and subsampled (49,000 reads) datasets.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This paper is the definitive validation of <mark>Burgoyne’s</mark> arbitrarily primed PCR approach for forensic soil metagenomics, demonstrating for the first time that AP-PCR outperforms both shotgun and WGA-based sequencing for discriminating visually similar urban soils. The critical insight is that shotgun and WGA methods are dominated by highly similar abundant taxa, masking site-specific differences, while the single arbitrary primer acts as a pre-enrichment filter that targets both dominant and rare organisms equally. With ~49 citations, this is the most-cited paper from <mark>Burgoyne’s</mark> forensic soil metagenomics programme, representing the culmination of a research arc stretching from the 2004 SMIPS patent through the 2012 arbitrary primer validation to this systematic comparison.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Waters, Eariss, Yeadon, Kirkbride, <mark>Burgoyne</mark> &amp; Catcheside (2012, <em>Electrophoresis</em>) — arbitrary single primer amplification yields reproducible discriminatory profiles</li>
+    <li>Khodakova, <mark>Burgoyne</mark>, Abarno &amp; Linacre (2013, <em>FSIGSS</em>) — proof-of-concept conference paper</li>
+    <li><mark>Burgoyne</mark> 2004 SMIPS patent (US 2004/0175715 A1) — origin of Seq5 arbitrary primer</li>
+    <li><mark>Burgoyne</mark> 2006 SMIPS CIP patent (US 2006/0105368 A1) — primer equivalence framework</li>
+    <li>Petrisor, <mark>Burgoyne</mark> et al. (2007) — microbial forensics chapter</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Established AP-PCR + HTS as the leading candidate method for forensic soil discrimination</li>
+    <li>Roadmap for forensic validation: expanded geographic sampling, temporal variation studies, blind trials</li>
+    <li>Open-access metagenomic datasets deposited on MG-RAST for community use</li>
+    <li>Khodakova, <mark>Burgoyne</mark>, Abarno &amp; Linacre (2015) — temporal stability study demonstrating AP-PCR soil profiles are stable across seasons</li>
+    <li><mark>Burgoyne</mark>, Koh &amp; Catcheside (2017, Methods in Molecular Biology) — formalised AP-PCR protocols for the wider community</li>
+    <li><mark>Burgoyne</mark>, Koh &amp; Catcheside (2017, FSIGSS) — extended the approach to vehicle-surface DNA forensics</li>
+    <li>Broader adoption of metagenomics-based forensic evidence frameworks</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Anastasia S. Khodakova</strong> — First author; Flinders University. Conceived and designed experiments; performed all experimental work and led data analysis.</p><p><strong>Renee J. Smith</strong> — Flinders University. Statistical analysis specialist.</p><p><strong>Damien Abarno</strong> — Forensic Science South Australia. Operational forensic science context.</p><p><strong>Adrian Linacre</strong> — Professor, Flinders University. Forensic DNA specialist; co-conceived the study.</p>

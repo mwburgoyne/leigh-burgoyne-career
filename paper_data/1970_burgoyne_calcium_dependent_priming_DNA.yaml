@@ -1,0 +1,70 @@
+id: 1970_burgoyne_calcium_dependent_priming_DNA
+title: Calcium-Dependent Priming of DNA Synthesis in Isolated Rat Liver Nuclei
+page_title: Burgoyne, Waqar & Atkinson (1970) — Calcium-Dependent Priming of DNA Synthesis
+authors:
+- Leigh A. Burgoyne
+- M. Anwar Waqar
+- Maurice R. Atkinson
+authors_affiliation: null
+venue: Biochemical and Biophysical Research Communications, 39(2), 254–259
+paper_number: null
+doi: 10.1016/0006-291x(70)90786-2
+funding: null
+citations: 108
+citations_source: Crossref (title+author)
+tags:
+- DNA Replication
+- Calcium Endonuclease
+- Nuclear DNA Synthesis
+- Rat Liver Nuclei
+- araCTP
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '1970'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1970 - Calcium-dependent priming of DNA synthesis in isolated rat liver nuclei.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper marks Burgoyne's arrival at Flinders University and the beginning of a highly productive new research direction. Having moved from protein biochemistry (cytochrome b<sub>2</sub>, arom complex) to nuclear biology, Burgoyne joined forces with M. Anwar Waqar and his former Adelaide colleague Maurice R. Atkinson to investigate the fundamental question: what controls the initiation of DNA replication in mammalian nuclei? At the time, purified <em>E. coli</em> DNA polymerase was known to require nicked DNA with free 3′-hydroxyl ends as primers, but the mechanism of initiation in eukaryotic nuclei was unknown.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Intact nuclei have polymerase but no primer:</strong> Nuclei isolated from rat liver in Ca<sup>2+</sup>-free solutions contained active DNA polymerase (demonstrated by incorporation into added poly d(A-T) template) but could not synthesise DNA from their own high-molecular-weight nuclear DNA.</li>
+    <li><strong>Ca<sup>2+</sup> triggers DNA nicking and priming:</strong> Addition of Ca<sup>2+</sup> immediately initiated DNA synthesis without added primer. Alkaline sucrose gradient analysis showed that Ca<sup>2+</sup> caused progressive nicking of nuclear DNA, reducing it from high molecular weight, with new DNA synthesis occurring on the nicked (smaller) DNA species.</li>
+    <li><strong>Activated nuclei sustain synthesis:</strong> Nuclei briefly exposed to Ca<sup>2+</sup>/Mg<sup>2+</sup> then washed free of these ions ("activated nuclei") showed immediate incorporation of deoxyribonucleotides when provided with Mg<sup>2+</sup> and substrates. Omission of three of the four dNTPs reduced labeling only 2–3 fold.</li>
+    <li><strong>Nearest-neighbour analysis confirms template-directed synthesis:</strong> Analysis showed covalent attachment adjacent to all four possible primer termini, ruling out terminal transferase activity as the source of incorporation.</li>
+    <li><strong>araCTP as primer site titrant:</strong> The chain-terminating analog araCTP was incorporated only into activated (Ca<sup>2+</sup>-treated) nuclei, to a limited extent corresponding to "titration" of available primer termini. This provided an elegant measure of Ca<sup>2+</sup>-dependent primer site production.</li>
+    <li><strong>Model proposed:</strong> A Ca<sup>2+</sup>-dependent endonuclease nicks nuclear DNA and provides 3′-hydroxyl termini that serve as primers for DNA polymerase. The authors note this effect "must be considered in any search for factors that control nuclear DNA synthesis in vivo."</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper introduces the concept of a Ca<sup>2+</sup>-dependent endonuclease in mammalian nuclei — an observation that would prove enormously consequential. While the paper frames the discovery in terms of DNA replication control, the Ca<sup>2+</sup>-dependent endonuclease described here is the same activity that, three years later, Hewish &amp; Burgoyne (1973) would show cuts chromatin at specific internucleosomal sites, producing the ladder pattern that was crucial evidence for the nucleosome model. This 1970 paper is thus the conceptual origin of one of the most important discoveries in chromatin biology.</p>
+    <p><strong>Career significance:</strong> This is Burgoyne's first paper from Flinders University and marks his pivotal transition from protein biochemistry to nuclear DNA biology. The collaboration with Waqar (a skilled DNA biochemist) and Atkinson (who had been at Adelaide) established the research team that would produce a series of important papers on nuclear DNA synthesis. The choice to study nuclear DNA in intact nuclei rather than with purified components reflects Burgoyne's characteristic approach of studying biological systems in near-physiological conditions — an approach that would pay off spectacularly with the chromatin substructure discovery.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Kornberg, A. (1969): <em>E. coli</em> DNA polymerase requires nicked DNA as primer (Science, 163, 1410)</li>
+    <li>Keir (1965): Review of nuclear DNA polymerases</li>
+    <li>Blobel &amp; Potter (1966): Nuclear isolation methodology</li>
+    <li>Momparler (1969): araCTP as chain terminator with animal DNA polymerase</li>
+    <li>Atkinson, Deutscher, Kornberg et al. (1969): Enzymatic synthesis of DNA — Atkinson's connection to the Kornberg lab</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Waqar &amp; Burgoyne (1970): Companion paper on Ca<sup>2+</sup>-dependent initiation in rat thymus</li>
+    <li>Series of 1971–72 papers on deoxyribonucleotide incorporation and DNA synthesis in permealysed cells</li>
+    <li>Hewish &amp; Burgoyne (1973): <strong>Discovery that Ca<sup>2+</sup>-dependent endonuclease cuts chromatin into discrete subunits</strong> — the direct conceptual descendant of this work</li>
+    <li>The broader understanding of endonuclease roles in DNA replication initiation</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>M. Anwar Waqar</strong> — DNA biochemist at Flinders, key collaborator on the DNA synthesis programme. <strong>Maurice R. Atkinson</strong> — Senior biochemist, formerly at University of Adelaide (where he was co-author on Burgoyne's first paper), with connections to Arthur Kornberg's lab. <strong>Donna Staunton</strong> and <strong>Mario Froscio</strong> acknowledged for technical assistance — Froscio would become a long-term Burgoyne lab member.</p>

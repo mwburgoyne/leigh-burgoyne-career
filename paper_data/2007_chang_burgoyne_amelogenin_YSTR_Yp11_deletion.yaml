@@ -1,0 +1,85 @@
+id: 2007_chang_burgoyne_amelogenin_YSTR_Yp11_deletion
+title: A Distinct Y-STR Haplotype for Amelogenin Negative Males Characterized by a Large Yp11.2 Deletion (2007)
+page_title: 2007 — A Distinct Y-STR Haplotype for Amelogenin Negative Males
+authors:
+- Yuet Meng Chang
+- Revathi Perumal
+- Phoon Yoong Keat
+- Rita Y.Y. Yong
+- Daniel L.C. Kuehn
+- Leigh Burgoyne
+authors_affiliation: null
+venue: Forensic Science International, Volume 166, Issues 2–3, Pages 115–120
+paper_number: null
+doi: 10.1016/j.forsciint.2006.04.013
+funding: null
+citations: 79
+citations_source: Semantic Scholar (DOI)
+tags:
+- Amelogenin
+- Y-STR
+- Forensic DNA
+- Y-chromosome Deletion
+- Yp11.2
+- DYS458
+- MSY1
+- Haplogroup J2e
+- Malaysian Population
+- Gender Mistyping
+burgoyne_index: 5
+extra_meta:
+- label: Year
+  value_html: '2007'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/2007 - A distinct Y-STR haplotype for Amelogenin negative males characterized by a large Yp11.2 (DYS458-MSY1-AMEL-Y) deletion.pdf
+  text: View Original PDF
+sections:
+- heading: Related Conference Poster
+  body_html: |-
+    <ul>
+    <li><a href="../burgoyne_papers/posters/2004 - Forensic Utility of Sex-Linked Markers (Chang Both Burgoyne poster).pdf">The Forensic Utility of Sex-Linked Markers on the Human X- and Y-Chromosomes</a> — poster by Chang, Both &amp; Burgoyne (ANZFSS 2004, Fremantle)</li>
+    </ul>
+- heading: Context & Background
+  body_html: |-
+    <p>The Amelogenin gene is the standard sex-typing marker incorporated into forensic STR multiplexes worldwide. When it works, the assay distinguishes XX (female) from XY (male) by amplifying two alleles of slightly different size. However, certain males carry deletions on the Y-chromosome that eliminate the Amelogenin Y-allele entirely, causing the system to falsely genotype them as female — a potentially devastating error in forensic casework. In a 2003 study, Chang, <mark>Burgoyne</mark>, and Both had first reported this problem in a Malaysian population of 338 males, finding that Indian males showed a higher failure rate. This 2007 paper dramatically scaled up that work, haplotyping 980 Malaysian males with the 16-locus Y-filer multiplex and using Y-SNP haplogrouping to trace the evolutionary origins of the deletion. The collaboration brought together the Forensic DNA Laboratory of Malaysia’s Department of Chemistry (Chang, Perumal, Phoon), Singapore’s DSO National Laboratories (Yong), and <mark>Burgoyne’s</mark> group at Flinders University (Kuehn and <mark>Burgoyne</mark>), with personal communications from M.A. Jobling at Leicester providing additional haplogrouping data.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>18 AMEL-Y negative males identified:</strong> Across 980 Malaysian males (334 Malays, 331 Chinese, 315 Indians), 18 showed complete dropout of the Amelogenin Y-allele — 14 Indians (3.2%) and 4 Malays (0.6%), with zero cases among Chinese.</li>
+    <li><strong>Coordinated DYS458 deletion:</strong> All 18 AMEL-Y negative males also showed complete absence of the DYS458 locus, indicating a large contiguous deletion rather than a point mutation in the Amelogenin primer-binding region.</li>
+    <li><strong>Deletion mapped to at least 1.13 Mb on Yp11.2:</strong> Using bioinformatics and published primer sequences, the deletion was mapped to a region encompassing AMEL-Y, the MSY1 minisatellite, and DYS458, all within a 1.13 Mb window on the short arm of the Y-chromosome.</li>
+    <li><strong>Predominant J2e haplogroup lineage:</strong> Y-SNP haplogrouping revealed that 10 of 12 tested nulls belonged to haplogroup J2e (defined by M241), suggesting a founder event in an ancestral J2e lineage that subsequently spread from the Indian subcontinent.</li>
+    <li><strong>Additional Y-GATA H4 nulls hint at fertility implications:</strong> Two Indian AMEL-Y null males also lacked the Y-GATA H4 locus (Yq11.221), near the AZFb azoospermia region, suggesting possible links to male infertility in a subset of affected individuals.</li>
+    <li><strong>Global pattern confirmed:</strong> Cross-referencing with data from Sri Lanka (8.3%), India (1.9%), Austria (0.018%), Italy (0.008%), and other populations confirmed that AMEL-Y null frequency is substantially elevated in South Asian populations.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This paper transformed the understanding of Amelogenin sex-test failures from scattered anecdotal reports into a coherent evolutionary and genomic narrative. By demonstrating that the AMEL-Y deletion is not an isolated primer-binding mutation but part of a large, heritable Yp11.2 deletion predominantly carried by a specific Y-chromosome lineage (J2e), the study explained why failure rates vary so dramatically across populations and provided a diagnostic signature (combined AMEL-Y and DYS458 absence) for identifying affected males. For the forensic community, the practical message was stark: in any nation with a sizeable Indian-origin population, Amelogenin-based sex typing alone is insufficient and must be supplemented with Y-STR haplotyping. The paper’s 71 citations reflect its lasting influence as a key reference for forensic laboratories implementing quality controls around sex-typing. <mark>Burgoyne’s</mark> role as senior author from Flinders University placed him as the academic anchor for this international forensic genetics collaboration spanning Malaysia, Singapore, and Australia.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Chang, <mark>Burgoyne</mark>, and Both (2003) — “Higher failures of Amelogenin sex test in an Indian population group” (J. Forensic Sci. 48:1309–1313), the precursor study on 338 Malaysian males.</li>
+    <li>Lattanzi et al. (2005) — Deletion mapping of the ~2.5 Mb interstitial deletion on Yp in an Italian family.</li>
+    <li>Santos, Pandya, and Tyler-Smith (1998) — First report of Amelogenin sex-test failure (Nat. Genet. 18:103).</li>
+    <li>Jobling, Bouzekri, and Taylor (1998) — Characterisation of the MSY1 minisatellite on Yp11.2.</li>
+    <li>Shen et al. (2004) — J2 haplogroup reconstruction and age estimation (~15,000 years).</li>
+    <li><mark>Burgoyne’s</mark> broader forensic DNA programme at Flinders, including FTA technology and the Y-STR triplex casework validation (Chang et al. 2003, Forensic Science Communications).</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>International adoption of supplementary Y-STR testing alongside Amelogenin in forensic sex-typing protocols, particularly in laboratories serving South Asian populations.</li>
+    <li>Development of improved sex-typing markers (e.g., SRY-based assays) incorporated into next-generation forensic multiplexes.</li>
+    <li>Population genetics studies of Y-chromosome structural variation and the J2e lineage’s demographic history across the Indian subcontinent and diaspora.</li>
+    <li>Subsequent Y-STR population database work by Chang et al. on 16-locus haplotype diversity in Malaysia.</li>
+    <li>Broader awareness in forensic science of the limitations of single-marker gender determination systems.</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Yuet Meng Chang</strong> — Lead author; Forensic DNA Laboratory, Department of Chemistry, Petaling Jaya, Malaysia. Former Flinders University graduate student under <mark>Burgoyne</mark>; by 2007 had returned to Malaysia’s government forensic laboratory.</p><p><strong>Revathi Perumal</strong> — Forensic DNA Laboratory, Malaysia.</p><p><strong>Phoon Yoong Keat</strong> — Forensic DNA Laboratory, Malaysia.</p><p><strong>Rita Y.Y. Yong</strong> — Defence Medical and Environmental Research Institute, DSO National Laboratories, Singapore.</p><p><strong>Daniel L.C. Kuehn</strong> — School of Biological Sciences, Flinders University. Member of <mark>Burgoyne’s</mark> research group.</p><p><strong>M.A. Jobling</strong> (acknowledged) — University of Leicester, UK. World-leading Y-chromosome geneticist.</p>

@@ -1,0 +1,98 @@
+id: 2000_rogers_burgoyne_reverse_transcription_RNA_FTA
+title: Reverse Transcription of an RNA Genome from Databasing Paper (FTA®)
+page_title: 2000 — Reverse Transcription of an RNA Genome from Databasing Paper (FTA®)
+authors:
+- Craig D. G. Rogers
+- Leigh A. Burgoyne
+authors_affiliation: null
+venue: Biotechnology and Applied Biochemistry, 31, 219–224
+paper_number: null
+doi: 10.1042/ba19990113
+funding: null
+citations: 33
+citations_source: Semantic Scholar (DOI)
+tags:
+- FTA Technology
+- RNA Storage
+- RT-PCR
+- Coxsackievirus B4
+- Enterovirus
+- Virology
+- Desiccation Protection
+- Biosafety
+- Pathogen Diagnostics
+- Phase-trapping
+- Automation
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '2000'
+- label: PMID
+  value_html: <a href="https://pubmed.ncbi.nlm.nih.gov/10814592">10814592</a>
+- label: Received
+  value_html: '7 December 1999; Accepted: 21 February 2000'
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University of South Australia, Bedford Park, South Australia 5042
+- label: Phase
+  value_html: Phase 4 — DNA Forensics, FTA Technology & Applied Biology
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2000 - Reverse transcription of an RNA genome from databasing paper (FTA®).pdf
+  text: View Original PDF
+sections:
+- heading: Related Conference Posters
+  body_html: |-
+    <ul>
+    <li><a href="../burgoyne_papers/posters/1999 - FTA as RT-PCR Platform (Rogers Burgoyne Turner poster v1).pdf">FTA® as a Developmental Platform for Reverse-Transcriptase Based Assays (version 1)</a> — poster by Rogers, Burgoyne &amp; Turner (AACC Conference, New Orleans, 1999)</li>
+    <li><a href="../burgoyne_papers/posters/1999 - FTA as RT-PCR Platform (Rogers Burgoyne Turner poster v2).pdf">Version 2</a></li>
+    <li><a href="../burgoyne_papers/posters/1999 - FTA as RT-PCR Platform (Rogers Burgoyne Turner poster v3).pdf">Version 3</a></li>
+    </ul>
+- heading: Context & Background
+  body_html: |-
+    <p>By 2000, FTA card technology was well established for DNA storage and processing, underpinned by Burgoyne's foundational patent (US 5,496,562, 1994) and a portfolio of five continuation patents filed through 1999. The 1997 Rogers &amp; Burgoyne paper had already extended FTA from blood to bacterial applications. The 1998 analytical platform patent (US 5,756,126) had specifically described RNA storage on FTA via target sequence stabilizers forming resistant RNA/DNA hybrids, and the 1999 retaining agent patent (US 5,972,386) included claims for reverse transcriptase PCR on FTA-stored material. However, no peer-reviewed paper had yet demonstrated that FTA could practically protect and preserve RNA viral genomes for RT-PCR analysis. This paper addresses that gap directly, using coxsackievirus B4 (CVB-4) — a 7.5 kb single-stranded positive-sense RNA enterovirus — as a model system. The work is driven by a compelling practical problem: RNA viruses are hazardous when alive in liquid, unstable when dead, and their transport for diagnostic analysis demands simultaneous virus disruption and RNA protection. FTA’s denaturing-preserving chemistry offered a potential solution to all of these overlapping constraints.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>RNA survives desiccation on FTA:</strong> CVB-4 viral RNA stored on FTA paper under ambient conditions (10–27 °C) remained suitable for RT-PCR after 6 months with no noticeable loss of amplification signal, comparable to material stored at −80 °C.</li>
+    <li><strong>In situ RT-PCR without RNA solubilisation:</strong> The key innovation was performing reverse transcription directly on FTA-immobilised RNA without removing it from the matrix until the RT reaction itself. This minimised handling losses and RNAase exposure.</li>
+    <li><strong>Phenolic processing superior for RNA:</strong> Unlike DNA processing (where simple aqueous washes suffice), RNA required phenol-based phase-trapping to lock the small 7.5 kb genome onto the cellulose matrix while removing proteins and FTA reagents. Aqueous processing caused RNA loss and concatenation artefacts.</li>
+    <li><strong>LiCl enhances RNA retention:</strong> Addition of 4 M LiCl to water- and ethanol-based wash solutions significantly increased RT-PCR signal, likely by precipitating RNA and preventing it from diffusing out of the cellulose matrix during processing.</li>
+    <li><strong>High sensitivity (~0.1 fg RNA):</strong> RT-PCR protocol 2 (small-volume RT followed by PCR in the same tube) detected down to ~10 EGE/ml (~0.1 fg of RNA), comparable with other non-nested RT-PCR techniques and significantly more sensitive than dot-blot or in situ hybridisation.</li>
+    <li><strong>Works with blood samples:</strong> CVB-4 diluted in human transfusion blood was detectable at ~10–100 EGE/ml, though with some reduction in efficiency compared with saline dilution. Minor non-specific products at high virus concentrations were reduced by increasing RT annealing specificity.</li>
+    <li><strong>Concatenation artefact model:</strong> The authors proposed a novel template-jumping model for the concatenation artefact seen with aqueous processing, where overlapping RT primers on residual protein provide alternate template pathways. They noted the biological implication that genetic crossover of retrovirions in mixed infections might operate via a related mechanism.</li>
+    <li><strong>Automation-compatible processing:</strong> The entire procedure (washing, drying, RT-PCR, gel analysis) could be completed in ~5 hours with only simple wash operations, compatible with multiple-sample parallel processing.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper is the first peer-reviewed demonstration that FTA card technology can be used for RNA viral genome storage and RT-PCR analysis. It extends the FTA platform from DNA-only applications into the realm of RNA virology, opening a pathway for safe transport and centralised laboratory analysis of RNA pathogens. The critical insight was that RNA’s reputation for storage instability is primarily due to environmental nucleases rather than intrinsic chemical instability — once desiccated with appropriate preservatives, viral RNA survives for months. The paper also established that RNA processing on FTA requires fundamentally different chemistry than DNA processing: phenol-based phase-trapping rather than simple aqueous washes, because small RNA genomes lack the adhesion to cellulose that large DNA genomes possess.</p>
+    <p><strong>Career significance:</strong> This paper represents the practical implementation of concepts claimed in Burgoyne’s 1998 patent (US 5,756,126), which described RNA storage via target sequence stabilizers. It is the second peer-reviewed Rogers &amp; Burgoyne collaboration (after the 1997 bacterial typing paper), confirming Craig Rogers as a key collaborator extending FTA technology into new application domains. The work foreshadowed the massive later adoption of FTA technology for RNA virus diagnostics, including applications relevant to emerging infectious diseases. The explicit emphasis on biosafety — transporting potentially infectious body fluids safely via dried, inactivated samples — would prove prescient in the era of global viral pandemics.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><strong>Burgoyne US 5,496,562 (1994/1996):</strong> Foundational FTA solid medium patent — chemistry of DNA storage on treated cellulose paper</li>
+    <li><strong><a href="1997_rogers_burgoyne_bacterial_typing_FTA.html">Rogers &amp; Burgoyne (1997)</a> Anal. Biochem. 247:</strong> Bacterial typing on FTA — prior extension of FTA from blood to microbial applications</li>
+    <li><strong>Burgoyne et al. (1994) 5th Intl Symp Human Identification:</strong> Conference presentation establishing safe collection, storage and analysis of DNA from blood on FTA</li>
+    <li><strong>Burgoyne US 5,756,126 (1998):</strong> Analytical platform patent describing RNA storage via target sequence stabilizers forming resistant RNA/DNA hybrids</li>
+    <li><strong>Fraile et al. (1997) J. Virol. 71:</strong> Viral RNA survival in dry herbarium specimens for years — evidence that desiccation protects RNA</li>
+    <li><strong>Zoll et al. (1992) J. Clin. Microbiol. 30:</strong> Enterovirus RT-PCR primers (EP1, EP2) targeting 5′-NCR conserved regions</li>
+    <li><strong>Howett et al. (1999) Antimicrob. Agents Chemother. 43:</strong> SDS anti-viral activity extending to non-enveloped virions</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>First peer-reviewed demonstration of FTA technology for RNA viral genome storage and RT-PCR analysis</li>
+    <li>Established that RNA processing on FTA requires different chemistry (phenol-based phase-trapping) than DNA processing (aqueous washes)</li>
+    <li>Validated 6-month ambient-temperature RNA storage on FTA — critical for transport from remote collection sites</li>
+    <li>Foundation for RNA pathogen diagnostics using dried storage media, applicable to enteroviruses, poliovirus, hepatitis, and other RNA virus groups</li>
+    <li>Supported patent claims in US 5,756,126 and US 5,972,386 regarding RNA applications of FTA technology</li>
+    <li>Broader FTA adoption in virology, veterinary diagnostics, and plant pathology</li>
+    <li>Anticipated the need for safe transport of infectious RNA virus samples that would become globally critical during subsequent pandemics</li>
+    <li>Proposed template-jumping model for RT concatenation artefact with implications for retroviral recombination biology</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Craig D. G. Rogers</strong> — First author and corresponding author, based at the School of Biological Sciences, Flinders University. Second collaboration with Burgoyne following the 1997 bacterial typing paper. Rogers appears to be a PhD student or early-career researcher under Burgoyne’s supervision, extending FTA technology from DNA and bacterial applications into RNA virology. The in-house design of the CVB-4-specific primer GS2, the development of two RT-PCR protocols, and the systematic comparison of washing chemistries demonstrate substantial independent experimental work.</p><p><strong>Dr Peter Hallsworth</strong> — Acknowledged collaborator from the Department of Microbiology and Infectious Disease, Flinders Medical Centre, who provided the clinical isolate of CVB-4 and personal communications on virus survival on ordinary paper. Hallsworth also appeared in the 1994 conference presentation (Burgoyne, Kijas, Hallsworth &amp; Turner).</p>

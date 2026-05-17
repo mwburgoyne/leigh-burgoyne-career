@@ -1,0 +1,81 @@
+id: 2006_burgoyne_SMIPS_CIP_cloning_profiling_patent
+title: |-
+  Method and Device for Simultaneously Molecularly Cloning and Polylocus Profiling of Genomes or Genome Mixtures (US 2006/0105368 A1 — CIP)
+page_title: |-
+  2006 — Method and Device for Simultaneously Molecularly Cloning and Polylocus Profiling of Genomes or Genome Mixtures (CIP)
+authors:
+- Leigh A. Burgoyne
+- Bedford Park S.A.
+authors_affiliation: AU
+venue: US 2006/0105368 A1
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- SMIPS
+- Continuation-in-Part
+- Primer Equivalence
+- DNA Arrays
+- Soil Metagenomics
+- Polylocus Profiling
+- Molecular Cloning
+- Cross-Reaction Analysis
+- Pathogen Detection
+burgoyne_index: 0
+extra_meta:
+- label: Published
+  value_html: May 18, 2006
+- label: Filed
+  value_html: October 21, 2005 (Appl. No. 11/255,691)
+- label: Relationship
+  value_html: Continuation-in-Part of US 10/486,440 (2004) ← PCT/US02/26670 ← Provisional 60/313,912 (2001)
+authors_label: Inventor
+venue_label: Publication
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/2006 - Method and device for simultaneously molecularly cloning and polylocus profiling of genomes or genome mixtures.pdf
+  text: View Original Patent (PDF)
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This 2006 patent application publication is a Continuation-in-Part (CIP) of the 2004 SMIPS patent application (US 2004/0175715 A1). While the parent established the foundational SMIPS (Structurally Mediated Interprimer Selectivity) concept and its basic applications, this CIP extends the intellectual property with substantially expanded claims, additional experimental data, and a refined theoretical framework. Filed October 2005, this version reflects <mark>Burgoyne’s</mark> continued development of SMIPS technology, moving from proof-of-concept toward a complete analytical methodology with formalised primer equivalence theory and DNA array-based cross-reaction quantification.</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Formalised primer equivalence framework (new):</strong> Rigorous definitions of “equivalent primers” (≥5% cross-reaction homology from complex templates), “non-equivalent cross-reactions,” and “SMIPS cross-reactions” versus “simple-sequence cross-reactions.” Absent from the 2004 parent.</li>
+    <li><strong>DNA array cross-reaction analysis (Example 6 — new):</strong> Quantitative comparison of SMIPS products from different soil samples immobilised on DNA arrays, probed with fluorescently labelled products. Showed ~20% sequence sharing between soils versus near-zero cross-reaction with human DNA.</li>
+    <li><strong>Expanded sequence listing (56 sequences):</strong> Substantial expansion of the primer toolkit with variants of seq005, including equivalents and non-equivalents for systematic comparison.</li>
+    <li><strong>Broadened claims 8–26 (new):</strong> Profiling methods, sequencing with 3’-extended primers (≥16 variants), software alignment algorithms, environmental applications, automated robotic devices, kits, and primer design computer programs.</li>
+    <li><strong>Four structural formats (Figure 7):</strong> Formally diagrammed SMIPS amplification product folding: Format 1 (open-ended, favoured), Format 2 (CFS, blocked), Format 3 (hairpin loop, long inserts), Format 4 (SLS stem-loop, blocked).</li>
+    <li><strong>Core retained:</strong> Fundamental SMIPS methodology, high-C/low-G primer design, pathogen detection examples (HCV, HIV, CVB-4), DNA damage monitoring, and soil profiling from the parent application.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This CIP represents <mark>Burgoyne’s</mark> maturation of SMIPS from an inventive concept into a complete analytical platform. The most significant advance is the formalisation of primer equivalence theory and the use of DNA arrays for quantitative cross-reaction measurement. Where the 2004 parent demonstrated that SMIPS could produce distinctive profiles, this 2006 CIP showed how to systematically compare those profiles and extract quantitative similarity measures between complex nucleic acid populations. The expanded 56-primer sequence listing transformed SMIPS from a single-primer technique into a configurable toolkit. The broadened claims — particularly those covering sequencing, software algorithms, and automated devices — show <mark>Burgoyne</mark> anticipating integration of SMIPS into high-throughput genomic pipelines. The soil and environmental applications, now backed by array-based quantitative data, foreshadowed the metagenomics revolution.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>US 2004/0175715 A1: Parent SMIPS patent application</li>
+    <li>FTA card patent family (US 5,496,562 through US 6,447,804): Sample collection and storage</li>
+    <li>Rogers &amp; <mark>Burgoyne</mark> (1997, 2000): Bacterial typing and RNA virus detection on FTA</li>
+    <li>Smith &amp; <mark>Burgoyne</mark> (2001): ILRC species identification with single primers</li>
+    <li>Seah &amp; <mark>Burgoyne</mark> (2001, 2003): Methylene blue photolysis of DNA</li>
+    <li><mark>Burgoyne’s</mark> chromatin structural work (1973–1987): DNA secondary structure underpinning SMIPS selectivity</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Quantitative framework for comparing complex nucleic acid mixtures via primer equivalence and DNA array cross-reaction</li>
+    <li>Expanded IP protection for SMIPS across methods, devices, kits, and software</li>
+    <li>Foundation for later <mark>Burgoyne</mark> publications on arbitrary-primed PCR for soil forensics (2012–2017)</li>
+    <li>Environmental DNA profiling without organism isolation</li>
+    <li>Anticipation of metagenomics using culture-independent sequence sampling</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong><mark>Leigh A. Burgoyne</mark></strong> — Sole inventor. Experimental examples draw on prior work with Craig Rogers, L. H. Seah, and L. M. Smith.</p>

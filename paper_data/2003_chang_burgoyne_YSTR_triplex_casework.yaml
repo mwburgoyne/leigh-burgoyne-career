@@ -1,0 +1,67 @@
+id: 2003_chang_burgoyne_YSTR_triplex_casework
+title: 'Casework: A Y-STR Triplex for Use After Autosomal Multiplexes (2003)'
+page_title: 2003 — A Y-STR Triplex for Use After Autosomal Multiplexes
+authors:
+- Chang Yuet Meng
+- Katrin Both
+- Leigh A. Burgoyne
+authors_affiliation: null
+venue: Forensic Science Communications, Volume 5, Number 2 (April 2003)
+paper_number: null
+doi: N/A (FBI publication)
+funding: null
+citations: 1
+citations_source: OpenAlex
+tags:
+- Y-STR
+- Forensic DNA
+- Multiplex PCR
+- Sexual Assault
+- Mixed DNA Profiles
+- Casework
+- DYS Loci
+burgoyne_index: 2
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/2003 - Casework_ A Y-STR Triplex for Use After Autosomal Multiplexes, Chang Yuet Meng, Forensic Science Communications.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By 2003, <mark>Burgoyne’s</mark> laboratory at Flinders University was deeply engaged in forensic DNA applications, building on years of work in DNA collection and analysis technologies. The forensic community was grappling with mixed male/female DNA profiles in sexual assault cases — a perennial challenge where standard autosomal STR multiplexes often produced ambiguous results. While the field was moving toward ever-larger Y-STR multiplexes with many loci, this paper took the contrarian position that a small, well-chosen triplex might actually outperform larger systems in practical casework. Graduate student Chang Yuet Meng led this work in collaboration with Katrin Both from the Forensic Science Centre in Adelaide, bridging <mark>Burgoyne’s</mark> academic laboratory with operational forensic practice.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Compact Y-STR triplex validated in real casework:</strong> A triplex consisting of DYS438, DYS390, and DYS439 was successfully applied to 13 evidentiary stains from two real sexual assault cases, demonstrating practical casework utility after initial autosomal profiling with the Profiler Plus multiplex.</li>
+    <li><strong>Resolved mixed-source ambiguities:</strong> The Y-triplex established the minimum number of male contributors in four out of five multiple-source stains in Case 1 and confirmed suspect identities — information that autosomal STR profiling alone could not resolve due to shared alleles and partial profiles.</li>
+    <li><strong>Superior sensitivity for low-template DNA:</strong> In Case 2, the Y-triplex detected a male profile even in a stain (N3) that was too weak to yield any autosomal STR profile.</li>
+    <li><strong>Mechanistic advantages of small multiplexes:</strong> Four explanations for higher sensitivity: fewer compromises in cycling conditions, greater freedom in primer design, more productive PCR cycles (30 vs. 28), and more favorable primer-to-template ratios at haploid loci.</li>
+    <li><strong>Complementary power with autosomal profiling:</strong> Combined use of the Y-triplex and autosomal multiplex yielded uniquely powerful discrimination — two suspects sharing the same Y-haplotype could still be differentiated via their autosomal profiles.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This paper made a practical and intellectually important argument: in forensic Y-STR typing, more loci are not always better. Because Y-chromosome loci are linked (inherited as a single haplotype), adding loci to a Y-multiplex yields diminishing returns in evidential value — unlike autosomal systems where each unlinked locus multiplies discriminatory power. Meanwhile, smaller multiplexes gain tangible advantages in sensitivity, robustness, and interpretability. By demonstrating this principle through real casework on challenging mixed-source stains from sexual assault investigations, the study provided a compelling case for the forensic community to adopt streamlined Y-STR systems as supplements to, rather than replacements for, autosomal profiling. The work also showcased <mark>Burgoyne’s</mark> laboratory as a bridge between academic genetics and real-world forensic practice in the Asia-Pacific region, with the triplex validated against 338 individuals from the Malaysian population.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Chang, Both, and <mark>Burgoyne</mark> (2002) — Genetic variation at three DYS-STR loci and amelogenin between Australian Caucasians and three Asian ethnic groups (J. Forensic Sci.), which established population frequency data for the same Y-STR loci.</li>
+    <li>Foundational Y-STR research by Jobling, Kayser, and Tyler-Smith on forensic applications of Y-chromosome haplotyping.</li>
+    <li><mark>Burgoyne’s</mark> broader forensic DNA program at Flinders, including FTA-based collection methods.</li>
+    <li>Chelex extraction method (Walsh et al. 1991) and differential lysis techniques for forensic biology.</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>International discussion on optimal Y-STR multiplex size and composition for forensic casework, particularly in Southeast Asian populations.</li>
+    <li>Practical guidance for forensic laboratories on integrating Y-STR testing into existing autosomal workflows.</li>
+    <li>Population-specific Y-STR selection approaches for diverse ethnic groups.</li>
+    <li><mark>Burgoyne’s</mark> continuing forensic DNA program at Flinders, reinforcing the laboratory’s reputation for applied forensic genetics.</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Chang Yuet Meng</strong> — Graduate student at Flinders University; lead author and primary researcher, likely postgraduate under <mark>Burgoyne’s</mark> supervision.</p><p><strong>Katrin Both</strong> — Senior Forensic Scientist at the Forensic Science Centre, Adelaide; provided operational casework materials and forensic expertise.</p><p><strong>M. A. Jobling</strong> — University of Leicester, UK; supplied Y-STR control samples with known repeat numbers.</p>

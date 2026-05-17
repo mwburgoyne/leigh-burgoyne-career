@@ -1,0 +1,88 @@
+id: 1998_burgoyne_solid_medium_DNA_storage_continuation_patent
+title: Solid Medium and Method for DNA Storage (US Patent 5,807,527)
+page_title: Burgoyne (1998) — Solid Medium and Method for DNA Storage (US Patent 5,807,527)
+authors:
+- Leigh Alexander Burgoyne
+authors_affiliation: Seaford, Australia
+venue: Continuation (not continuation-in-part) — same specification as parent patent, different claim language
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- FTA Card
+- DNA Storage
+- Continuation Patent
+- Broader Claims
+- Protein Denaturing Agent
+- Free Radical Trap
+- DNA Release
+- Chelating Agent
+- Cellulose Matrix
+- Forensic DNA
+- Pathogen Inactivation
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Flinders Technologies Pty. Ltd., Australia
+- label: Patent Number
+  value_html: US 5,807,527
+- label: Date of Patent
+  value_html: September 15, 1998
+- label: Filed
+  value_html: September 21, 1995
+- label: Claims
+  value_html: '17'
+- label: Continuation of
+  value_html: Ser. No. 159,104 (Nov 30, 1993) = US 5,496,562; which was continuation of Ser. No. 671,859 (May 29, 1991, abandoned)
+- label: Term limited
+  value_html: Shall not extend beyond expiration date of Pat. No. 5,496,562
+authors_label: Inventor
+venue_label: Type
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1998 - Solid medium and method for DNA storage.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This patent is a straight continuation of the foundational FTA patent (US 5,496,562), sharing the identical specification and examples. The critical distinction is that this continuation presents a different set of claims written in deliberately broader, more general language. Where the parent patent named specific chemicals — SDS, uric acid, Tris, EDTA — this continuation uses functional terminology: “protein denaturing agent,” “free radical trap,” “divalent ion binding agent.” This is standard patent prosecution strategy: by filing a continuation with broader claim language, Burgoyne and Flinders Technologies sought to extend the scope of IP protection for FTA technology beyond the specific chemical formulations disclosed in the parent patent. The broader claims would potentially capture competitors who used functionally equivalent but chemically different compositions. The continuation also explicitly claims the dual function of the free radical trap as both a DNA protector and a DNA-releasing agent — a mechanistic insight that was present in the parent specification but not independently claimed. Sole inventor Burgoyne, address Seaford (earlier Adelaide suburb than the Mitcham address used in later patents).</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Claim 1 — Broader medium composition:</strong> A solid medium comprising (a) a solid matrix and (b) a composition including (i) a protein denaturing agent and (ii) a free radical trap. This is significantly broader than the parent patent’s claims, which specified SDS as the detergent and uric acid as the free radical trap. The functional language covers any protein denaturing agent (not just anionic detergents) and any free radical trap (not just uric acid or urate salts).</li>
+    <li><strong>Claim 8 — Storage AND release function:</strong> A solid medium for storage <em>and release</em> of DNA, explicitly claiming the release function alongside storage. The composition includes a protein denaturing agent and a free radical trap, with the free radical trap functioning as both a protective agent during storage and a releasing agent for DNA recovery. This dual-function claim captures a key mechanistic insight of the FTA system.</li>
+    <li><strong>Claim 14 — Applied-sample medium:</strong> After a sample has been applied, the medium comprises: DNA, a solid matrix, a protein denaturing agent, a divalent ion binding agent, and a free radical trap. This “product-by-process” style claim protects the medium in its loaded state — i.e., an FTA card after blood has been applied.</li>
+    <li><strong>Claim 16 — Composition for cellulose matrix:</strong> A composition specifically for a cellulose matrix comprising a weak base, a chelating agent, a surfactant, and optionally uric acid. This claim uses generic terms (“weak base,” “chelating agent,” “surfactant”) rather than naming Tris, EDTA, and SDS specifically, broadening coverage.</li>
+    <li><strong>Claim 17 — Method claim:</strong> A method for DNA storage on the solid medium, covering the procedural use of the invention.</li>
+    <li><strong>Claims 5 and 10 — Dual-function free radical trap:</strong> Explicitly claim the free radical trap as performing a dual role: (i) protecting DNA from oxidative damage during storage, and (ii) facilitating release of DNA from the solid matrix during recovery. This mechanistic insight — that the same agent serves both preservation and retrieval functions — was not independently claimed in the parent patent.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Patent strategy contribution:</strong> This continuation exemplifies standard patent prosecution practice: filing continuations with different claim scope to build a robust patent portfolio around a core invention. The parent patent (US 5,496,562) claimed specific chemical compositions; this continuation claims functional equivalents. Together they create a broader IP fence around the FTA technology. Any competitor developing a cellulose-based DNA storage medium using <em>any</em> protein denaturing agent and <em>any</em> free radical trap — not just SDS and uric acid — would potentially fall within these broader claims. The explicit claiming of the dual-function free radical trap (protection during storage, release during recovery) captures a key mechanistic advantage that distinguishes FTA from simpler treated-paper approaches.</p>
+    <p><strong>Career significance:</strong> This is a routine but important step in patent portfolio management for the FTA technology. Sole inventor Burgoyne, with the earlier Seaford address (an Adelaide suburb closer to Flinders University than the Mitcham address appearing on later patents). The term limitation to the parent patent’s expiration date reflects the USPTO’s treatment of this as claiming the same fundamental invention. The continuation shares the identical specification — no new matter was added. The value lies entirely in the broader claim language, which strengthens the IP position for licensing negotiations and enforcement against competitors using functionally equivalent formulations.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne US 5,496,562 (1994/1996): Parent FTA patent — identical specification, narrower claim language naming specific chemicals</li>
+    <li>Ser. No. 671,859 (May 29, 1991, abandoned): Original US continuation filing in the patent chain</li>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970) BBRC: Ca<sup>2+</sup>-dependent endonuclease — foundation for chelation-based DNA protection</li>
+    <li>Hewish &amp; Burgoyne (1973) BBRC: Ca-Mg endonuclease and chromatin degradation</li>
+    <li>Ames et al. (1981) PNAS: Free radical damage to DNA and uric acid as antioxidant</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Broader IP protection for FTA technology — covering functionally equivalent compositions beyond specific SDS/uric acid/Tris/EDTA formulation</li>
+    <li>Explicit claiming of dual-function free radical trap (storage protection + DNA release)</li>
+    <li>Strengthened patent portfolio for licensing negotiations and enforcement</li>
+    <li>Product-by-process protection for FTA cards in their loaded (sample-applied) state</li>
+    <li>Extended patent family alongside US 5,756,126 (continuation-in-part with new matter)</li>
+    <li>Contributed to overall FTA patent estate supporting commercial licensing programme</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Leigh Alexander Burgoyne</strong> — Sole inventor. Address: Seaford, Australia (earlier Adelaide suburb than Mitcham address used in later patents such as US 5,756,126). The sole inventorship throughout the core FTA patent family underscores Burgoyne’s singular role in conceiving the fundamental FTA technology. Assignee: Flinders Technologies Pty. Ltd., Australia.</p>

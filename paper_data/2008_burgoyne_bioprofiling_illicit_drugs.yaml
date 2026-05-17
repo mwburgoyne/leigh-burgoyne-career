@@ -1,0 +1,81 @@
+id: 2008_burgoyne_bioprofiling_illicit_drugs
+title: The Bioprofiling of Illicit Drugs
+page_title: 2008 — The Bioprofiling of Illicit Drugs
+authors:
+- Leigh Alexander Burgoyne
+- David Edward Arnold Catcheside
+- Kenneth Paul Kirkbride
+authors_affiliation: null
+venue: NDLERF Monograph Series No. 30 (National Drug Law Enforcement Research Fund)
+paper_number: null
+doi: null
+funding: null
+citations: 15
+citations_source: estimated from downstream citing literature
+tags:
+- Forensic DNA
+- Illicit Drugs
+- Bioprofiling
+- DNA Microarrays
+- Trace DNA
+- Drug Provenance
+- Law Enforcement
+- MDMA
+- Heroin
+- Methamphetamine
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '2008'
+- label: ISBN
+  value_html: 978-0-9804654-5-7
+- label: ISSN
+  value_html: 1449-7476
+venue_label: Publication
+citations_approx: true
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2008 - The bioprofiling of illicit drugs.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This ground-breaking NDLERF-funded monograph represents the first instance worldwide of the isolation and profiling of DNA from illicit drug preparations. The underlying hypothesis was elegant in its simplicity: because illicit drugs are manufactured, “cut,” and distributed with no control over contamination, they are likely to contain traces of biological material — skin flakes, saliva, microbial cells, pollen, mould spores — all of which potentially contain DNA. If this DNA could be extracted and profiled, it could serve as an entirely new class of forensic evidence, linking apparently unrelated drug seizures or identifying individuals involved in the drug supply chain.</p><p>The project grew out of earlier PhD work in <mark>Burgoyne’s</mark> laboratory on soil DNA profiling, which had developed methods for comparing complex mixtures of environmental DNA using custom microarray technology and the proprietary ATNA-SMIPS amplification approach. <mark>Burgoyne</mark> and his collaborator Catcheside at Flinders University’s School of Biological Sciences partnered with Kirkbride from the Australian Federal Police’s Forensic Services division, creating a rare bridge between academic molecular biology and operational law enforcement.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>DNA can be extracted from drug seizures:</strong> Both human and non-human DNA sequences were successfully extracted and amplified from typical drug seizures of heroin, methamphetamine, and MDMA (ecstasy), even from quantities as small as 20 mg of powder.</li>
+    <li><strong>Unexpected human DNA discovery:</strong> A reasonable proportion of seizures yielded partial human DNA profiles upon extraction, an unexpected finding that was arguably the most valuable outcome of the entire project. These profiles were compatible with the National Criminal Investigation DNA Database (NCIDD) and standard forensic STR profiling techniques.</li>
+    <li><strong>Non-human DNA for seizure comparison:</strong> Non-human DNA (mainly microbial) was commonly present and could be compared pairwise between seizures using a novel two-colour fluorescent DNA microarray system with cy3 (green) and cy5 (red) labelling.</li>
+    <li><strong>Microbial ecology of drugs:</strong> DNA sequences from seizures included skin commensals (<em>Propionibacterium acnes</em>, <em>Staphylococcus aureus</em>), soil bacteria (<em>Bacillus subtilis</em>, <em>Rhizobium</em>), plant pathogens (<em>Fusarium aywerte</em>), and environmental organisms, reflecting the “biological fingerprint” of the drug’s journey from manufacture to seizure.</li>
+    <li><strong>Blocking non-informative sequences:</strong> Random hexamer-based blocking proved most effective at suppressing non-informative amplification artefacts (R² = 0.0207).</li>
+    <li><strong>Tablet analysis:</strong> DNA was successfully extracted from MDMA tablets using a dilute sodium carbonate method, with approximately 50% of tablets yielding clearly observable DNA.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This monograph was a conceptual leap in forensic science — the idea that the biological “detritus” accumulated during the illicit drug manufacturing and distribution process could itself become forensic evidence was entirely novel. <mark>Burgoyne’s</mark> insight connected his longstanding expertise in DNA extraction technologies (including FTA paper) and environmental DNA profiling to a pressing law enforcement need. The work demonstrated that DNA profiling of drugs offers capabilities that chemical profiling cannot: specifically, it can identify <em>persons</em> involved in drug handling and can be applied to drugs that are difficult to profile by chemical means, such as “ice” (crystal methamphetamine). The project also advanced the concept of using microbial community DNA as a form of geographic “fingerprint” to infer drug provenance — an idea that anticipated the later explosion of metagenomics in forensics.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>James Waters’ PhD thesis (Flinders University, 2004) on soil DNA profiling methods for forensic examination</li>
+    <li><mark>Burgoyne’s</mark> ATNA-SMIPS single-primer amplification technology for trace and environmental DNA</li>
+    <li>Smith &amp; <mark>Burgoyne</mark> (2001), <em>Gene</em> 271, 273–283 — work on transposon divergence in eukaryotic genomes</li>
+    <li>Kostman et al. (1995) — bacterial strain typing via ribosomal repeat length polymorphisms</li>
+    <li>Established forensic trace DNA methodologies (Profiler Plus, Minifiler)</li>
+    <li><mark>Burgoyne’s</mark> earlier DNA extraction and collection innovations (FTA paper, Microcon filtration)</li>
+    <li>Burgoyne SMIPS patent (US 2004/0175715 A1, 2004) — foundational patent for the single-primer amplification approach used in this study</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>NDLERF Monograph No. 42: <em>Assessment of the utility of obtaining human profiles from drug seizures</em> — a direct follow-on project</li>
+    <li>Forensic metagenomics and environmental DNA approaches to drug provenance determination</li>
+    <li>Development of next-generation sequencing applications in forensic drug analysis</li>
+    <li>Broader adoption of trace DNA profiling from non-biological surfaces and substrates in forensic laboratories</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>David Edward Arnold Catcheside</strong> — School of Biological Sciences, Flinders University. Genetics researcher with expertise in DNA recombination and molecular biology.</p><p><strong>Kenneth Paul Kirkbride</strong> — Forensic Services, Australian Federal Police. Leading forensic chemist who provided operational context and drug seizure samples.</p><p><strong>Katrin Both</strong> — Forensic Science South Australia. Processed STR profiles from drug seizure extracts.</p><p><strong>James Waters</strong> — PhD student in <mark>Burgoyne’s</mark> laboratory whose thesis on soil DNA profiling provided foundational methodology.</p>

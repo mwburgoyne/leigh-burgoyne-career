@@ -1,0 +1,79 @@
+id: 1975_burgoyne_CaMg_endonuclease_Asites
+title: The Reaction of the Ca-Mg Endonuclease with the A-Sites of Rat Nucleoprotein
+page_title: Burgoyne & Mobbs (1975) — Ca-Mg Endonuclease Reaction with A-Sites of Rat Nucleoprotein
+authors:
+- L. A. Burgoyne
+- J. Mobbs
+authors_affiliation: null
+venue: Nucleic Acids Research, 2(9), 1551–1558
+paper_number: null
+doi: 10.1093/nar/2.9.1551
+funding: null
+citations: 17
+citations_source: Crossref (title+author)
+tags:
+- Chromatin
+- A-Sites
+- Ca-Mg Endonuclease
+- Nucleosome
+- Micrococcal Nuclease
+- Trypsin
+- Quantitative
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '1975'
+- label: Received
+  value_html: 7 July 1975
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1975 - The reaction of the Ca-Mg endonuclease with the A-sites of rat nucleoprotein.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By 1975, the Hewish &amp; Burgoyne chromatin substructure discovery (1973) had been confirmed and extended by Kornberg, Noll, Olins &amp; Olins, and others. The nucleosome model was established and micrococcal nuclease had become the standard tool for chromatin digestion. This paper returns to the Ca-Mg endonuclease — the endogenous nuclear enzyme that originally revealed the substructure — and provides a rigorous quantitative characterisation of how it attacks the regularly spaced susceptible sites, which Burgoyne now names the "A-sites." This is the first paper without Hewish as co-author on the chromatin programme; Jennifer Mobbs is promoted to full co-author.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Quantitative characterisation of A-site cleavage:</strong> In a standard 30-min digest, 50–60% of potential single-stranded A-sites were cleaved, only 0.5–1.5% of DNA was rendered acid-soluble, and only 1.5–4% of chromatin became buffer-soluble. The enzyme is highly specific — it cleaves extensively at A-sites while generating minimal degradation products.</li>
+    <li><strong>Cleavage is evenly distributed throughout the genome:</strong> P values (probability of cleavage at any given A-site) estimated independently from band 1 and from the zone of bands slower than band 2 agreed closely (Figure 2). This demonstrates no gross clustering of endonuclease-susceptible sites — the A-sites are attacked uniformly across the bulk genome.</li>
+    <li><strong>Single-strand breaks are independent:</strong> P<sub>ds</sub> (double-strand cleavage probability) approximately equalled (P<sub>ss</sub>)<sup>2</sup>, indicating that single-strand breaks on opposite strands at the same A-site occur independently of each other. No positive or negative cooperativity.</li>
+    <li><strong>Low-frequency cleavages occur between A-sites:</strong> A class of very fast-migrating fragments appeared, especially prominent in denatured DNA. These arise from rare endonucleolytic cleavages in the protected regions between A-sites.</li>
+    <li><strong>Histones are stable during digestion:</strong> No significant loss of any histone class over 30 minutes. F1, F2a1, and (F3+F2b+F2a2) ratios remained constant through 60 minutes — the enzyme acts on DNA without disrupting the histone complement.</li>
+    <li><strong>Trypsin-resistant core retains A-site specificity:</strong> Digesting nuclei to a trypsin-resistant core (removing histone tails and non-histone proteins) inhibited Ca-Mg endonuclease activity but did not alter the specificity — the standard DNA fragment pattern persisted. Trypsin did not expose new sites or broaden bands. The A-site steric protection is intrinsic to the core histone-DNA complex.</li>
+    <li><strong>Micrococcal nuclease attacks the same A-sites:</strong> Mixed digests using both Ca-Mg endonuclease and micrococcal nuclease together produced fragment patterns identical to single-enzyme digests. If they attacked different sites with the same spacing, complex mixed patterns would result. This confirms both enzymes recognise the same accessible regions of chromatin.</li>
+    <li><strong>Mathematical model for random cleavage:</strong> Derived the relationship: expected proportion of DNA in band N = N(1−P)<sup>N−1</sup>P<sup>2</sup>, which fits the observed data well and provides a theoretical framework for analysing nuclease digestion kinetics.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper provided the first rigorous quantitative framework for understanding nuclease digestion of chromatin at the nucleosome level. The demonstration that A-site cleavage is uniform across the genome, that single-strand breaks are statistically independent, and that micrococcal nuclease attacks the same sites as the endogenous Ca-Mg endonuclease were all important for the maturing nucleosome field. The trypsin experiment was particularly elegant — showing that the core histone-DNA structure alone defines A-site accessibility.</p>
+    <p><strong>Career significance:</strong> This is the first chromatin paper without Hewish. Burgoyne is now leading the programme independently with Mobbs. The naming of "A-sites" represents Burgoyne's effort to establish precise terminology and anticipates the complexity of chromatin accessibility that would later become a major research theme. The mathematical modelling shows Burgoyne's quantitative rigour. The paper explicitly engages with Noll's and Kornberg's work, placing Burgoyne's contribution in context with the now-established nucleosome field.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Hewish &amp; Burgoyne (1973): Chromatin sub-structure landmark paper</li>
+    <li>Burgoyne, Hewish &amp; Mobbs (1974): Mammalian chromatin substructure, 2D PAGE</li>
+    <li>Hewish &amp; Burgoyne (1973): Ca-dependent endonuclease characterisation</li>
+    <li>Noll (1974): Micrococcal nuclease digestion of chromatin (Nature 251, 249)</li>
+    <li>Noll (1974): Nuclease studies of nucleosome spacing (Nucl. Acid Res. 1, 1573)</li>
+    <li>Weintraub &amp; Van Lente (1974): Trypsin-resistant chromatin core</li>
+    <li>Noll, Thomas &amp; Kornberg (1975): Shearing damage to chromatin substructure</li>
+    <li>Lohr &amp; Van Holde (1975): Chromatin substructure extends to yeast</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Quantitative framework for analysing nuclease digestion kinetics of chromatin</li>
+    <li>Confirmation that micrococcal nuclease and endogenous Ca-Mg endonuclease attack the same linker DNA sites</li>
+    <li>Understanding that core histone-DNA structure defines nuclease accessibility (A-sites)</li>
+    <li>Later Burgoyne chromatin higher-order structure studies (1976–1987)</li>
+    <li>Established "A-site" terminology for the inter-nucleosomal linker region</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>J. Mobbs (Jennifer Mobbs)</strong> — full co-author, continuing from technical assistant role. This is the first chromatin paper without D. R. Hewish. Funded by the Australian Research Grants Committee and the University of Adelaide Anti-Cancer Foundation.</p>

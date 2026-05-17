@@ -1,0 +1,71 @@
+id: 1971_chalmers_preformed_purines_lymphoid
+title: |-
+  Evidence for the Utilization of Preformed Purines by Rat Lymphoid Tissues: Implication to Immunosuppression by 6-Thiopurine Analogues
+page_title: Chalmers, Atkinson, Burgoyne & Murray (1971) — Preformed Purines in Lymphoid Tissues
+authors:
+- A. H. Chalmers
+- M. R. Atkinson*
+- L. A. Burgoyne
+- A. W. Murray
+authors_affiliation: null
+venue: Australian Journal of Experimental Biology and Medical Science, 49, 177–183
+paper_number: null
+doi: 10.1038/icb.1971.19
+funding: null
+citations: 37
+citations_source: OpenAlex (DOI)
+tags:
+- Purine Metabolism
+- Lymphoid Tissue
+- Immunosuppression
+- Azathioprine
+- Nucleotide Biosynthesis
+burgoyne_index: 2
+extra_meta:
+- label: Year
+  value_html: '1971'
+venue_label: Journal
+meta_notes:
+- <em>* M. R. Atkinson — Deceased May 1970</em>
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1971 - Evidence for the utilization of preformed purines by rat lymphoid tissues Implication to immunosuppression by 6‐thiopurine analogues.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper is a collaboration between the University of Adelaide Department of Surgery (Chalmers, Murray) and Flinders University (Burgoyne, Atkinson). It addresses a question in immunopharmacology: do lymphoid tissues synthesise their own purines <em>de novo</em>, or do they depend on preformed purines supplied by the liver? The answer has implications for understanding how immunosuppressive thiopurine drugs (azathioprine, 6-mercaptopurine) selectively affect the immune system. This represents a different research direction for Burgoyne — applied nucleotide biochemistry connected to clinical immunosuppression.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Portal occlusion selectively inhibits purine incorporation:</strong> Ligating the hepatic artery and portal vein (cutting off liver function) selectively inhibited [<sup>14</sup>C]formate incorporation into DNA purines of rat lymph nodes and thymus, while incorporation into DNA thymine was unaffected. This showed lymphoid tissues depend on the liver for their purine supply.</li>
+    <li><strong>Confirmed in vitro and by perfusion:</strong> Both perfused rat head preparations and lymph node slices incubated in vitro showed T/A and T/G ratios increased 6–9 fold over control animals, confirming that isolated lymphoid tissue has very limited <em>de novo</em> purine synthesis capacity.</li>
+    <li><strong>Immunosuppressive drugs mimic portal occlusion:</strong> Both azathioprine and its 9-butyl derivative significantly increased T/A and T/G ratios in spleen, lymph nodes and thymus — the same pattern as portal occlusion. This suggested that inhibition of purine supply is a significant component of immunosuppressive drug action.</li>
+    <li><strong>Different mechanisms for the two drugs:</strong> 9-Butylazathioprine and its metabolite do not inhibit the key <em>de novo</em> purine synthesis enzyme (PRPP amidotransferase), unlike azathioprine metabolites, suggesting a different mechanism of action despite similar immunosuppressive outcomes.</li>
+    <li><strong>Partial hepatectomy less effective:</strong> 70–75% hepatectomy produced only small effects on purine incorporation, probably because the remaining liver tissue continued <em>de novo</em> purine biosynthesis.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper provided evidence for the tissue-specific dependence of lymphoid organs on liver-derived preformed purines, extending earlier work on bone marrow. The connection to immunosuppressive drug mechanisms was clinically relevant — azathioprine was (and remains) widely used in transplantation medicine. The elegant experimental design using portal occlusion, head perfusion, and in vitro incubation provided convergent evidence for the same conclusion.</p>
+    <p><strong>Career significance:</strong> This is a more peripheral paper for Burgoyne — he is third of four authors, and the work is primarily driven by Chalmers and Murray at Adelaide. However, it illustrates the continuing Adelaide–Flinders connection and Burgoyne's breadth beyond the Ca<sup>2+</sup>-dependent endonuclease programme. The paper also carries the poignant note of Atkinson's death (May 1970), reflecting the ongoing impact of that loss on the collaborative network.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Lajtha &amp; Vane (1958): Dependence of bone marrow on liver for purine supply</li>
+    <li>Murray, Elliott &amp; Atkinson (1970): Nucleotide biosynthesis from preformed purines (Prog. Nucleic Acid Res.)</li>
+    <li>Chalmers, Murray, Gotjamanos, Knight &amp; Atkinson (1969): Immunosuppressive activity of thiopurines</li>
+    <li>Pritchard, Chavez-Peon &amp; Berlin (1970): Liver supplies purines to other tissues</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Understanding of tissue-specific purine metabolism and immunosuppressive drug mechanisms</li>
+    <li>Clinical rationale for azathioprine selectivity toward lymphoid tissue</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>A. H. Chalmers</strong> — Department of Surgery, University of Adelaide; first author. <strong>A. W. Murray</strong> — Senior biochemist, Adelaide; purine metabolism specialist. <strong>M. R. Atkinson</strong> — Deceased May 1970; had connected the Adelaide and Flinders groups.</p>

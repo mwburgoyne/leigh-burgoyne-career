@@ -1,0 +1,76 @@
+id: 2004_burgoyne_solid_medium_glass_fiber_patent
+title: Solid Medium and Method for DNA Storage (US 2004/0014068 A1)
+page_title: 2004 — Solid Medium and Method for DNA Storage (US 2004/0014068 A1)
+authors:
+- Leigh A. Burgoyne
+- Mitcham
+- Australia
+authors_affiliation: null
+venue: US 2004/0014068 A1
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- FTA Technology
+- DNA Storage
+- Solid Medium
+- Glass Fiber Matrix
+- Surfactant Protection
+- PCR Compatibility
+- Blood DNA
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Whatman, Inc., Newton, MA
+- label: Filed
+  value_html: December 20, 2002
+- label: Published
+  value_html: January 22, 2004
+- label: Priority Date
+  value_html: October 5, 1988 (Australian PJ 0775)
+authors_label: Inventor
+venue_label: Publication
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2004 - Solid medium and method for DNA storage.pdf
+  text: View Original Patent (PDF)
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This 2004 patent application publication represents a continuation-in-part within the FTA patent family, tracing its lineage back to <mark>Burgoyne’s</mark> original 1988 Australian filing (PJ 0775). By this stage, FTA technology had been commercialised by Whatman, Inc. and was in wide use for forensic DNA collection, newborn screening programmes, and field-based sample archiving. This filing refined and broadened the claims, particularly by extending the solid matrix concept beyond cellulose-based filter paper to encompass glass fiber matrices — a significant materials innovation expanding the range of practical applications.</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Fiber matrix with surfactant protection (Claim 1):</strong> A dry solid medium for DNA storage comprising a fiber matrix with a surfactant deposited onto it to protect applied genetic material from degradation.</li>
+    <li><strong>Anionic detergent specification (Claim 2):</strong> The surfactant preferably includes an anionic detergent such as sodium dodecyl sulphate (SDS), the primary agent for denaturing proteins and inactivating pathogens.</li>
+    <li><strong>Glass fiber matrix (Claim 3):</strong> Extension to synthetic glass fibers and filaments — encompassing wet-laid fiberglass microporous filters (Whatman GF/A, GF/B, GF/C, GF/D, GF/F grades) with pore sizes from 0.2 µm to 2.7 µm.</li>
+    <li><strong>Releasing means (Claim 4):</strong> The medium further includes means for releasing the genetic material for downstream analysis.</li>
+    <li><strong>Four-component protective composition:</strong> (i) monovalent weak base (Tris, pH 8.0–9.5); (ii) chelating agent (EDTA); (iii) anionic detergent (SDS); (iv) optionally uric acid as free-radical scavenger for long-term storage.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This patent application represented an important materials extension of the FTA platform. By broadening the claims from cellulose-based papers to glass fiber matrices, <mark>Burgoyne</mark> and Whatman secured intellectual property protection over a wider range of solid substrates for DNA storage. Glass fiber matrices offered advantages in controlled pore structure, reduced DNA adsorption losses, improved release characteristics, and compatibility with automated laboratory systems. The patent demonstrated successful PCR amplification of stored blood DNA targeting n-Ras proto-oncogene and Y-chromosome repeat sequences, with DNA quality equivalent to that from fresh blood.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>US 5,496,562 (1996): Original FTA patent — foundational solid medium for DNA storage</li>
+    <li>US 5,807,527 (1998), US 5,985,327 (1999): Successive continuations refining compositions and methods</li>
+    <li>US 6,294,203 (2001), US 6,322,983 (2001): Further expansions of FTA claims</li>
+    <li>US 6,447,804 (2002), US 6,627,226 (2003): Most recent family members</li>
+    <li>McCabe et al. (1987): Prior art on extracting DNA from dried blood spots on filter paper</li>
+    <li>Ames et al. (1981): Uric acid as free-radical scavenger, informing inclusion of urate in FTA formulation</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Expansion of FTA product line: Glass fiber matrix claims enabled Whatman to develop next-generation FTA products with improved DNA binding, release, and automation compatibility</li>
+    <li>Strengthened IP portfolio for forensic DNA databases and newborn screening programmes</li>
+    <li>Automated high-throughput DNA processing workflows using solid-state purification</li>
+    <li>Field-deployable room-temperature sample collection for epidemiological and veterinary applications</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: '<p><strong><mark>Leigh A. Burgoyne</mark></strong> — Sole inventor. Assignee: Whatman, Inc., Newton, MA.</p>'

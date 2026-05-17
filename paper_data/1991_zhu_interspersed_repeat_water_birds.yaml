@@ -1,0 +1,82 @@
+id: 1991_zhu_interspersed_repeat_water_birds
+title: The Interspersed DNA Repeat Conserved in Water Birds’ Genomes
+page_title: Zhu, Burgoyne & Skinner (1991) — Interspersed DNA Repeat Conserved in Water Birds
+authors:
+- X. Zhu
+- L.A. Burgoyne
+- J.D. Skinner
+authors_affiliation: null
+venue: Genome, 34, 493–494
+paper_number: null
+doi: 10.1139/g91-075
+funding: null
+citations: 11
+citations_source: Crossref (title+author)
+tags:
+- Interspersed Repeat
+- Water Birds
+- Anseriformes
+- Avian Genome
+- TaqI
+- 425 bp Repeat
+- Mallard
+- Muscovy Duck
+- Goose
+- Black Swan
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1991'
+- label: Institution
+  value_html: School of Biology, Flinders University of South Australia
+- label: Corresponding Editor
+  value_html: D.L. Baillie
+- label: Received
+  value_html: 25 February 1991; Accepted 26 February 1991
+- label: EMBL Accession
+  value_html: X57379
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1991 - The interspersed DNA repeat conserved in water birds' genomes.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>Following the 1990 characterisation of tandem repeats in the Toulouse goose, this short note extends the avian repetitive DNA programme to a different class of repeat — interspersed elements — and to a broader taxonomic range spanning four genera of the order Anseriformes. The paper was accepted the day after submission, reflecting its concise, definitive nature.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>425 bp interspersed repeat:</strong> A major interspersed repeat family was identified by TaqI restriction, M13 cloning, and sequencing from four water bird species: Mallard (<em>Anas platyrhynchos</em>), Muscovy Duck (<em>Cairina moschata</em>), Toulouse Goose (<em>Anser anser</em>), and Black Swan (<em>Cygnus atratus</em>).</li>
+    <li><strong>Conserved across four genera:</strong> The repeat is conserved across at least four genera of the order Anseriformes: <em>Anas</em>, <em>Anser</em>, <em>Cairina</em>, and <em>Cygnus</em>. A 425 bp consensus core sequence was derived and deposited in EMBL (accession X57379).</li>
+    <li><strong>Ancient origin:</strong> Individual isolates show only 80–90% homology within an individual or between genera, suggesting the sequence is very old with an origin that predates the separation of these genera.</li>
+    <li><strong>Genome proportion:</strong> The full-length parental sequence may be ~2.170 kb (largest observed TaqI band). The 425 bp core unit represents approximately 2% of the avian genome; the full repeat is about 10% of the genome.</li>
+    <li><strong>No internal repetition:</strong> Unlike the tandem repeats characterised in the 1990 paper, this repeat shows no evidence of internal tandem structure.</li>
+    <li><strong>Weak chicken homology:</strong> The consensus sequence shows a weak but probably significant relationship (65% identity) to the published chicken CR1 OVA sequence (Stumph et al. 1981), suggesting a possible connection to the broader chicken repeat 1 (CR1) family of avian interspersed elements.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper identified a major interspersed repeat element conserved across the order Anseriformes, representing one of the earliest characterisations of interspersed (non-tandem) repetitive DNA in water birds. The finding that this element constitutes ~10% of the genome and predates genus separation provided insight into the deep evolutionary architecture of avian genomes. The weak homology to chicken CR1 OVA hinted at a relationship to the CR1 non-LTR retrotransposon family, which was later confirmed to be a major component of avian genomes.</p>
+    <p><strong>Career significance:</strong> Second Zhu/Burgoyne/Skinner avian genomics paper, continuing to build the comparative repetitive DNA programme. Note that Burgoyne is now second author (between Zhu and Skinner), reflecting his role as senior/supervising investigator. The department name has changed from “School of Biological Sciences” to “School of Biology.” Sequence deposited in EMBL database — the lab’s growing contribution to public sequence repositories.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1990_zhu_macrosatellites_toulouse_goose.html">Zhu, Skinner &amp; Burgoyne (1990)</a> Genome: Goose tandem repeat characterisation (methods reference)</li>
+    <li>Stumph, Kristo, Tsai &amp; O’Malley (1981): Chicken CR1 OVA middle-repetitive sequence</li>
+    <li>Britten &amp; Kohne (1968): Repetitive DNA discovery</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>First characterisation of a major interspersed repeat element in Anseriformes</li>
+    <li>Early connection between water bird interspersed repeats and chicken CR1 family</li>
+    <li>Foundation for the 1992 species-specific tandem repeat paper</li>
+    <li>Understanding of deep evolutionary conservation of avian genomic architecture</li>
+    <li>EMBL sequence deposit (X57379) available for future comparative studies</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>X. Zhu</strong> — First author; continuing avian genomics programme. <strong>J.D. Skinner</strong> — Long-term collaborator.</p>

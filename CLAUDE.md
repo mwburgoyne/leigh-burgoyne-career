@@ -1,5 +1,23 @@
 # Dad Chatbot Project — Claude Memory
 
+## RESUME PROTOCOL (read first, every session)
+
+This project's working state lives in `SESSION_STATUS.md`. CLAUDE.md is always loaded; `SESSION_STATUS.md` is not. These rules close the gap and are **non-negotiable**:
+
+1. **First action of any session, before answering anything project-related:**
+   - `Read` `SESSION_STATUS.md`. The first block (`## Outstanding Tasks`) is the live to-do list.
+   - `Read` `paper_summaries/burgoyne_papers.jsonl` line-count and `ls paper_summaries/*.html | wc -l` to confirm the on-disk state matches the counters at the top of `SESSION_STATUS.md`. If they disagree, reconcile before doing anything else.
+   - Confirm `paper_data/*.yaml` count matches — the YAMLs are the **source of truth**; `paper_summaries/*.html` are rendered from them via `tools/build_summary.py`.
+2. **This is the canonical project.** All content work happens here, in `dad_chatbot/`. The `dad_chatbot_full/` directory is a derived local-only mirror that adds PDF download links and lives alongside the source PDFs in `burgoyne_papers/` and `reference_papers/`. Never edit content directly in `dad_chatbot_full/` — refresh it by running `python3 tools/sync_full.py` from this directory.
+3. **Per-paper workflow goes through YAML:** add/edit `paper_data/<id>.yaml`, then re-run `python3 tools/build_summary.py paper_data/<id>.yaml`. To refresh citations across the corpus, run `python3 tools/update_citations.py` (single-source) or `--all` (multi-source sweep). To refresh the local full version after changes, run `python3 tools/sync_full.py`.
+4. **When the user says "resume" or "/clear" then "continue":** treat the first `## Outstanding Tasks` checkbox item as the next action unless the user redirects. Do not invent a different task.
+5. **Before starting a new task:** mark the corresponding checkbox in `## Outstanding Tasks` with `[~]` (in progress).
+6. **Immediately after finishing a task:** tick the checkbox `[x]`, append a one-line note to `## Recent activity` at the bottom of `SESSION_STATUS.md`.
+7. **Never declare a task "done" verbally without also ticking the checkbox.** The status file is the source of truth.
+8. **When new pending work surfaces mid-session:** add an `[ ]` checkbox to `## Outstanding Tasks` immediately.
+
+If any of these rules feels unsafe to follow because of a special user instruction this session, raise it explicitly with the user rather than silently skipping.
+
 ## Project Overview
 Mark Burgoyne is creating a "This is your life" tribute to his father, **Professor Leigh A. Burgoyne AM** (Emeritus, Flinders University of South Australia). The project involves ingesting all of Burgoyne's publications, creating HTML summaries, maintaining a JSONL dataset for future RAG use, and building an interactive career arc narrative page.
 
@@ -85,54 +103,65 @@ The project tracks four types of documents in the publication list and JSONL:
 - Publication entries have `data-year` attributes for year-based targeting
 - Timeline container has no scrollbar — SVG scales to fit container width (`overflow-x: hidden`, no `min-width` on SVG wrap)
 
-## Dual-Version Setup (established 2026-03-29)
+## Dual-Version Setup (canonical layout as of 2026-05-17)
 
-Two versions of the project are maintained:
+Two versions of the project exist, but only one is canonical:
 
-| Version | Path | Purpose |
-|---------|------|---------|
-| **Sanitised (GitHub)** | `/home/mark/projects/dad_chatbot/` | Public-facing, no PDFs, no PDF download links. Pushed to GitHub Pages. |
-| **Full (local only)** | `/home/mark/projects/dad_chatbot_full/` | Contains all source PDFs (`burgoyne_papers/`, `reference_papers/`), HTML summaries with "View Original PDF" buttons and poster links, JSONL with `pdf_path` fields. For family distribution. Never pushed to GitHub. |
+| Version | Path | Role |
+|---------|------|------|
+| **Canonical (this repo)** | `/home/mark/projects/dad_chatbot/` | Source of truth. Holds `paper_data/` YAML, `tools/` build pipeline, `assets/style.css`, `index.html`, and the public sanitised `paper_summaries/`. Pushed to GitHub Pages. |
+| **Full (local mirror)** | `/home/mark/projects/dad_chatbot_full/` | Derived. Same content + "View Original PDF" buttons on each summary + `pdf_path` field in JSONL + the actual PDFs in `burgoyne_papers/` / `reference_papers/`. Never pushed; for family distribution. |
 
-**IMPORTANT workflow rule:** When making edits to content (HTML summaries, index.html, JSONL, career_arc_notes.md, etc.), **duplicate the changes to both versions**. The sanitised version omits PDFs and PDF links; everything else should stay in sync. When processing new papers, create the full version first (in `dad_chatbot_full`), then copy the HTML summary to `dad_chatbot` with PDF links stripped.
+**Workflow rule:** Edit content (YAML, index.html, CSS, JSONL) here in `dad_chatbot/`. To refresh the local full mirror after changes, run:
 
-### What was removed from the sanitised version
-- `burgoyne_papers/` directory (102 PDFs + 11 posters)
-- `reference_papers/` directory (1 PDF)
-- All `<a class="pdf-link">View Original PDF</a>` buttons from 91 HTML summaries
-- All "Related Conference Poster(s)/Abstract(s)" sections (7 across 7 files)
-- `.pdf-link` and `.pdf-link:hover` CSS rules from all HTML summaries
-- `pdf_path` field from 87 JSONL entries
+```
+python3 tools/sync_full.py
+```
+
+That script re-renders the summaries with `--full` (PDF links on), copies index.html / assets / images / portrait into `dad_chatbot_full/`, and patches the JSONL while preserving `pdf_path` entries. PDFs in `burgoyne_papers/` and `reference_papers/` are left alone (those are added manually to the full mirror).
 
 ## Deployment
 - **GitHub Pages repository**: `https://github.com/mwburgoyne/leigh-burgoyne-career`
 - **Git remote**: `origin` is configured to `https://github.com/mwburgoyne/leigh-burgoyne-career.git`
 - **Main file**: `index.html` (renamed from `career_arc.html` on 2026-03-29 for GitHub Pages compatibility)
 - **Branch**: `master`
+- **Fresh repo history** (2026-03-29): Git history was reset to remove PDFs from commit history. Single root commit with sanitised content only.
+- **`.gitignore`** excludes: `burgoyne_papers/`, `reference_papers/`, `tasks.txt`, `SESSION_STATUS.md`, `career_arc_notes.md`, `Leigh_Burgoyne_Publications_DOI_List.docx`
 - All paper summary "Back to Career Arc" links point to `../index.html`
 - When asked to push, use `git push origin master`
+- Only the sanitised version (`dad_chatbot/`) is pushed. The full version (`dad_chatbot_full/`) is local only, not a git repo intended for remote push.
 
 ## Key Files
+
+### Both versions (sanitised + full)
+- `CLAUDE.md` — This file (project memory, instructions, preferences)
 - `SESSION_STATUS.md` — Master tracking document (read this first when resuming)
 - `career_arc_notes.md` — Working career arc notes organized by career phases + collaborator registry
 - `index.html` — The main interactive tribute page (renamed from `career_arc.html` for GitHub Pages deployment)
-- `paper_summaries/burgoyne_papers.jsonl` — 93-entry JSONL dataset for RAG
-- `paper_summaries/*.html` — 93 individual summary HTML files (includes recognition, acknowledgment, and citing paper entries)
-- `burgoyne_papers/` — Source PDFs (Burgoyne publications and related recognition/acknowledgment documents)
-- `reference_papers/` — Non-Burgoyne papers relevant to the career arc (e.g. Kornberg 1974 nucleosome model)
-- `Leigh_Burgoyne_Publications_DOI_List.docx` — Master publication list
+- `paper_summaries/burgoyne_papers.jsonl` — 93-entry JSONL dataset for RAG (sanitised version has no `pdf_path` field)
+- `paper_summaries/*.html` — 91 individual summary HTML files (sanitised version has no PDF download buttons or poster links)
 - `dad.png` — Portrait photo of Prof Burgoyne (transparent background cutout)
 - `flinders_logo_white.png` — White Flinders University logo (for dark backgrounds)
 - `flinders_logo.png` — Black/navy Flinders University logo (for light backgrounds)
 
+### Full version only (`dad_chatbot_full/`)
+- `burgoyne_papers/` — 102 source PDFs (Burgoyne publications and related recognition/acknowledgment documents)
+- `burgoyne_papers/posters/` — 11 conference poster PDFs
+- `reference_papers/` — Non-Burgoyne papers relevant to the career arc (e.g. Kornberg 1974 nucleosome model)
+- `Leigh_Burgoyne_Publications_DOI_List.docx` — Master publication list
+
 ## Processing Workflow (Per Paper)
-1. Read PDF via Read tool
+
+**Work in the full version first** (`dad_chatbot_full/`), then sync to sanitised version (`dad_chatbot/`).
+
+1. Read PDF via Read tool (from `dad_chatbot_full/burgoyne_papers/`)
 2. Quick citation lookup via OpenAlex API
-3. Create HTML summary in `paper_summaries/` with consistent CSS styling (blue meta boxes, green influence boxes, orange connections boxes, red PDF buttons, `<mark>` around Burgoyne's name)
-4. Append JSONL entry to `burgoyne_papers.jsonl`
+3. Create HTML summary in `dad_chatbot_full/paper_summaries/` with consistent CSS styling (blue meta boxes, green influence boxes, orange connections boxes, red PDF buttons, `<mark>` around Burgoyne's name)
+4. Append JSONL entry to `dad_chatbot_full/paper_summaries/burgoyne_papers.jsonl` (with `pdf_path`)
 5. Update `career_arc_notes.md` with numbered entry in appropriate phase
 6. Update collaborator registry if new collaborators appear
 7. Update `SESSION_STATUS.md`
+8. **Sync to sanitised version**: Copy HTML summary to `dad_chatbot/paper_summaries/` with PDF link, poster sections, and `.pdf-link` CSS stripped. Append JSONL entry to `dad_chatbot/paper_summaries/burgoyne_papers.jsonl` without `pdf_path` field. Copy any other changed files (index.html, career_arc_notes.md, etc.) directly.
 
 Process papers **two at a time in parallel** using Task agents. Hard auto-compact after every 4 papers.
 

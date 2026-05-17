@@ -1,0 +1,67 @@
+id: 1971_waqar_DNA_synthesis_inhibition_ethidium
+title: |-
+  DNA Synthesis in Mammalian Nuclei: Inhibition of DNA Synthesis in the Resting Rat Liver Nucleus by Ethidium Bromide, Proflavin and Actinomycin D
+page_title: Waqar & Burgoyne (1971) — DNA Synthesis Inhibition by Ethidium Bromide, Proflavin and Actinomycin D
+authors:
+- M. Anwar Waqar
+- Leigh A. Burgoyne
+authors_affiliation: null
+venue: Biochemical and Biophysical Research Communications, 43(5), 1024–1028
+paper_number: null
+doi: 10.1016/0006-291x(71)90564-x
+funding: null
+citations: 4
+citations_source: Crossref (title+author)
+tags:
+- DNA Synthesis
+- Drug Inhibition
+- Ethidium Bromide
+- Intercalating Agents
+- DNA Polymerase
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1971'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1971 - DNA synthesis in mammalian nuclei Inhibition of DNA synthesis in the resting rat liver nucleus by ethidium bromide, proflavin and actinomycin D.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper exploits the resting rat liver nuclear system established in the 1970 Ca<sup>2+</sup>-dependent priming papers to study how three DNA-intercalating drugs — ethidium bromide, proflavin, and actinomycin D — inhibit DNA synthesis. These drugs were commonly used to distinguish nuclear from non-nuclear (mitochondrial) DNA synthesis, so understanding their precise mechanism of action was important for interpreting such experiments. Waqar is first author on this more mechanistic study.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>All three drugs share a common mechanism:</strong> Ethidium bromide, proflavin, and actinomycin D all caused progressive, time-dependent inhibition of DNA synthesis in Ca<sup>2+</sup>-activated liver nuclei. The inhibition was reversible — the polymerase was not permanently inactivated.</li>
+    <li><strong>Inhibition reversed by activated (nicked) DNA:</strong> Adding DNase I-activated calf thymus DNA reversed inhibition by all three drugs, even when the added DNA was pre-saturated with the drug. Non-activated (intact) DNA did not reverse inhibition (except for actinomycin D, due to its higher affinity for free DNA).</li>
+    <li><strong>Drugs interfere with primer sites, not polymerase directly:</strong> The key insight was that the drugs had only a small effect when excess primer sites were available, but a large effect when primer sites were limiting. This meant the drugs were primarily interfering with the effectiveness of DNA priming sites rather than directly inhibiting DNA polymerase.</li>
+    <li><strong>Effect on nuclear nucleases:</strong> Ethidium bromide dose-dependently inhibited nuclear exonuclease activity (measured by mononucleotide release from <sup>32</sup>P-<em>E. coli</em> DNA). At 100 μM ethidium bromide, exonuclease activity dropped to levels comparable to the uninhibited DNA synthesis rate, suggesting a possible role for exonuclease inhibition ("path-clearing" failure) in the mechanism.</li>
+    <li><strong>Caution for comparative studies:</strong> The authors warned that using these drugs to distinguish nuclear from cytoplasmic DNA polymerases gives results "very difficult to interpret" because inhibition depends on the availability of primer sites and contaminating nuclease activity, not just polymerase sensitivity.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> A careful mechanistic analysis that clarified how intercalating drugs inhibit nuclear DNA synthesis — through primer site interference rather than direct polymerase inhibition. The practical warning about interpreting drug studies was valuable for the field. The observation that exonuclease ("path-clearing") activity was needed for effective DNA synthesis added to the understanding of how replication works in a chromatin context.</p>
+    <p><strong>Career significance:</strong> This is the first paper with Waqar as sole co-author (without Atkinson), indicating the Waqar–Burgoyne partnership had become self-sufficient. It demonstrates their system being used as a tool for dissecting mechanisms, beyond the initial discovery phase.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970): Ca<sup>2+</sup>-dependent priming system (both liver and thymus papers)</li>
+    <li>Meyer &amp; Simpson (1969): Use of drugs to distinguish nuclear vs mitochondrial DNA synthesis</li>
+    <li>Waqar, Burgoyne &amp; Atkinson (in press, cited as ref. 10): Biochem. J. paper on deoxyribonucleotide incorporation</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Understanding of how DNA-intercalating drugs affect replication in chromatin context</li>
+    <li>Caution for interpreting drug-based discrimination between nuclear and cytoplasmic DNA synthesis</li>
+    <li>Continued development of the resting nuclear system as an experimental tool</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>M. Anwar Waqar</strong> — First author; DNA biochemist at Flinders. This paper represents the Waqar–Burgoyne partnership working independently from Atkinson.</p>

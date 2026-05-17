@@ -1,0 +1,76 @@
+id: 2012_chen_burgoyne_wire_DNA_profiling
+title: A Rapid Wire-Based Sampling Method for DNA Profiling
+page_title: 2012 — A Rapid Wire-Based Sampling Method for DNA Profiling
+authors:
+- Tong Chen
+- David E.A. Catcheside
+- Alice Stephenson
+- Chris Hefford
+- K. Paul Kirkbride
+- Leigh A. Burgoyne
+authors_affiliation: null
+venue: <em>Journal of Forensic Sciences</em>, Vol. 57, No. 2, pp. 472–477
+paper_number: null
+doi: 10.1111/j.1556-4029.2011.02006.x
+funding: null
+citations: 3
+citations_source: Semantic Scholar (DOI)
+tags:
+- DNA Profiling
+- Stainless Steel Wire
+- Disaster Victim Identification
+- Field Deployable
+- STR
+- Direct PCR
+- Rapid Sampling
+- Forensic Science
+burgoyne_index: 5
+extra_meta:
+- label: Year
+  value_html: '2012'
+- label: Type
+  value_html: Technical Note
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2012 - A Rapid Wire-Based Sampling Method for DNA Profiling.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>Disaster victim identification (DVI) often involves the challenging logistics of sorting many tissue fragments from a small number of individuals. Existing workflows for DNA profiling require labor-intensive steps — tissue solubilization, DNA purification, yield estimation, and careful pipetting — all of which demand laboratory infrastructure and considerable time. This paper, funded by the Australian Government through the “Closed-Set Human Identification” project managed by ANZPAA NIFS, addressed the gap by developing a radically simplified sampling method that could bypass DNA extraction entirely and operate on a portable Agilent 2100 Bioanalyser platform. <mark>Burgoyne’s</mark> group at Flinders University, in collaboration with Forensic Science South Australia and the Australian Federal Police, set out to create a system suitable for remote or field conditions.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Hot wire sampling works:</strong> Stabbing human tissue or blood clots with stainless steel wire heated to red heat, followed by isopropanol fixation and drying, yielded sufficient DNA for direct PCR amplification — completely bypassing DNA extraction and quantification.</li>
+    <li><strong>Hot wire outperforms cold wire:</strong> Hot wire bound more DNA than cold wire, likely because heat-denatured proteins form a gel that promotes tissue adherence. Hot wire also ensured self-sterilization at the moment of sampling.</li>
+    <li><strong>Works across diverse tissues:</strong> Full quintuplex STR profiles were obtained from blood clots, prostate, bladder, skin, colon, muscle, liver, lung, kidney, and pancreas. DNA yields ranged from ~0.25 ng (muscle) to ~10.27 ng (kidney) per 2-mm wire tip.</li>
+    <li><strong>Minimal PCR inhibition:</strong> A 2-mm wire tip in a 25-μL PCR reduced amplification yield by approximately 25% — an acceptable trade-off for the massive gain in speed and simplicity.</li>
+    <li><strong>Samples stable for months:</strong> Wire-mounted samples stored at room temperature remained amplifiable for at least 180 days, with no time-dependent degradation.</li>
+    <li><strong>Compatible with full forensic profiling:</strong> Samples on wire could be amplified with AmpFlSTR Profiler Plus (9 loci) at 32 cycles, yielding useful profiles on an AB 3130xl Genetic Analyzer — enabling both rapid field triage and full laboratory genotyping from the same sample.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This paper represents a creative “lateral thinking” approach to forensic DNA technology that is characteristic of <mark>Burgoyne’s</mark> career. Rather than pursuing ever-more-complex microfluidic integration, the team asked: what if you could skip DNA extraction altogether? The wire-based method is strikingly simple — a heated wire, isopropanol fixation, and direct PCR — yet it solves a real operational problem in disaster victim identification. The dual-mode capability (field triage on a Bioanalyser plus later laboratory analysis from the same wire) is particularly elegant, as it preserves evidentiary value while enabling rapid on-site decisions. The work represents a conceptual descendant of <mark>Burgoyne’s</mark> FTA paper invention, applying the same “simplify the sample collection” philosophy to hard tissues under austere field conditions.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><mark>Burgoyne’s</mark> FTA paper technology (US Patent 5,496,562, 1996) — the paper explicitly discusses FTA paper’s limitations for field use with hard tissues, motivating the wire-based alternative</li>
+    <li>Robertson, Ross &amp; <mark>Burgoyne</mark> (eds.), <em>DNA in Forensic Science</em> (1990) — foundational DNA forensic methods</li>
+    <li>ISFG recommendations for DVI genetic analysis (Prinz et al., 2007)</li>
+    <li>Emerging microfluidic and chip-based forensic DNA systems (Hopwood et al., 2010; Greenspoon et al., 2008)</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Proof of concept for extraction-free, field-deployable DNA profiling in disaster victim identification scenarios</li>
+    <li>Demonstrated feasibility of magnetically manipulable wire substrates for future automated profiling chips</li>
+    <li>Advanced the concept of “sample-on-substrate” approaches where collection medium doubles as PCR-compatible carrier</li>
+    <li>Contributed to the broader literature on direct PCR from minimally processed samples</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Tong Chen</strong> — Ph.D., Flinders University. Lead researcher and first author.</p><p><strong>David E.A. Catcheside</strong> — Ph.D., Flinders University. Molecular biologist and Flinders colleague.</p><p><strong>Alice Stephenson</strong> — Forensic Science South Australia.</p><p><strong>Chris Hefford</strong> — Forensic Science South Australia.</p><p><strong>K. Paul Kirkbride</strong> — Ph.D., Australian Federal Police. Senior forensic scientist; continuing collaborator with <mark>Burgoyne</mark> on forensic DNA technologies.</p>

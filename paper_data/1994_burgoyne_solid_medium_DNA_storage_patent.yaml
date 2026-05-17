@@ -1,0 +1,98 @@
+id: 1994_burgoyne_solid_medium_DNA_storage_patent
+title: Solid Medium and Method for DNA Storage (US Patent 5,496,562)
+page_title: Burgoyne (1994) — Solid Medium and Method for DNA Storage (US Patent 5,496,562)
+authors:
+- Leigh A. Burgoyne
+authors_affiliation: Seaford, Australia
+venue: null
+paper_number: null
+doi: null
+funding: null
+citations: Cited by hundreds of subsequent patents
+citations_source: patent
+tags:
+- FTA Card
+- DNA Storage
+- Blood DNA
+- Filter Paper
+- SDS
+- EDTA
+- Tris
+- Uric Acid
+- Free Radical Trap
+- In Situ PCR
+- Pathogen Inactivation
+- Forensic DNA
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Flinders Technologies Pty Ltd, Bedford Park, Australia
+- label: Patent Number
+  value_html: US 5,496,562
+- label: Date of Patent
+  value_html: March 5, 1996
+- label: Priority Date
+  value_html: October 5, 1988 (Australian application PJ0775)
+- label: PCT Filed
+  value_html: October 3, 1989 (PCT/AU89/00430)
+- label: US Continuation Filed
+  value_html: November 30, 1993
+- label: Claims
+  value_html: '16'
+authors_label: Inventor
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1994 - Solid medium and method for DNA storage.pdf
+  text: View Original PDF
+sections:
+- heading: Related Conference Abstract
+  body_html: |-
+    <ul>
+    <li><a href="../burgoyne_papers/posters/1994 - Safe Collection Storage and Analysis of DNA from Blood (abstract).pdf">Safe Collection, Storage and Analysis of DNA from Blood</a> — abstract by Burgoyne, Kijas, Hallsworth &amp; Turner (5th International Symposium on Human Identification, 1994)</li>
+    </ul>
+- heading: Context & Background
+  body_html: |-
+    <p>This is the foundational patent for what became the FTA card — arguably the most commercially and practically important invention of Burgoyne's career. Filed originally in Australia on October 5, 1988, the same year as the macrosatellite polymorphism paper (Fowler et al. 1988 <em>Hum Genet</em>), this patent represents the convergence of Burgoyne's deep understanding of DNA biochemistry (nuclease mechanisms, metal ion cofactors, chromatin stability) with the practical needs of forensic DNA analysis. The patent addresses a fundamental problem: how to safely store, transport, and use DNA from blood samples without refrigeration, sterility requirements, or technical expertise at the collection site. The solution — a chemically treated filter paper — draws directly on Burgoyne's decades of experience with DNA degradation mechanisms, chelation chemistry, and enzymatic protection.</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>The solid medium composition:</strong> A cellulose-based matrix (filter paper) impregnated with a composition of: (a) a weak base (Tris) to maintain alkaline pH 8.0–9.5; (b) a chelating agent (EDTA) to bind Ca<sup>2+</sup>, Mg<sup>2+</sup>, and Fe; (c) an anionic detergent (SDS) to denature proteins and inactivate pathogens; and optionally (d) uric acid or urate salt as a free-radical trap for long-term storage.</li>
+    <li><strong>Multi-layered DNA protection rationale:</strong> Each component addresses a specific degradation pathway — EDTA prevents nuclease activity (Ca/Mg cofactors) and iron-catalysed free radical damage; SDS denatures autolytic enzymes and pathogenic organisms; alkaline pH inhibits acid nucleases; uric acid scavenges free radicals (converted to allantoin) and aids DNA desorption from paper.</li>
+    <li><strong>Pathogen inactivation:</strong> SDS non-specifically destroys secondary structure of coat proteins, internal proteins, and membranes of most pathogens, enabling safe postal transport. Exceptions noted: most resistant bacterial spores and some stable enteric virions, but these are not blood-borne concerns.</li>
+    <li><strong>In situ PCR:</strong> DNA stored on the treated paper can be amplified directly by PCR after protein removal (phenol treatment) and ion exchange (isopropanol/magnesium acetate wash). Three PCR targets demonstrated: n-Ras exon 2 (110 bp), Y-chromosome repeat (124 bp), and Y-chromosome repeat (250 bp). All gave results equivalent to extracted DNA.</li>
+    <li><strong>Long-term storage with polystyrene encasement:</strong> For archival storage of purified DNA (plasmids, clones), paper treated with uric acid/Tris is loaded with DNA, dried, then dipped in polystyrene/chloroform solution. Stored at −15°C with silica gel desiccant and sodium carbonate. Demonstrated ~100% recovery after 36 months (vs &lt;10% from untreated paper).</li>
+    <li><strong>DNA record cards:</strong> Whatman No. 1 paper marked with Indian ink/graphite pencil, autoclaved, treated with 40 mM uric acid / 100 mM Tris for systematic storage and retrieval of DNA samples.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific and commercial contribution:</strong> This patent is the intellectual foundation of FTA (Flinders Technology Associates) card technology, which became a global standard for DNA collection, storage, and transport in forensic science, newborn screening, veterinary diagnostics, agricultural genetics, and biodiversity sampling. The technology was licensed and commercialised internationally (initially through Life Technologies, later GE Healthcare/Whatman). FTA cards have been used by law enforcement agencies, hospitals, and researchers worldwide. The patent demonstrates Burgoyne's characteristic approach of applying fundamental biochemical understanding (nuclease mechanisms from the 1970s, chelation chemistry, free radical biology) to solve a pressing practical problem.</p>
+    <p><strong>Career significance:</strong> This patent marks the decisive transition from academic research to applied technology and commercialisation. Burgoyne is the sole inventor. The assignee, Flinders Technologies Pty Ltd, was the university's technology transfer vehicle. The priority date (October 1988) means this invention was conceived during the satellite III/macrosatellite forensic DNA work — the practical need for safe DNA transport directly motivated the invention. The connection to his fundamental research is explicit: the EDTA chelation of Ca<sup>2+</sup> and Mg<sup>2+</sup> to prevent nuclease activity is the same principle that underlies the Ca-Mg endonuclease work from 1970–1975, and the understanding of DNA degradation mechanisms draws on decades of chromatin biochemistry.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970) BBRC: Ca<sup>2+</sup>-dependent endonuclease and Buffer-A system</li>
+    <li>Hewish &amp; Burgoyne (1973) BBRC: Ca-Mg endonuclease and chromatin degradation</li>
+    <li><a href="1975_burgoyne_CaMg_endonuclease_Asites.html">Burgoyne &amp; Mobbs (1975)</a> NAR: A-site cleavage by Ca-Mg endonuclease</li>
+    <li>Fowler, Drinkwater, Skinner &amp; Burgoyne (1988) Hum Genet: Forensic DNA profiling need</li>
+    <li>McCabe et al. (1987) Hum Genet: DNA extraction from dried blood on filter paper</li>
+    <li>Ames et al. (1981) PNAS: Free radical damage to DNA</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Foundation of FTA card technology — global standard for DNA collection and storage</li>
+    <li>Safe postal transport of blood DNA without refrigeration or sterility</li>
+    <li>In situ PCR on stored blood samples</li>
+    <li>Polystyrene-encased long-term DNA archival storage</li>
+    <li>Parent patent for extensive family of continuation and divisional patents (1996–2005)</li>
+    <li>Commercial licensing through Flinders Technologies Pty Ltd</li>
+    <li>Enabled newborn screening programmes, forensic DNA databases, wildlife DNA banking</li>
+    <li>Rogers &amp; Burgoyne (1997, <em>Anal. Biochem.</em>) — first peer-reviewed extension of FTA to bacterial typing</li>
+    <li>Smith &amp; Burgoyne (2004, <em>BMC Ecology</em>) — systematic validation of FTA across wildlife taxa (272 citations)</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Leigh A. Burgoyne</strong> — Sole inventor. The patent represents the direct application of his fundamental understanding of DNA degradation mechanisms to a practical problem. Attorney: Merchant, Gould, Smith, Edell, Welter &amp; Schmidt.</p>

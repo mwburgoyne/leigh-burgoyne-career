@@ -7,3 +7,13 @@ tasks.txt
 SESSION_STATUS.md
 career_arc_notes.md
 Leigh_Burgoyne_Publications_DOI_List.docx
+
+# Editorial reports - regenerated locally as needed
+collaborator_report.md
+intra_link_suggestions.md
+LEARNINGS_FROM_CURTIS_CAREER.md
+
+# Python build artefacts
+tools/__pycache__/
+__pycache__/
+*.pyc

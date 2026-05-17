@@ -1,0 +1,74 @@
+id: 2015_khodakova_burgoyne_robust_reliable_soil_typing
+title: Robust and Reliable DNA Typing of Soils
+page_title: 2015 — Robust and Reliable DNA Typing of Soils
+authors:
+- A.S. Khodakova
+- L. Burgoyne
+- D. Abarno
+- A. Linacre
+authors_affiliation: null
+venue: '<em>Forensic Science International: Genetics Supplement Series</em>, 5, e330–e331'
+paper_number: null
+doi: 10.1016/j.fsigss.2015.09.131
+funding: null
+citations: 0
+citations_source: OpenAlex (DOI)
+tags:
+- Forensic soil DNA typing
+- Soil metagenomics
+- High-throughput sequencing
+- Arbitrarily primed PCR
+- Seasonal variation
+- Bray–Curtis similarity
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '2015'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2015 - Robust and reliable DNA typing of soils.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>Soil is among the most commonly encountered forms of trace evidence in forensic investigations—transferred readily to clothing, tyres, and tools—yet it has rarely formed part of the forensic examination process. Prior methods relied on visual appearance and elemental analysis, offering limited discriminatory power. The advent of High-Throughput DNA Sequencing (HTS) opened up the possibility of using the DNA of the microbial community within soil as a forensic “fingerprint” for a given location. However, a critical concern remained: if soil’s microbial community shifts with the seasons, could a sample collected months after a crime still be meaningfully compared to a reference sample? This study, led by Anastasia Khodakova with <mark>Leigh Burgoyne</mark> and colleagues at Flinders University, directly tackled this question of temporal robustness.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li>Soil samples as small as 50 mg yielded reproducible metagenomic profiles using Arbitrarily Primed PCR (AP-PCR) followed by Ion Torrent sequencing.</li>
+    <li>Samples from three geographically distinct locations (separated by 3–4 km) formed three clearly separate clusters when analysed by hierarchical agglomerative clustering and non-metric multidimensional scaling (NMDS), with average within-site taxonomic similarity of 85% for sites A and B and 79% for site C.</li>
+    <li>Crucially, samples clustered by collection site regardless of the season in which they were collected (summer, autumn, winter, or spring), demonstrating that seasonal variation in microbial composition is less than location-based variation.</li>
+    <li>Even visually similar soils from different locations (sites A and B) were reliably discriminated by their metagenomic profiles.</li>
+    <li>The method detected DNA sequences conserved throughout the year but varying by geographic location, making it suitable for forensic comparison where reference and questioned samples may be collected at different times.</li>
+    </ul><div class="influence-box">
+    <h2>Significance &amp; Contribution</h2>
+    <p>This paper addressed one of the most important practical objections to forensic soil DNA typing: the fear that seasonal changes in microbial communities would render comparisons unreliable when crime-scene and reference samples are collected at different times of year. By demonstrating that AP-PCR-based metagenomic profiling produces site-specific signals stable across all four seasons, the study provided critical validation data for the admissibility and reliability of soil DNA evidence. The work showed that the “whole biota” approach—targeting the entire metagenome rather than specific loci—offered a robust fingerprint tied to geographic origin. This was a necessary stepping stone toward moving forensic soil metagenomics from proof-of-concept into operational forensic casework, building confidence that temporal delays between evidence collection and crime occurrence need not invalidate comparisons.</p>
+    </div><div class="connections-box">
+    <h2>Knowledge Built Upon</h2>
+    <ul>
+    <li><strong>Khodakova, <mark>Burgoyne</mark>, Abarno &amp; Linacre (2013)</strong> — “Forensic analysis of soils using single arbitrarily primed amplification and high throughput sequencing” — the team’s initial proof-of-concept for AP-PCR-based soil metagenomics.</li>
+    <li><strong>Khodakova, Smith, <mark>Burgoyne</mark>, Abarno &amp; Linacre (2014)</strong> — “Random whole metagenomic sequencing for forensic discrimination of soils” in <em>PLoS ONE</em> — the full research article demonstrating discrimination of visually similar soils from two locations.</li>
+    <li><strong><mark>Burgoyne</mark> 2004 SMIPS patent (US 2004/0175715 A1)</strong> — origin of the Seq5 arbitrary primer used for soil profiling.</li>
+    <li><strong>Waters, Eariss, Yeadon, Kirkbride, <mark>Burgoyne</mark> &amp; Catcheside (2012, <em>Electrophoresis</em>)</strong> — demonstrated that arbitrary single-primer amplification yields reproducible, discriminatory sequence content profiles.</li>
+    <li><strong>Meyers &amp; Foran (2008)</strong> — Early work on spatial and temporal influences on bacterial profiling of forensic soil samples, which framed the seasonal variability question.</li>
+    <li><strong>Shade et al. (2014)</strong> — Findings that common soil microbial community members exhibit minimal temporal changes while rare taxa fluctuate, supporting the theoretical basis for temporal stability.</li>
+    </ul>
+    </div><div class="connections-box">
+    <h2>What It Contributed To</h2>
+    <ul>
+    <li>Validation framework for the seasonal robustness of forensic soil metagenomics, supporting the broader effort to establish soil DNA typing as admissible forensic evidence.</li>
+    <li>The growing body of work on AP-PCR-based soil profiling that positioned this technique as a practical tool for forensic laboratories, particularly Forensic Science SA in Adelaide.</li>
+    <li><mark>Burgoyne</mark>, Koh &amp; Catcheside (2017, Methods in Molecular Biology) — formalised AP-PCR metagenome comparison protocol as a methods chapter for the wider research community.</li>
+    <li><mark>Burgoyne</mark>, Koh &amp; Catcheside (2017, FSIGSS) — extended the soil metagenomics pipeline to vehicle-surface DNA (crushed insects and wheel-arch mud).</li>
+    <li>Conceptual foundation for subsequent studies examining additional temporal scales, geographic ranges, and environmental conditions in soil DNA forensics.</li>
+    </ul>
+    </div>
+- heading: Key Collaborators
+  body_html: |-
+    <ul>
+    <li><strong>Anastasia S. Khodakova</strong> — Lead researcher and PhD student at Flinders University; drove the experimental soil metagenomics programme.</li>
+    <li><strong><mark>Leigh A. Burgoyne</mark></strong> — Co-investigator at Flinders University; contributed foundational expertise in DNA preservation and forensic biology.</li>
+    <li><strong>Damien Abarno</strong> — Dual affiliation with Flinders University and Forensic Science SA; provided the operational forensic science perspective.</li>
+    <li><strong>Adrian Linacre</strong> — Corresponding author and senior forensic geneticist at Flinders University; supervised the research programme.</li>
+    </ul>

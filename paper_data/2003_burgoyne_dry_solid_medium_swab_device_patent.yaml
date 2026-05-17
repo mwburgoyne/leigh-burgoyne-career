@@ -1,0 +1,77 @@
+id: 2003_burgoyne_dry_solid_medium_swab_device_patent
+title: Dry Solid Medium for Storage and Analysis of Genetic Material (US 6,627,226 B2)
+page_title: 2003 — Dry Solid Medium for Storage and Analysis of Genetic Material — Swab Device (US 6,627,226)
+authors:
+- Leigh Alexander Burgoyne
+- Martin Smith
+- Neil Butt
+authors_affiliation: null
+venue: Continuation-in-part of US 6,294,203
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- FTA Technology
+- Swab Device
+- Polyester Matrix
+- DNA Storage
+- Buccal Collection
+- Genetic Material Preservation
+- Forensic Sampling
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Whatman, Inc., Newton, MA (US)
+- label: Patent Number
+  value_html: US 6,627,226 B2
+- label: Date of Patent
+  value_html: September 30, 2003
+- label: Filed
+  value_html: March 13, 2001
+authors_label: Inventors
+venue_label: Type
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2003 - Dry solid medium for storage and analysis of genetic material.pdf
+  text: View Original Patent (PDF)
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By 2003, <mark>Burgoyne’s</mark> FTA technology had been protected by a long chain of continuation and continuation-in-part patents stretching back to the foundational US 5,496,562 of 1993/1996. The core dry solid medium concept — a solid matrix impregnated with a composition of weak base, chelating agent, anionic detergent, and optionally uric acid — was well established for filter paper applications. However, the practical challenge of collecting samples from surfaces, body orifices, and wounds required a physical form factor beyond flat paper cards. This patent introduced the swab device embodiment, extending FTA technology into a new product category. Assigned to Whatman, Inc. (the US subsidiary), this CIP patent added two co-inventors from the Whatman commercial team — Martin Smith and Neil Butt — reflecting the shift toward product engineering and commercial development.</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Swab device form factor:</strong> A device comprising a support (handle/rod) and a head portion made of dry solid medium (FTA-impregnated matrix) for collecting, storing, and preserving genetic material directly upon contact with biological surfaces.</li>
+    <li><strong>Polyester (PET) as preferred solid matrix:</strong> The patent specifically claims polyester material as the preferred matrix for the swab head — a significant departure from the cellulose-based papers of earlier FTA patents, enabling a new class of collection substrates.</li>
+    <li><strong>Method claims for swab-based collection:</strong> Detailed method claims covering sorbing genetic material onto the swab, preserving it via the FTA chemistry, and releasing it (including by heat elution) for downstream analysis.</li>
+    <li><strong>Cell lysis on-device:</strong> The patent claims the complete workflow of exposing the swab to a biological sample, sorbing cells, lysing them on the swab head to release genetic material, and then preserving the released DNA/RNA in situ.</li>
+    <li><strong>Broad sample compatibility:</strong> Claims cover collection from buccal scrapes, blood, cerebrospinal fluid, feces, plasma, lymph, urine, cell/virus suspensions, and serum.</li>
+    <li><strong>Multiplex PCR validation from PET-FTA swabs:</strong> Example 6 demonstrates complete STR profiles generated from buccal DNA collected on FTA-coated PET filter membrane swabs, validating the technology for forensic-grade analysis.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>US 6,627,226 represents a pivotal expansion of <mark>Burgoyne’s</mark> FTA technology from flat paper matrices to three-dimensional swab devices. This was commercially transformative: while FTA cards required the user to apply a sample (e.g., a blood drop) to the paper, the swab device enabled direct collection from mucosal surfaces, skin, wounds, and environmental surfaces. The introduction of polyester (PET) as a preferred matrix material was also technically significant — PET offered different sorption characteristics, mechanical properties, and the ability to be formed into woven bulbs, filters, and meshes suitable for swab heads. The patent’s Example 6 demonstrated that FTA-coated PET swabs could yield complete multiplex STR profiles from buccal scrapes, validating the technology for forensic human identification without requiring venipuncture. This patent enabled the commercial product line that became the Whatman FTA swab, widely adopted in forensic casework, mass disaster victim identification, and clinical diagnostics.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>US 5,496,562 (1996): Foundational FTA patent establishing the dry solid medium composition</li>
+    <li>US 5,756,126 (1998): Analytical platform continuation establishing in situ PCR on FTA media</li>
+    <li>US 5,976,572 (1999): Intermediate continuation with composition refinements</li>
+    <li>US 6,294,203 (2001): Direct parent patent, first Whatman plc assignee with means-plus-function claims</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Commercial development of the Whatman FTA swab product line for buccal and environmental sample collection</li>
+    <li>Expansion of FTA technology into forensic casework beyond blood cards (crime scene swabs, reference buccal collections)</li>
+    <li>Subsequent patents exploring additional matrix materials and form factors</li>
+    <li>Widespread adoption in mass disaster victim identification programs using non-invasive buccal collection</li>
+    <li>Clinical and veterinary diagnostic applications requiring swab-based sample collection with integrated DNA preservation</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Martin Smith</strong> (Whatman, Inc., Rockland, MA) — Co-inventor; contributed to product engineering and commercial development of the swab device embodiment.</p><p><strong>Neil Butt</strong> (Whatman, Inc., Rockland, MA) — Co-inventor; contributed to the PET-FTA swab development and validation experiments.</p>

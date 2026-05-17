@@ -1,0 +1,86 @@
+id: 2001_burgoyne_dry_solid_medium_storage_analysis_patent
+title: Dry Solid Medium for Storage and Analysis of Genetic Material (US 6,294,203 B1)
+page_title: 2001 — Dry Solid Medium for Storage and Analysis of Genetic Material (US 6,294,203 B1)
+authors:
+- Leigh Alexander Burgoyne
+- Mitcham
+authors_affiliation: AU
+venue: null
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- FTA Card
+- DNA Storage
+- Continuation Patent
+- Whatman plc
+- Preserving Means
+- Releasing Means
+- Heat Release
+- Broadest Claims
+- Terminal Disclaimer
+- Assignee Change
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Whatman plc, Kent (GB)
+- label: Patent Number
+  value_html: US 6,294,203 B1
+- label: Date of Patent
+  value_html: September 25, 2001
+- label: Filed
+  value_html: June 18, 1999 (Appl. No. 09/335,656)
+- label: Claims
+  value_html: 6 (3 apparatus, 3 method)
+- label: Subject to terminal disclaimer
+  value_html: ''
+- label: Continuation of
+  value_html: US 5,976,572 → US 5,756,126 → US 5,496,562 → Ser. No. 07/671,859 (abandoned)
+- label: Priority date
+  value_html: October 5, 1988 (Australian PJ0775/88)
+authors_label: Inventor
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2001 - Dry solid medium for storage and analysis of genetic material.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This patent (US 6,294,203 B1) is the seventh US patent in the FTA card family and represents both a strategic evolution in claim language and a significant commercial transition. It is a continuation of US 5,976,572, tracing back through US 5,756,126 and US 5,496,562 to the original 1988 Australian priority filing. The specification is identical to the prior family members. Two features distinguish this patent: First, the assignee has changed from Flinders Technologies Pty. Ltd. to <strong>Whatman plc</strong> (Kent, GB), marking the commercial acquisition of the FTA technology by the established British filtration and paper products company. Second, the claims have been reduced to their most abstract means-plus-function formulation — just 6 claims using the broadest possible patent language.</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Claim 1 — Broadest possible apparatus claim:</strong> A dry solid medium comprising a solid matrix for sorbing genetic material and “preserving means” for protecting genetic material from degradation. No specific chemicals, pH values, detergents, chelators, or antioxidants are named.</li>
+    <li><strong>Claim 2 — Releasing means:</strong> Further including “releasing means” for releasing genetic material from the matrix.</li>
+    <li><strong>Claim 3 — Heat releasing means:</strong> Releasing via application of heat, covering the wax-carrier approach from US 5,972,386.</li>
+    <li><strong>Claims 4–6 — Method claims:</strong> Mirror the apparatus claims as method claims using the same abstract language.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Patent strategy:</strong> This continuation represents the ultimate distillation of FTA patent claim language. Where the foundational patent named specific chemicals and intermediate continuations used functional groupings, this patent strips everything to pure means-plus-function language. With only 6 claims, it is the most economical patent in the family — a final sweeper filing to capture remaining claim space.</p>
+    <p><strong>Commercial significance:</strong> The change of assignee to Whatman plc marks a landmark commercial event. Whatman acquired FTA technology and integrated it as “Whatman FTA Cards,” bringing global manufacturing, distribution, and marketing resources to what had been an Australian university technology. Whatman would later be acquired by GE Healthcare.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne US 5,976,572 (1999): Direct parent continuation</li>
+    <li>Burgoyne US 5,756,126 (1998): Analytical platform CIP</li>
+    <li>Burgoyne US 5,496,562 (1994/1996): Foundational FTA patent</li>
+    <li>Burgoyne US 5,972,386 (1999): Retaining agent patent — basis for releasing means claims</li>
+    <li>All six prior FTA family patents</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Broadest means-plus-function claim coverage for FTA technology</li>
+    <li>First FTA patent under Whatman plc, documenting commercial technology transfer</li>
+    <li>Unified storage-and-release claims bridging FTA composition with wax-carrier release</li>
+    <li>Completed the seven-patent core FTA estate</li>
+    <li>Underpinned Whatman’s global commercialisation of FTA Cards</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong><mark>Leigh Alexander Burgoyne</mark></strong> — Sole inventor. Address: Mitcham (AU). Assignee: Whatman plc, Kent (GB).</p>

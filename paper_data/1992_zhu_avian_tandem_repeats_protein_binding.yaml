@@ -1,0 +1,88 @@
+id: 1992_zhu_avian_tandem_repeats_protein_binding
+title: Avian Species-Specific Tandem Repeats Contain Nuclear Protein Binding Sites
+page_title: Zhu, Testori, Oh, Skinner & Burgoyne (1992) — Avian Species-Specific Tandem Repeats & Nuclear Protein Binding
+authors:
+- Xiaoyi Zhu
+- Alessandro Testori
+- Sawyin Oh
+- Jenny D. Skinner
+- Leigh A. Burgoyne
+authors_affiliation: null
+venue: Biochemical and Biophysical Research Communications, 182(2), 447–451
+paper_number: null
+doi: 10.1016/0006-291x(92)91752-c
+funding: null
+citations: 5
+citations_source: Crossref (title+author)
+tags:
+- Tandem Repeat
+- Genus-Specific
+- Nuclear Protein Binding
+- AP2
+- ATF
+- T Antigen
+- Chicken
+- Goose
+- Swan
+- Avian Genome
+- Repetitive DNA
+burgoyne_index: 4
+extra_meta:
+- label: Year
+  value_html: '1992'
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University, Adelaide
+- label: Received
+  value_html: 6 December 1991
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1992 - Avian species-specific tandem repeats contain nuclear protein binding sites.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper extends the Zhu/Burgoyne avian repetitive DNA programme by comparing genus-specific tandem repeats from chickens, geese, and swans, and discovering that each contains specific nuclear protein binding sites. Building on the 1990 goose macrosatellite paper and a 1991 <em>Biochemical International</em> paper (Zhu et al. 1991, ref. 16 — characterising <em>Anas</em>-specific and <em>Cairina</em>-specific repeats), this work adds chicken-specific and swan-specific repeats to complete a five-genus comparative survey. The finding of transcription factor binding sites within these repeats bridges the avian genomics programme with the chromatin/DNA-protein interaction themes of Burgoyne’s earlier work.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Three genus-specific tandem repeats of similar length (~42–43 bp) but completely different sequences:</strong>
+    <ul>
+    <li><strong>Chicken-specific (42 bp):</strong> Found in <em>Gallus domesticus</em> and <em>Gallus gallus</em> only. Contains T antigen binding site GGGGC, oligo A/T stretches fitting the consensus T/GAAAAT/C (alpha-protein and W-protein binding sites involved in chromatin packaging). 52% homology to the sex-specific W-chromosome repeat. ~1.13% of genome (1.7×10<sup>6</sup> copies/cell). Zero contribution to other avian genomes.</li>
+    <li><strong>Swan-specific (~43 bp):</strong> GC-rich, isolated from White swan (<em>Cygnus olor</em>), also present in Black swan (<em>Cygnus atratus</em>). Divergent copies (76–98% homology) with a conserved 14 bp core GGGGTGGGTCCTCC containing the AP2 transcription factor binding site CCCCACCC. ~3.67% of genome (5.6×10<sup>6</sup> copies/cell).</li>
+    <li><strong>Goose-specific (43 bp):</strong> Previously characterised (Zhu et al. 1990). Present in Toulouse, Emden, and Chinese goose. Well conserved (&gt;95% homology between species). Contains AP2 binding site TCCCCAG, acute phase response element TCACT, and ATF binding sites TCACGTCA and TACGTCA. ~3.15–4.09% of genome.</li>
+    </ul></li>
+    <li><strong>Additional genus-specific repeats:</strong> <em>Anas</em>-specific 14 bp repeat (CTGAGGTCACAATG, containing CAAT box and CRE-homologous site) and <em>Cairina</em>-specific 13 bp repeat (GAGGCGCAGAATA, containing T antigen site and RNA promoter element) were also genus-restricted (from Zhu et al. 1991 <em>Biochem. Int.</em>).</li>
+    <li><strong>Nuclear protein binding sites are universal:</strong> All five genus-specific repeats contain recognisable transcription factor or nuclear protein binding sites, despite having completely different sequences.</li>
+    <li><strong>Proposed amplification mechanism:</strong> Short tandem repeats amplified from ancestral sequences containing nuclear protein binding sites via enzymatic binding, unwinding, nicking, slippage, repair, and ligation.</li>
+    <li><strong>Speculative significance:</strong> The genus-specific accumulation of particular binding sites might play a role in determining phenotypic differences between genera.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper made the striking observation that independently evolved, genus-specific tandem repeats in birds all converge on a common feature: the presence of nuclear protein binding sites. This suggests that the amplification and retention of these repeats is not random but is functionally constrained by protein–DNA interactions. The proposed mechanism linking nuclear protein binding to repeat amplification via slippage was an early contribution to understanding the biogenesis of tandem repetitive DNA. The complete five-genus survey (covering two orders — Galliformes and Anseriformes) provided the comparative breadth needed to support the conclusion.</p>
+    <p><strong>Career significance:</strong> This is the culminating paper of the Zhu/Burgoyne avian repetitive DNA series (1990–1992). Xiaoyi Zhu’s full name appears for the first time. Alessandro Testori returns from the PKC and phosphorylation papers. Sawyin Oh is a new collaborator. Jenny D. Skinner’s full name (Jennifer/Jenny) continues. The paper bridges the avian genomics programme with Burgoyne’s long-standing interest in DNA–protein interactions and chromatin packaging. Published in BBRC.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1990_zhu_macrosatellites_toulouse_goose.html">Zhu, Skinner &amp; Burgoyne (1990)</a> Genome: Goose tandem repeat characterisation</li>
+    <li><a href="1991_zhu_interspersed_repeat_water_birds.html">Zhu, Burgoyne &amp; Skinner (1991)</a> Genome: Water bird interspersed repeat</li>
+    <li>Zhu, Testori, Oh, Skinner &amp; Burgoyne (1991) Biochem. Int.: <em>Anas</em>-specific and <em>Cairina</em>-specific repeats with nuclear protein binding</li>
+    <li>Harata et al. (1988): Alpha-protein and W-protein in chicken chromatin packaging</li>
+    <li>Solomon, Strauss &amp; Varshavsky (1986): Nuclear protein binding to AT-rich sequences</li>
+    <li>Kingston et al. (1986): T antigen binding site recognition</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Discovery that genus-specific tandem repeats universally contain nuclear protein binding sites</li>
+    <li>Proposed slippage-based amplification mechanism for short tandem repeats at protein binding sites</li>
+    <li>Complete five-genus comparative survey of avian genus-specific repeats</li>
+    <li>Bridge between avian repetitive DNA programme and DNA–protein interaction themes</li>
+    <li>Speculation on genus-specific binding site accumulation and phenotypic divergence</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Xiaoyi Zhu</strong> — Lead author, continuing avian genomics (full name revealed). <strong>Alessandro Testori</strong> — Returning from PKC and phosphorylation papers. <strong>Sawyin Oh</strong> — New collaborator (first appearance). <strong>Jenny D. Skinner</strong> — Long-term collaborator (Jenny = Jennifer).</p>

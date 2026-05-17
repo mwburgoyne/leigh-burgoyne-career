@@ -1,0 +1,71 @@
+id: 1969_burgoyne_purification_arom_aggregate
+title: Purification and Properties of the Aromatic (<em>arom</em>) Synthetic Enzyme Aggregate of <em>Neurospora crassa</em>
+page_title: Burgoyne, Case & Giles (1969) — Purification of the Aromatic Enzyme Aggregate
+authors:
+- Leigh Burgoyne
+- Mary E. Case
+- Norman H. Giles
+authors_affiliation: null
+venue: Biochimica et Biophysica Acta — Enzymology, 191(2), 452–462
+paper_number: null
+doi: 10.1016/0005-2744(69)90264-2
+funding: null
+citations: 31
+citations_source: Crossref (title+author)
+tags:
+- Enzyme Purification
+- Multienzyme Complex
+- Neurospora
+- Aromatic Biosynthesis
+- Protein Structure
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '1969'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1969 - Purification and properties of the aromatic (arom synthetic enzyme aggregate of Neurospora crassa.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>The <em>arom</em> gene cluster in <em>Neurospora crassa</em> encodes a remarkable multienzyme aggregate carrying five sequential enzyme activities in aromatic amino acid biosynthesis (steps 2–6 of the pre-chorismic acid pathway). Previous genetic work by Giles and colleagues had characterised the gene cluster, but the protein complex itself had not been purified. This paper — with Burgoyne as first author — provides the first purification to near-homogeneity and the definitive physical characterisation of this pentafunctional enzyme.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Purification to near-homogeneity:</strong> Developed an 11-step purification procedure from <em>N. crassa</em> mycelium involving spermine precipitation, ammonium sulphate fractionation, ion exchange (K+ Biorad, DEAE-Sephadex), calcium phosphate gel, and Sepharose 4B gel filtration. The purified enzyme showed a single major peak in the analytical ultracentrifuge.</li>
+    <li><strong>Molecular weight:</strong> Determined as ~231,000 by equilibrium sedimentation combined with amino acid analysis (v̄ = 0.74). Sedimentation coefficient s<sub>20,w</sub> = 11.4 S.</li>
+    <li><strong>Inseparable five activities:</strong> All five enzyme activities co-purified through every step and co-sedimented in sucrose gradients — no conditions separated them during purification.</li>
+    <li><strong>Dimer of identical halves:</strong> SDS treatment and SDS-PAGE indicated dissociation to a single species of ~100,000 MW. Proposed the complex consists of two identical halves joined by weak non-peptide bonds.</li>
+    <li><strong>Smaller subunits detected:</strong> Under more extreme conditions (guanidine-HCl), species ranging from 29,000 to 120,000 MW were detected, possibly representing individual polypeptide chains.</li>
+    <li><strong>Reactivation possible:</strong> Three of five activities (DHS reductase, dehydroquinase, shikimate kinase) could be reactivated after denaturation by boiling, urea, guanidine, or SDS treatment — indicating these catalytic sites can refold independently.</li>
+    <li><strong>Oxygen sensitivity:</strong> The enzyme was readily inactivated by O<sub>2</sub> even in the presence of thiols, requiring anaerobic (N<sub>2</sub>) handling throughout.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This was the first purification and physical characterisation of one of the earliest-recognised multienzyme complexes (now known to be a multidomain/multifunctional protein). The <em>arom</em> complex became a textbook example of gene cluster organisation and multifunctional enzymes. Later work would show that in fungi this is actually a single large polypeptide chain carrying all five domains — making it one of the first recognised multifunctional proteins. Burgoyne's proposal of two identical halves was prescient.</p>
+    <p><strong>Career significance:</strong> This is arguably the most significant paper from Burgoyne's Neurospora period. As first author on a paper that would become a foundational reference for the arom system, it demonstrates his strength in demanding protein purification work. The 11-step protocol requiring strict anaerobic conditions shows the same practical ingenuity that characterised his cytochrome b<sub>2</sub> work and would later emerge in FTA card development.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Giles, Case, Partridge &amp; Ahmed (1967): Discovery of the <em>arom</em> cluster (PNAS)</li>
+    <li>Giles et al. (1967): Second PNAS paper on genetic organisation</li>
+    <li>Sucrose gradient evidence for associated complex from earlier Giles lab work</li>
+    <li>SDS-PAGE methodology of Shapiro et al. (1967)</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li><a href="1969_case_complementation_DHQ_synthetase.html">Case, Burgoyne &amp; Giles (1969)</a>: Companion complementation paper used this purification</li>
+    <li>Extensive subsequent work on the AROM protein as a model multifunctional enzyme</li>
+    <li>Later discovery that fungal AROM is actually a single pentafunctional polypeptide (not five separate chains)</li>
+    <li>The broader understanding of multienzyme complexes and multidomain proteins</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Norman H. Giles</strong> — Yale geneticist, head of the <em>arom</em> research programme. <strong>Mary E. Case</strong> — Long-term research associate. This paper represents the biochemical counterpart to the genetic work, with Burgoyne contributing the protein chemistry expertise.</p>

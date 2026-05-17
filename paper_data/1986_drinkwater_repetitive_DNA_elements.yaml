@@ -1,0 +1,75 @@
+id: 1986_drinkwater_repetitive_DNA_elements
+title: |-
+  Two Human Repetitive DNA Elements: A New Interspersed Repeat Found in the Factor IX Gene, and a Satellite II Tandem Repeat Sequence
+page_title: Drinkwater, Burgoyne & Skinner (1986) — Two Human Repetitive DNA Elements
+authors:
+- Roger D. Drinkwater
+- Leigh A. Burgoyne
+- Jennifer D. Skinner
+authors_affiliation: null
+venue: Nucleic Acids Research, 14(23), 9541
+paper_number: null
+doi: 10.1093/nar/14.23.9541
+funding: null
+citations: 2
+citations_source: Crossref (title+author)
+tags:
+- Repetitive DNA
+- Satellite II
+- Interspersed Repeat
+- Factor IX Gene
+- Tandem Repeat
+- Human Genome
+- Sperm Library
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1986'
+- label: Submitted
+  value_html: 30 September 1986
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1986 - Two human repetitive DNA elements a new interspersed repeat found in the factor IX gene, and a satellite 11 tandem repeat sequenc.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This brief data note marks a major transition in Burgoyne’s research programme — from chromatin higher-order structure to repetitive DNA sequences and satellite DNA. Using a human sperm library enriched for repetitive sequences, the lab identified two novel repeat elements not classified by major sequence data banks. This paper establishes the foundation for what would become a sustained satellite DNA research programme through the late 1980s and early 1990s. Roger D. Drinkwater appears as a new first-author collaborator. Notably, J. D. Skinner — the long-term collaborator from the chromatin superstructure papers — is now identified by full name as Jennifer D. Skinner.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>35s — a new interspersed repeat element:</strong> A 107 bp sequence matching a section of the human Factor IX gene (intron-A, positions 5192–5296, 79% homology). Southern blot analysis with eight restriction enzymes showed banding patterns inconsistent with a single Factor IX locus — implying many unit-length variations interspersed throughout the genome. Copy number estimated at 250–500 per diploid genome (by dot blot comparison with ALU). Located 208 bp from a known 50 bp insertion polymorphism in Factor IX.</li>
+    <li><strong>227s — a satellite II tandem repeat:</strong> Identified as satellite II class based on diagnostic features: a TaqI site, fragmented/degenerated ATTCC internal tandem repeat, and characteristic EcoRI restriction pattern. Southern blots with EcoRI or HaeIII produced extensive ladders based on multiples of ~220 bp, confirming the tandem repeat unit length. EcoRI multiples: 6, 8, 10, 11, 12, 14, 15, 17. HaeIII multiples: 5, 7, 9, 11. Copy number ~2,500 per diploid genome.</li>
+    <li><strong>Human sperm library approach:</strong> The use of a repetitive-sequence-enriched sperm DNA library as a discovery tool for novel repeat elements was methodologically notable.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> While brief, this paper reports the identification of two previously unclassified human repetitive DNA elements. The 227s satellite II sequence is particularly significant as it launches the Burgoyne lab’s satellite DNA programme that would produce multiple papers through the late 1980s and early 1990s on satellite III polymorphisms, macrosatellites, and their use in forensic and phylogenetic applications. The 35s interspersed repeat in the Factor IX gene connects to clinically relevant genetics (haemophilia B).</p>
+    <p><strong>Career significance:</strong> This paper represents the beginning of a new research direction — the transition from chromatin superstructure to repetitive DNA genomics. The connection is natural: Burgoyne’s chromatin work had been concerned with DNA organisation within nuclei, and repetitive DNA is a major component of that organisation. Roger D. Drinkwater appears as a new collaborator (first author, likely a postdoc or PhD student). Jennifer D. Skinner continues from the chromatin papers, now revealed by full name. Published in Nucleic Acids Research as a data note format — rapid communication of sequence discoveries.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Yoshitake et al. (1985) Biochemistry: Human Factor IX gene sequence</li>
+    <li>Winship et al. (1984) NAR: Factor IX gene polymorphism</li>
+    <li>Prosser et al. (1986) J. Mol. Biol.: Satellite II/III classification (TaqI sites, ATTCC repeats)</li>
+    <li>Mitchell (1979) J. Mol. Biol.: Satellite II EcoRI restriction pattern characterisation</li>
+    <li>Burgoyne lab chromatin programme: understanding of DNA organisation in nuclear context</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Foundation for the Burgoyne lab satellite DNA programme (1987–1992+)</li>
+    <li>Identification of satellite II tandem repeat unit length (~220 bp) from human sperm DNA</li>
+    <li>Discovery of a novel interspersed repeat element in the Factor IX gene region</li>
+    <li>Transition from chromatin structure research to repetitive DNA genomics</li>
+    <li>Later papers on satellite III polymorphisms, macrosatellites, and phylogenetic applications</li>
+    <li>Burgoyne’s FTA card patent (1994) — the satellite DNA programme’s work on individual identification from DNA ultimately fed into development of rapid DNA collection technology</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Roger D. Drinkwater</strong> — new collaborator, first author (likely postdoc or PhD student). <strong>Jennifer D. Skinner</strong> — continuing long-term collaborator, now identified by full name (previously listed as J. D. Skinner in the 1981–1983 chromatin papers).</p>

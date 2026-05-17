@@ -1,0 +1,88 @@
+id: 1991_testori_phosphorylation_chromatin_HL60
+title: |-
+  Phosphorylation and Chromatin Mechanics: The Central Importance of Substrate Conformation in Determining the Patterns of HL-60 Nuclear Phosphorylation
+page_title: Testori, Skinner, Murray & Burgoyne (1991) — Phosphorylation and Chromatin Mechanics in HL-60
+authors:
+- Alessandro Testori
+- Jennifer D. Skinner
+- Andrew W. Murray
+- Leigh A. Burgoyne
+authors_affiliation: null
+venue: Biochemical and Biophysical Research Communications, 180(1), 329–333
+paper_number: null
+doi: 10.1016/s0006-291x(05)81296-3
+funding: null
+citations: 6
+citations_source: Crossref (title+author)
+tags:
+- Chromatin Mechanics
+- Nuclear Phosphorylation
+- HL-60 Cells
+- Polyamines
+- Substrate Conformation
+- DNase I
+- Buffer-A
+- Protein Kinase
+- Chromatin Condensation
+- Cell Cycle
+burgoyne_index: 3
+extra_meta:
+- label: Year
+  value_html: '1991'
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University of South Australia
+- label: Received
+  value_html: 26 August 1991
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1991 - Phosphorylation and chromatin mechanics the central importance of substrate conformation in determining the patterns of HL-60 nuclear phosphorylation.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper bridges the Burgoyne lab’s long-standing chromatin structure programme with the cell signalling expertise of Andrew W. Murray’s group at Flinders. It addresses the converse of a long-suspected relationship: while phosphorylation was thought to drive chromatin conformational changes during the cell cycle, this paper asks whether chromatin conformation itself controls which proteins get phosphorylated. The study uses HL-60 human promyelocytic leukaemia cells maintained in the “Buffer-A” system first developed by Burgoyne in 1970 (ref. 3 cites the original 1970 BBRC paper), with chromatin condensation manipulated via polyamine levels. This is the second collaboration with Testori and A.W. Murray after the 1988 PKC/DNA-binding paper.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Condensation-dependent phosphorylation:</strong> HL-60 nuclei maintained in three ionic environments (H = condensed with polyamines; M = partially expanded; L = fully decondensed) showed dramatically different autophosphorylation patterns when incubated with γ-[<sup>32</sup>P]-ATP.</li>
+    <li><strong>Condensed nuclei:</strong> Relatively low overall phosphorylation, with one prominent target at ~106 kDa.</li>
+    <li><strong>Expanded nuclei:</strong> Enhanced phosphorylation of proteins at ~78, 48, 46, 36, 21, and 16 kDa, but suppressed phosphorylation of the 106 kDa protein.</li>
+    <li><strong>Reversibility:</strong> Readdition of polyamines to expanded (L) nuclei restored the condensed-state phosphorylation pattern, including recovery of 106 kDa phosphorylation. Coomassie staining confirmed no protein loss during washing.</li>
+    <li><strong>DNase-I sensitivity:</strong> DNase-I treatment prior to phosphorylation produced completely different patterns under all conditions, demonstrating that virtually all phosphorylation targets are DNA-associated (truly nuclear, not cytoplasmic contaminants).</li>
+    <li><strong>Conformation is the main controlling factor:</strong> The substrate conformation, not kinase activity or substrate availability, was the primary determinant of which proteins were phosphorylated.</li>
+    <li><strong>Negative feedback model:</strong> Proteins whose phosphorylation decreased with expansion may be those that naturally drive decondensation in vivo (most susceptible in condensed state); those increasing with expansion may drive condensation (most susceptible in decondensed state).</li>
+    <li><strong>Practical application:</strong> DNase-I sensitivity of phosphorylation provides a criterion for identifying truly nuclear proteins versus adventitious cytoplasmic contaminants in nuclear preparations.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper inverted the conventional view of the phosphorylation–chromatin relationship. While the field focused on how kinases drive chromatin changes, Burgoyne’s group showed that chromatin conformation itself determines which substrates are accessible to endogenous kinases. The reversibility of the effect and the DNase-I sensitivity provided rigorous controls. The negative feedback model — where decondensation-driving proteins are most susceptible in condensed chromatin and vice versa — was an elegant conceptual contribution connecting chromatin mechanics to cell-cycle control. The practical suggestion of using DNase-I sensitivity to validate nuclear localisation of proteins was methodologically useful.</p>
+    <p><strong>Career significance:</strong> This is one of the later papers in Burgoyne’s Phase 3 chromatin programme, bridging chromatin structure with cell signalling via the Murray collaboration. The explicit citation of the 1970 and 1973 Burgoyne papers as the source of the Buffer-A system shows how foundational methodology from the earliest Flinders work remained central two decades later. Second paper with Testori and A.W. Murray (after the 1988 PKC paper). Jennifer D. Skinner appears for the final time in this area. Conceptually anticipates the 1999 pyknosis/cell death paper, which also examines chromatin condensation states.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970) BBRC: Buffer-A system for nuclear preparations</li>
+    <li>Hewish &amp; Burgoyne (1973) BBRC: Chromatin substructure and nuclear preparation conditions</li>
+    <li><a href="1988_testori_DNA_binding_PKC.html">Testori, Hii, Fournier, Burgoyne &amp; Murray (1988)</a> BBRC: PKC/DNA-binding collaboration</li>
+    <li>Hunter (1987): Protein phosphorylation review</li>
+    <li>Dunphy &amp; Newport (1988): Phosphorylation and cell cycle</li>
+    <li>Ahmed et al. (1978, 1985, 1986): Polyamine effects on nuclear protein phosphorylation</li>
+    <li>Van Holde (1988): Chromatin - non-histone protein classification problems</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Demonstration that chromatin conformation controls nuclear protein phosphorylation patterns</li>
+    <li>Negative feedback model linking chromatin condensation to phosphorylation regulation</li>
+    <li>DNase-I sensitivity as criterion for nuclear protein authentication</li>
+    <li>Conceptual bridge between chromatin mechanics and cell-cycle signalling</li>
+    <li>Foundation for the companion 1992 paper on substrate conformation and phosphorylation</li>
+    <li>Anticipation of the 1999 pyknosis/hypercondensation work</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Alessandro Testori</strong> — Lead experimental contributor (second collaboration after 1988 PKC paper). <strong>Jennifer D. Skinner</strong> — Long-term collaborator, continuing from chromatin and satellite DNA work. <strong>Andrew W. Murray</strong> — PKC signalling expert, Flinders University (same A.W. Murray as 1988 PKC paper; different from the 1971 purine metabolism A.W. Murray at Adelaide).</p>

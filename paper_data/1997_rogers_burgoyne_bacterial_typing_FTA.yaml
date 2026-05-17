@@ -1,0 +1,90 @@
+id: 1997_rogers_burgoyne_bacterial_typing_FTA
+title: |-
+  Bacterial Typing: Storing and Processing of Stabilized Reference Bacteria for Polymerase Chain Reaction without Preparing DNA — An Example of an Automatable Procedure
+page_title: |-
+  Rogers & Burgoyne (1997) — Bacterial Typing: Storing and Processing of Stabilized Reference Bacteria for PCR without Preparing DNA
+authors:
+- Craig Rogers
+- Leigh A. Burgoyne
+authors_affiliation: null
+venue: Analytical Biochemistry, 247, 223–227
+paper_number: null
+doi: 10.1006/abio.1997.2031
+funding: null
+citations: 36
+tags:
+- FTA Technology
+- Bacterial Typing
+- PCR Ribotyping
+- Staphylococcus aureus
+- DNA Storage
+- Automation
+- Microbial Forensics
+- 16S-23S Intergenic Spacer
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1997'
+- label: Received
+  value_html: August 15, 1996
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University, Bedford Park, South Australia 5042
+- label: Phase
+  value_html: Phase 4 — DNA Forensics, FTA Technology & Applied Biology
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1997 - Bacterial Typing Storing and Processing of Stabilized Reference Bacteria for Polymerase Chain Reaction without Preparing DNA—An Example of an Automatable Procedure.pdf
+  text: View Original PDF
+sections:
+- heading: Related Conference Poster
+  body_html: |-
+    <ul>
+    <li><a href="../burgoyne_papers/posters/1997 - Toothbrushes and FTA Paper Buccal Collection (poster).pdf">Convenient DNA Collection and Processing: Disposable Toothbrushes and FTA Paper as a Non-Threatening Buccal-Cell Collection Kit</a> — poster by Burgoyne, Carroll, Rogers &amp; Turner (8th International Symposium on Human Identification, 1997)</li>
+    </ul>
+- heading: Context & Background
+  body_html: |-
+    <p>By 1997, FTA card technology had been well established for the storage and processing of human blood DNA, validated by Belgrader, Marino, and Williams (1995) and underpinned by Burgoyne's foundational solid medium patent (US 5,496,562). This paper represents the first peer-reviewed journal publication extending FTA technology from eukaryotic (blood) samples to prokaryotic (bacterial) applications. Rogers and Burgoyne demonstrated that bacteria applied to FTA paper are killed on contact, creating “DNA-containing ghosts” with cell walls rendered passive and completely penetrable to PCR reagents. The test application was PCR ribotyping — amplification of the 16S–23S rRNA intergenic spacer region, following the method of Kostman et al. (1995) — using five <em>Staphylococcus</em> strains and one <em>E. coli</em> strain. The work was explicitly designed with automation compatibility in mind, reflecting the commercialisation trajectory established in the 1996 apparatus patent (WO 96/11406).</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>FTA kills bacteria on contact:</strong> Cell walls are rendered “passive and completely penetrable” to PCR reagents, eliminating any need for lysozyme or enzymatic pre-treatment. The bacteria become DNA-containing ghosts that serve directly as PCR templates.</li>
+    <li><strong>No DNA extraction required:</strong> FTA retains DNA in situ on the matrix rather than solubilising it — a key advantage over boiling, chaotropic, and resin-based methods. Bacterial DNA on FTA paper can be used directly as a PCR template without purification, estimation, or two-phase extraction.</li>
+    <li><strong>Equivalent wash protocols:</strong> Two wash protocols were tested — a stringent phenolic wash and a simple water wash — both gave equivalent ribotype patterns for <em>S. aureus</em>, demonstrating that the simpler protocol is sufficient for routine use.</li>
+    <li><strong>Broad template concentration window:</strong> Undiluted to 1/100 dilution of overnight bacterial culture all yielded the same ribotype patterns. Even 1/1000 dilution (~3 μl containing approximately 3 pg DNA) was still detectable.</li>
+    <li><strong>Long-term storage stability:</strong> <em>S. aureus</em> stored for 1.6 years at room temperature on FTA paper still produced good amplicon yield, demonstrating the suitability of FTA for long-term bacterial reference collections.</li>
+    <li><strong>Discriminatory power:</strong> Four distinct ribotype patterns were obtained from four randomly selected <em>S. aureus</em> clinical isolates, demonstrating significant discriminatory power for strain typing.</li>
+    <li><strong>Automation compatibility:</strong> All procedures were designed for automation — only four wash operations required, all simple repetitions, with no two-phase extractions or complex manipulations. This makes the protocol directly compatible with robotic liquid handling systems.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper is the first peer-reviewed demonstration that FTA card technology works with bacteria, not just blood. By showing that FTA paper kills bacteria on contact and renders their DNA directly accessible to PCR without extraction, Rogers and Burgoyne opened an entirely new application domain for FTA technology. The paper effectively extended the FTA platform from eukaryotic DNA storage to microbial applications, laying the groundwork for microbial forensics, high-throughput bacterial strain typing, and automation-compatible bacterial sample archiving. The conceptual link drawn between bacterial autolysis on FTA and eukaryotic cell apoptosis/necrosis (reference 4 in the paper) foreshadowed Burgoyne's later exploration of pyknosis in his 1999 paper.</p>
+    <p><strong>Career significance:</strong> Craig Rogers appears for the first time as lead author, likely representing a student or early-career collaborator working under Burgoyne's supervision at Flinders University. The paper demonstrates the expanding scope of FTA technology from its forensic DNA origins into microbiology and clinical diagnostics. The explicit emphasis on automation compatibility reflects the commercial trajectory of FTA — connecting to the 1996 apparatus patent and the broader vision of high-throughput sample processing that was driving the technology's adoption in forensic DNA databasing programmes worldwide.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><strong>Burgoyne US 5,496,562 (1994/1996):</strong> Foundational FTA solid medium patent — chemistry of DNA storage on treated cellulose paper</li>
+    <li><strong>Kostman et al. (1995) <em>J. Infect. Dis.</em>:</strong> PCR ribotyping method using 16S–23S intergenic spacer amplification — the typing methodology adopted in this study</li>
+    <li><strong>Belgrader, Del Rio, Marino &amp; Williams (1995) <em>Biotechniques</em>:</strong> Validation of FTA technology for blood DNA — the key precedent demonstrating FTA card efficacy</li>
+    <li><strong>Burgoyne et al. (1994) 5th Intl Symp Human Identification:</strong> Conference presentation establishing FTA in the forensic community</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>First extension of FTA technology from blood DNA to bacterial applications</li>
+    <li>Foundation for microbial forensics using FTA cards</li>
+    <li>High-throughput bacterial typing without DNA extraction</li>
+    <li>Automation-compatible bacterial sample processing and archiving</li>
+    <li>Conceptual bridge linking bacterial cell death on FTA to eukaryotic apoptosis/necrosis — anticipating Burgoyne's 1999 pyknosis paper</li>
+    <li>Burgoyne's later microbial forensics book chapter (2007)</li>
+    <li>Broader adoption of FTA technology in clinical microbiology and epidemiological surveillance</li>
+    <li>Smith &amp; Burgoyne (2004, <em>BMC Ecology</em>) — systematic extension of FTA to wildlife taxa across vertebrates and invertebrates (272 citations)</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Craig Rogers</strong> — First author and first-time collaborator, based at the School of Biological Sciences, Flinders University. Likely a student or early-career researcher working under Burgoyne's supervision. This is his first appearance in the Burgoyne publication record, representing the next generation of researchers extending FTA technology into new application domains.</p>
+citations_source: Crossref (title+author)

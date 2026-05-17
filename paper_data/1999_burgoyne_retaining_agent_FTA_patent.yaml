@@ -1,0 +1,89 @@
+id: 1999_burgoyne_retaining_agent_FTA_patent
+title: Dry Solid Medium for Storage and Analysis of Genetic Material (US Patent 5,972,386)
+page_title: 1999 — Dry Solid Medium for Storage and Analysis of Genetic Material (US 5,972,386)
+authors:
+- Leigh Alexander Burgoyne
+authors_affiliation: Mitcham, Australia
+venue: null
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- FTA Card
+- Continuation Patent
+- Retaining Agent
+- Wax Carrier
+- Hydrophilic Solid Carrier
+- Analytical Components
+- Cellulose Matrix
+- PCR Primers
+- Automated Systems
+- Forensic DNA
+- Aqueous Wash Protection
+- Target Sequence Stabilizer
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Flinders Technologies Pty. Ltd., Australia
+- label: Patent Number
+  value_html: US 5,972,386
+- label: Date of Patent
+  value_html: October 26, 1999
+- label: Filed
+  value_html: December 19, 1995 (Appl. No. 08/574,888)
+- label: Claims
+  value_html: '17'
+- label: Related Technology
+  value_html: |-
+    References US 5,756,126, US 5,496,562, and Ser. No. 08/320,041 (abandoned) as continuation-in-part applications of Ser. No. 08/159,104 (US 5,496,562)
+authors_label: Inventor
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1999 - Dry solid medium for storage and analysis of genetic material.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This patent (US 5,972,386) is another member of the FTA card patent family, filed December 19, 1995 — just months after the filing of US 5,807,527 (September 1995) and US 5,756,126 (June 1995). It shares the same core specification describing the dry solid medium for DNA/RNA storage and analysis. However, its claim strategy is markedly different from the other family members. While the parent patents variously emphasised broad chemical functionality (US 5,807,527), the analytical platform concept (US 5,756,126), or the mandatory three-element combination (US 5,976,572), this patent focuses specifically on the <strong>retaining agent</strong> innovation — a hydrophilic solid carrier suspended in wax that protects pre-loaded analytical components (primers, probes, stabilizers) from being washed away during sample processing. This is the most mechanistically specific of the FTA continuation patents, claiming a particular physical delivery system rather than broad chemical functionality. The inventor address has shifted to Mitcham, Australia. The patent does not include a terminal disclaimer, distinguishing it from US 5,976,572. The specification references all three earlier family applications and incorporates them by reference.</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Claim 1 — Three-part medium with retaining agent:</strong> A dry solid medium comprising: (a) a solid matrix with sorbed protein denaturing agent; (b) a component for subsequent analysis of genetic material; and (c) a retaining agent comprising a hydrophilic solid carrier in wax, wherein the hydrophilic solid carrier comprises starch, cellulose or cotton material. This is the distinguishing feature: the mandatory inclusion of a specific physical retaining agent to protect analytical components during washing.</li>
+    <li><strong>Claims 2–6 — Analytical component variations:</strong> Nucleotide sequence (Claim 2); target sequence stabilizer (Claim 3); blood DNA storage (Claim 4); component applied after genetic material (Claim 8); card with multiple components for subsequent analysis (Claim 9).</li>
+    <li><strong>Claim 7 — Aqueous wash protection:</strong> Retaining agent specifically reduces loss of analytical components during an aqueous wash procedure. This explicitly claims the practical problem the wax carrier solves.</li>
+    <li><strong>Claim 10 — Free radical trap:</strong> Composition further comprises a free radical trap, linking this claim set back to the broader FTA composition.</li>
+    <li><strong>Claim 11 — Anionic detergent:</strong> Protein denaturing agent specified as anionic detergent.</li>
+    <li><strong>Claims 12–16 — Method claims (storage and analysis):</strong> Method for storing and subsequent analysis comprising applying genetic material to the three-part medium, storing, washing, and analysing. Includes automated system use (Claim 13), reverse transcriptase PCR for RNA (Claim 14), PCR analysis (Claim 15), and aqueous wash system (Claim 16).</li>
+    <li><strong>Claim 17 — Storage-only method:</strong> Method for storing genetic material on the three-part medium without the analysis step, providing additional claim coverage for the storage use case alone.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Patent strategy contribution:</strong> This continuation occupies a unique niche within the FTA patent family by claiming the specific physical mechanism for retaining pre-loaded analytical components on the card during sample processing. The wax-encapsulated hydrophilic carrier is the key innovation: during aqueous washing (which removes hemoglobin, proteins, and composition components), the wax protects the enclosed primers or probes from being washed away. During subsequent PCR, the first thermal cycle melts the wax, releasing the analytical components into the reaction. This thermally-triggered release is an elegant solution to the logistic problem of pre-loading cards with primers while still needing to wash the cards before analysis. The specification of starch, cellulose, or cotton as the hydrophilic carrier material provides concrete embodiments. This is the most "device-level" patent in the family — claiming a specific delivery mechanism rather than broad compositions or methods.</p>
+    <p><strong>Career significance:</strong> This is the fifth US patent in the FTA family for sole inventor <mark>Leigh Alexander Burgoyne</mark>, demonstrating systematic development of a comprehensive patent portfolio. The retaining agent concept addressed a genuine practical limitation: aqueous washes that removed interfering blood components could also strip away pre-loaded analytical components. The wax carrier solution shows Burgoyne thinking not just as an inventor of the core chemistry but as an engineer of practical laboratory systems — a mindset consistent with the FTA technology’s evolution from academic concept to commercial product. The filing date (December 1995) places this in the same intensive patent prosecution period as the other 1995 filings, reflecting a concerted strategy to build IP depth before the technology’s commercial deployment expanded globally.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne US 5,496,562 (1994/1996): Foundational FTA patent — core composition and single phase phenol wash</li>
+    <li>Burgoyne US 5,756,126 (1998): CIP patent introducing analytical platform concept, pre-loaded primers, target sequence stabilizers</li>
+    <li>Ser. No. 08/320,041 (abandoned): Related application referenced for automated fluid delivery systems</li>
+    <li>Burgoyne’s chromatin/nuclease research (1970s–1980s): Understanding of DNA degradation mechanisms and chelation chemistry</li>
+    <li>McCabe et al. (1987) — DNA microextraction from dried blood spots on filter paper: prior art for filter-paper-based DNA collection</li>
+    <li>Stapleton patent family (Re. 35,716 and six related patents): Competitor prior art for treated paper-based analyte storage</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Specific IP protection for the wax-carrier retaining agent system — the physical mechanism enabling pre-loaded analytical cards to survive processing</li>
+    <li>Thermally-triggered release concept: wax melting during first PCR cycle liberates protected primers</li>
+    <li>Protection of the practical workflow: pre-load card with primers, collect sample, wash card, run PCR — all without manual primer addition</li>
+    <li>Enabled purpose-built diagnostic card folios: cards pre-loaded with specific primer sets for particular screening applications (forensic identification, disease screening, viral detection)</li>
+    <li>Strengthened overall FTA patent portfolio for Flinders Technologies Pty. Ltd. with a mechanistically distinct claim set</li>
+    <li>Extended applicability to automated robotic systems (96-well plate format with pre-loaded discs)</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Leigh Alexander Burgoyne</strong> — Sole inventor. Address listed as Mitcham, Australia (contrasting with Seaford on US 5,807,527 and Mitcham on US 5,976,572). The consistent sole inventorship across the FTA patent family underscores Burgoyne’s singular role in conceiving and developing both the core FTA chemistry and the practical systems for its deployment. Assignee: Flinders Technologies Pty. Ltd., Australia.</p>

@@ -1,0 +1,92 @@
+id: 1998_burgoyne_dry_solid_medium_storage_analysis_patent
+title: Dry Solid Medium for Storage and Analysis of Genetic Material (US Patent 5,756,126)
+page_title: Burgoyne (1998) — Dry Solid Medium for Storage and Analysis of Genetic Material (US Patent 5,756,126)
+authors:
+- Leigh Alexander Burgoyne
+authors_affiliation: Mitcham, Australia
+venue: null
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- FTA Card
+- Pre-loaded Primers
+- PCR on Solid Medium
+- RNA Storage
+- Reverse Transcriptase PCR
+- Analytical Components
+- Converter Solution
+- Virus Inactivation
+- RFLP Analysis
+- Newborn Screening
+- Forensic DNA
+- Diagnostic Card Folio
+- Phenol Wash System
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Flinders Technologies Pty. Ltd., Australia
+- label: Patent Number
+  value_html: US 5,756,126
+- label: Date of Patent
+  value_html: May 26, 1998
+- label: Filed
+  value_html: June 7, 1995
+- label: Claims
+  value_html: '31'
+- label: Continuation-in-part of
+  value_html: Ser. No. 159,104 (Nov 30, 1993) = US 5,496,562; which was continuation of Ser. No. 671,859 (May 29, 1991, abandoned)
+- label: Also references
+  value_html: US Ser. No. 08/320,041 (Oct 7, 1994, abandoned) — the apparatus patent
+- label: Term limited
+  value_html: Shall not extend beyond expiration date of Pat. No. 5,496,562
+authors_label: Inventor
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1998 - Dry solid medium for storage and analysis of genetic material.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This patent is the second in the FTA patent family, a continuation-in-part of the foundational FTA patent (US 5,496,562). While the parent patent established the chemically treated filter paper as a passive DNA storage and protection medium, this continuation-in-part represents a major conceptual leap: the FTA card evolves from a passive storage medium into an active analytical platform. The key advance is incorporating analytical components — PCR primers, target sequence stabilizers, genetic probes, and LCR substrates — directly onto the card <em>before</em> sample collection. This anticipates the modern approach of purpose-built diagnostic cards. The patent also extends FTA capability from DNA-only to RNA storage through the use of target sequence stabilizers that form resistant RNA/DNA hybrids. Additionally, it introduces a converter solution (protamine sulphate-based) that enables traditional clinical assays such as the Guthrie PKU test and galactosemia screening to be performed on FTA-stored samples — a critical innovation for adoption in hospital newborn screening settings. The term limitation to the parent patent's expiration date reflects the USPTO treating this as an extension of the same inventive concept. Sole inventor Burgoyne, address now Mitcham (Adelaide suburb).</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Pre-loaded analytical components:</strong> PCR primers, target sequence stabilizers, genetic probes, and LCR (ligase chain reaction) substrates are incorporated directly onto the FTA card before sample collection. Pre-made cards can be pre-loaded with specific primer pairs for different applications — forensic STR panels, genetic disease screening, pathogen detection. Multiple different primer sets can be placed at different locations on a single card, eliminating the logistic problem of delivering different primers to different samples in automated systems: one basal PCR enzyme mix serves all cards.</li>
+    <li><strong>RNA storage and reverse transcriptase PCR:</strong> Extends the medium from DNA-only to RNA storage. Target sequence stabilizers hybridize with unstable single-strand RNA to form resistant RNA/DNA hybrids, protecting RNA from degradation. Enables reverse transcriptase-initiated PCR on stored RNA samples directly from the solid medium.</li>
+    <li><strong>Extended washing protocols:</strong> Detailed single-phase phenol wash system using Solutions A, B, and C for protein and hemoglobin removal. Also describes an alternative aqueous wash system using SDS and mercaptoethanol for laboratories preferring to avoid phenol.</li>
+    <li><strong>Converter solution for standard clinical assays:</strong> Protamine sulphate-based converter solution that neutralizes SDS and EDTA present in the FTA medium, enabling standard diagnostic tests (Guthrie PKU bacterial inhibition assay, galactosemia screening) to be performed on FTA-stored blood samples. Critical for compatibility with existing hospital newborn screening workflows.</li>
+    <li><strong>Virus inactivation data:</strong> Demonstrated &gt;99.5% inhibition of Herpes Simplex Virus Type I on contact with FTA medium (Table 2). Also showed inhibition of <em>S. aureus</em>, <em>S. epidermidis</em>, and environmental microorganisms, supporting biosafety claims for postal transport and laboratory handling.</li>
+    <li><strong>RFLP compatibility:</strong> Demonstrated in situ restriction enzyme digestion (EcoR1) of blood DNA stored on FTA paper for up to 19 months, showing that high-molecular-weight DNA is preserved in a form suitable for restriction fragment length polymorphism analysis.</li>
+    <li><strong>Purpose-built card folios:</strong> Described the concept of purpose-built card folios (e.g., “standard penitentiary card” or “genetic disease screening card”) with pre-loaded primers tailored to specific analytical panels, anticipating the modern approach of application-specific diagnostic cards for automated systems.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific and commercial contribution:</strong> This patent transforms the FTA card from a passive DNA storage and protection medium into an active analytical platform by incorporating primers and other analytical components directly onto the card before sample collection. The pre-loaded primer concept is a significant conceptual advance: it simplifies automated workflows by eliminating the need to match specific primer sets with specific samples, since the card itself carries the analytical program. The extension to RNA storage via target sequence stabilizers opens FTA technology to applications beyond DNA — including virology and gene expression studies. The converter solution is a pragmatic but critical innovation, enabling FTA-stored newborn blood spots to be used with established clinical screening assays (PKU, galactosemia) without disruption to existing hospital workflows. The HSV inactivation data (&gt;99.5%) provides quantitative biosafety evidence for the technology.</p>
+    <p><strong>Career significance:</strong> This is the second patent in the FTA family, again sole inventor Burgoyne. It demonstrates his continued development of the FTA concept well beyond the original invention, with each extension addressing a specific practical barrier to adoption. The pre-loaded analytical component concept anticipates the modern diagnostic card approach. The converter solution shows awareness of the clinical workflow requirements for hospital adoption. The RNA capability shows scientific ambition to extend the technology into new biological domains. The term limitation to the parent patent's expiration date reflects the USPTO's view that these advances, while substantial, build directly upon the same fundamental inventive concept.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne US 5,496,562 (1994/1996): Parent FTA patent — foundational solid medium composition</li>
+    <li>Williams, Burgoyne &amp; Marino WO 96/11406: Apparatus patent (referenced as US 08/320,041)</li>
+    <li>McCabe et al. (1987) Hum Genet: DNA extraction from dried blood spots on filter paper</li>
+    <li>Ames et al. (1981) PNAS: Uric acid as antioxidant defence against free radical damage to DNA</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Pre-loaded analytical component concept for FTA cards — anticipating purpose-built diagnostic cards</li>
+    <li>RNA storage and reverse transcriptase PCR on solid medium — extending FTA beyond DNA applications</li>
+    <li>Purpose-built diagnostic card folios for automated systems (forensic, clinical, veterinary)</li>
+    <li>Converter solution enabling standard newborn screening assays (PKU, galactosemia) on FTA-stored samples</li>
+    <li>HSV inactivation data (&gt;99.5%) supporting biosafety claims for postal transport and laboratory handling</li>
+    <li>RFLP analysis from FTA-stored samples (demonstrated up to 19 months storage)</li>
+    <li>Extended patent family protection for FTA technology</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Leigh Alexander Burgoyne</strong> — Sole inventor. This patent, like its parent, reflects Burgoyne's individual conceptual development of the FTA platform, extending it from passive storage to active analytical capability. The sole inventorship across multiple patents in the family underscores his singular role in conceiving and developing FTA technology. Assignee: Flinders Technologies Pty. Ltd., Australia.</p>

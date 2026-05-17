@@ -1,0 +1,80 @@
+id: 1983_saccone_chromatin_trypsin_resistance
+title: Resistance of Chromatin Superstructure to Tryptic Digestion Modulated by Conjugated Polyacrylamide
+page_title: Saccone, Skinner & Burgoyne (1983) — Chromatin Superstructure Resistance to Tryptic Digestion
+authors:
+- G. T. P. Saccone
+- J. D. Skinner
+- L. A. Burgoyne*
+authors_affiliation: null
+venue: FEBS Letters, 157(1), 111–114
+paper_number: null
+doi: —
+funding: null
+citations: ~15–30
+citations_source: estimated
+tags:
+- Chromatin Superstructure
+- Trypsin Probes
+- Polyacrylamide Conjugate
+- Histone Digestion
+- H3 Critical Role
+- Structural Collapse
+- Probe Size
+- Cavity Dimensions
+burgoyne_index: 2
+extra_meta:
+- label: Year
+  value_html: '1983'
+- label: Received
+  value_html: 25 March 1983
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1983 - Resistance of chromatin superstructure to tryptic digestion modulated by conjugated polyacrylamide.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>Having used DNase-I-armed probes (attached to ferritin and BSA) to map nucleosome accessibility in chromatin (1981, 1982), the Burgoyne lab now extends the size-selective probe concept to <em>proteases</em>. Instead of asking which DNA sites are accessible, this paper asks which <em>histone proteins</em> are exposed at different levels of chromatin organisation. Free trypsin (4.2 nm diameter) serves as the small probe, while trypsin conjugated to soluble polyacrylamide (PA-trypsin, ~10–30 nm diameter) serves as the large probe. By comparing the kinetics of histone digestion with each probe relative to the progression of structural collapse (the abrupt transition from turbid nuclear suspension to clear solution), the authors identify which histone is most critical for maintaining chromatin superstructure. G. T. P. Saccone is a new collaborator (first author).</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>H<sub>1</sub>/H<sub>5</sub> and H<sub>3</sub> co-digest (type I concerted kinetics):</strong> In chicken erythrocyte nuclei, histones H<sub>1</sub>, H<sub>5</sub> and H<sub>3</sub> all co-digested with each other, meaning their rates of destruction are mutually dependent. Similarly, rat liver H<sub>1</sub> and H<sub>3</sub> co-digested. This indicates these histones are intimately associated — consistent with cross-linking data from other labs.</li>
+    <li><strong>Core histones (H<sub>2</sub>) are protected until H<sub>3</sub> is largely gone:</strong> The digestion of H<sub>2A</sub>/H<sub>2B</sub> (aggregated as “H<sub>2</sub>”) has a definite lag and does not commence until 50–60% of H<sub>3</sub> is degraded, irrespective of probe type or nuclei source. H<sub>1</sub> vs H<sub>2</sub> shows type III (sequential) kinetics in chicken erythrocytes.</li>
+    <li><strong>H<sub>3</sub> destruction is the critical factor in structural collapse:</strong> When trypsin is enlarged by conjugation to polyacrylamide, the rate of H<sub>1</sub>/H<sub>5</sub> degradation slows to ~50% relative to structural collapse. Yet H<sub>3</sub> degradation rate remains unchanged relative to structural collapse (%SC). This strongly suggests H<sub>3</sub> degradation is the <em>primary cause</em> of structural collapse, not merely correlated with it.</li>
+    <li><strong>H<sub>3</sub> behaves as a “non-core” histone:</strong> Despite being part of the octamer core particle, H<sub>3</sub> is rapidly digested — comparable in susceptibility to H<sub>1</sub>/H<sub>5</sub> rather than to H<sub>2</sub> or H<sub>4</sub>. This anomalous exposure is significant for chromatin superstructure models.</li>
+    <li><strong>Probe size effect is modest:</strong> Increasing trypsin diameter 3–5-fold with polyacrylamide had observable effects on degradation kinetics but did not materially change the order of events. This indicates the initial sites of tryptic attack are in cavities much larger than the diameter of trypsin (4–5 nm) in both rat liver and chicken erythrocyte nuclei.</li>
+    <li><strong>Two classes of nuclear cavities confirmed:</strong> The results are consistent with previous passive penetration studies showing two broad classes of cavities: ~4–5 nm and ~10–15 nm. This places constraints on solenoidal chromatin models.</li>
+    <li><strong>Structural collapse is abrupt:</strong> Defined as the point when the digestion mixture changes from turbid nuclear suspension to a clear solution containing an aggregated clump — an abrupt, possibly cascade-like transition.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper complements the DNase I probe studies by using the same size-selective probe logic on the protein component of chromatin rather than the DNA. The identification of H<sub>3</sub> as the critical histone for maintaining chromatin superstructure is an important finding — it shows that the octamer “core” is not a monolithic unit but has specific exposed elements that connect to higher-order structure. The novel PA-trypsin probes represent an extension of the Burgoyne lab’s probe-engineering programme from nucleases to proteases. The constraint that initial attack sites must be in cavities &gt;4–5 nm provides useful structural information about chromatin fibre geometry.</p>
+    <p><strong>Career significance:</strong> G. T. P. Saccone appears as a new collaborator (possibly a student or postdoc). Burgoyne is corresponding author (*). The paper maintains US funding (Dept. of Health, Education and Welfare), and D. Leavesley is acknowledged for technical assistance. Published in FEBS Letters — a European journal, broadening the geographic reach of the lab’s publications. Continues the systematic probe-based dissection of chromatin superstructure that is the hallmark of Phase 3.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1978_burgoyne_hewish_cell_nucleus_chromatin_review.html">Burgoyne, Skinner &amp; Marshall (1978)</a> J. Cell Sci. 31: Passive penetration studies, cavity dimensions</li>
+    <li>Burgoyne &amp; Skinner (1979) J. Cell Sci. 37: Two classes of cavities in nuclei</li>
+    <li>Burgoyne &amp; Skinner (1981 BBRC): DNase I probe approach, 2N-based repeat</li>
+    <li>Weintraub &amp; Lente (1974), Weintraub (1975): Protease digestion of chromatin histones</li>
+    <li>Allan et al. (1980): H<sub>1</sub> role in nucleosome structure</li>
+    <li>Ring &amp; Cole (1979): Cross-linking evidence for H<sub>1</sub>–H<sub>3</sub> association</li>
+    <li>Chatterjee &amp; Walker (1973): Chymotrypsin suggests H<sub>3</sub> role in supercoil</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Identification of histone H<sub>3</sub> as critical for chromatin superstructure maintenance</li>
+    <li>Extension of size-selective probe approach from nucleases to proteases</li>
+    <li>Constraint on solenoidal/chromatin fibre models: initial protease attack in cavities &gt;4–5 nm</li>
+    <li>Evidence that H<sub>1</sub>/H<sub>5</sub> and H<sub>3</sub> form an intimately associated class in chromatin organisation</li>
+    <li>Later understanding of histone tails and their role in higher-order chromatin structure</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>G. T. P. Saccone</strong> — new collaborator, first author (likely student or postdoc). <strong>J. D. Skinner</strong> — continuing long-term collaborator. <strong>D. Leavesley</strong> — technical assistant. Burgoyne is corresponding author. Funded by U.S. Department of Health, Education and Welfare.</p>

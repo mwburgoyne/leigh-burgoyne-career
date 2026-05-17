@@ -1,0 +1,90 @@
+id: 1989_fowler_satellite_III_genomic_location
+title: 'Human Satellite III DNA: Genomic Location and Sequence Homogeneity of the TaqI-Deficient Polymorphic Sequences'
+page_title: Fowler, Burgoyne, Baker, Ringenbergs & Callen (1989) — Satellite III Genomic Location & TDPS
+authors:
+- J.C.S. Fowler
+- L.A. Burgoyne
+- E.G. Baker
+- M.L. Ringenbergs
+- D.F. Callen
+authors_affiliation: null
+venue: Chromosoma (Berl), 98, 266–272
+paper_number: null
+doi: —
+funding: null
+citations: ~30–50
+citations_source: estimated
+tags:
+- Satellite III DNA
+- TDPS
+- TaqI Polymorphism
+- In Situ Hybridisation
+- Somatic Cell Hybrids
+- Chromosomes 20/21/22
+- K-Domain
+- FIGE
+- Sequence Homogeneity
+- Forensic DNA
+burgoyne_index: 1
+extra_meta:
+- label: Affiliations
+  value_html: |-
+    School of Biological Sciences, Flinders University of South Australia; Cytogenetics Unit, Department of Histopathology, Adelaide Children’s Hospital
+- label: Year
+  value_html: '1989'
+- label: Received
+  value_html: 5 November 1988; Revised 4 April 1989; Accepted by M.L. Pardue
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1989 - Human Satellite III DNA Genomic location and sequence homogeneity of the TaqI-deficient polymorphic sequences.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper extends the satellite III programme from the 1987 data note and 1988 macrosatellite paper by asking a critical question: where exactly in the genome do the TaqI-Deficient Polymorphic Sequences (TDPS) reside? The 1988 paper had tentatively mapped the macrosatellite polymorphism to “K-domain” autosomes (chromosomes 9 and 15), but this study revises that conclusion using in situ hybridisation, somatic cell hybrid panels, and multi-enzyme double digestion. Published in <em>Chromosoma</em>, a leading cytogenetics journal, and accepted by Mary Lou Pardue — indicating the quality of the work. The collaboration with D.F. Callen’s cytogenetics unit at Adelaide Children’s Hospital brought essential mouse/human hybrid cell resources.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>In situ hybridisation:</strong> Tritium-labelled 228S probe hybridised primarily to region 9qh on chromosome 9, with additional signal at short arms of chromosomes 13, 14, 15, 21, 22; centromeric heterochromatin of chromosomes 1 and 20; and Yq. Biotinylated 228S was near-specific for 9qh at low probe concentration.</li>
+    <li><strong>9qh is NOT the primary TDPS source:</strong> Despite 228S being near-specific for 9qh by in situ, somatic cell hybrid 64063 (containing only 9q) showed mostly small TaqI fragments (&lt;4 kb), contributing relatively few bands to the polymorphic TDPS.</li>
+    <li><strong>TDPS map to chromosomes 20, 21, and 22:</strong> Hybrids CY9, CY13, CY14, and CY15, containing various combinations of chromosomes 20, 21, and 22, showed the largest proportion of TaqI fragments &gt;4 kb — the defining feature of TDPS. These chromosomes harbour the largest regions of homogeneous Satellite III.</li>
+    <li><strong>K-domains excluded:</strong> KpnI-isolated 1.8 and 3.6 kb K-domain fragments were extensively digested by TaqI, proving they cannot be part of the TDPS. KpnI K-domain fragments confirmed to segregate from chromosome 15 (hybrid HORL I).</li>
+    <li><strong>Extreme sequence homogeneity:</strong> TDPS were resistant to double digestion with HaeIII, AluI, RsaI, PstI, KpnI, EcoRI, and MboI — strikingly featureless compared with typical genomic sequences. One TDPS fragment contained only a single RsaI site in 27 kb, versus the Y chromosome’s 5 RsaI sites per 3.5 kb.</li>
+    <li><strong>Recent amplification:</strong> The sequence homogeneity implies very recent TTCCA amplification events with minimal post-amplification degeneracy, and very low transposon (Alu, L1) invasion.</li>
+    <li><strong>Possible KpnI repeat instability:</strong> Unexpected presence of K-domain KpnI fragments in hybrid CY14 (lacking chromosome 15) suggested either individual-specific amplification or hybrid instability of satellite sequences.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper fundamentally revised the genomic mapping of the satellite III macrosatellite polymorphism, shifting the primary source from the expected K-domain chromosomes (9, 15) to the smaller acrocentric chromosomes 20, 21, and 22. The discovery that TDPS represent extremely homogeneous, restriction-enzyme-resistant blocks of pure TTCCA pentameric repeat was an important insight into satellite DNA evolution. The conclusion that these blocks arose from very recent DNA amplification events, with post-amplification TaqI point mutations creating the polymorphism, refined the mutation-decay model proposed in the 1988 paper.</p>
+    <p><strong>Career significance:</strong> Third paper in the Fowler-led satellite III programme. The collaboration with D.F. Callen’s cytogenetics laboratory at Adelaide Children’s Hospital expanded the Burgoyne lab’s methodological reach to include in situ hybridisation and somatic cell hybrid analysis. New collaborators E.G. Baker and M.L. Ringenbergs from the cytogenetics unit. Publication in <em>Chromosoma</em> — a top-tier cytogenetics journal — and acceptance by M.L. Pardue (MIT) signals strong international peer recognition. Continued Criminology Research Council funding confirms the forensic trajectory.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1987_fowler_hypervariable_satellite_III.html">Fowler, Drinkwater, Burgoyne &amp; Skinner (1987)</a> NAR: Initial satellite III hypervariable report</li>
+    <li>Fowler, Drinkwater, Skinner &amp; Burgoyne (1988a) Hum Genet: Macrosatellite polymorphism coined; K-domain mapping</li>
+    <li>Fowler, Skinner, Burgoyne &amp; McInnes (1988b) Appl Theor Electrophoresis: FIGE methodology</li>
+    <li>Burk et al. (1985): K-domain organisation and chromosomal specificity</li>
+    <li>Jeanpierre et al. (1985): Satellite III subfamilies, chromosome 9 mapping</li>
+    <li>Prosser et al. (1986): Satellite II/III sequence relationships</li>
+    <li>Frommer et al. (1988): Satellite DNA chromosomal localisation by BrdU</li>
+    <li>Callen (1986): Mouse-human hybrid cell panel for chromosome 16</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Revised genomic mapping of the satellite III macrosatellite polymorphism to chromosomes 20, 21, 22</li>
+    <li>Understanding of TDPS as very recently amplified, homogeneous TTCCA blocks</li>
+    <li>Evidence for extremely low transposon invasion of centromeric heterochromatin</li>
+    <li>Refinement of the point-mutation-decay model for satellite III polymorphism</li>
+    <li>Foundation for the companion 1989 phylogeny paper comparing satellite DNA across higher primates</li>
+    <li>Forensic DNA methodology: defining which chromosomal regions contribute to individual identification</li>
+    <li>Burgoyne’s FTA card patent (1994) — the satellite DNA forensic identification programme directly fed into the development of rapid DNA collection and preservation technology</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>J.C.S. Fowler</strong> — Lead and corresponding author, continuing satellite III programme. <strong>E.G. Baker</strong> and <strong>M.L. Ringenbergs</strong> — Cytogenetics Unit, Adelaide Children’s Hospital; in situ hybridisation expertise. <strong>D.F. Callen</strong> — Head of Cytogenetics Unit, Adelaide Children’s Hospital; provided mouse/human hybrid cell panel; previously provided hybrids for the 1988 macrosatellite paper. Funded by the Criminology Research Council, ACT.</p>

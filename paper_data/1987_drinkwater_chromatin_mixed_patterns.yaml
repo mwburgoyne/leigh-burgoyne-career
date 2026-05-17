@@ -1,0 +1,101 @@
+id: 1987_drinkwater_chromatin_mixed_patterns
+title: 'Chromatin Structures: Dissecting Their Mixed Patterns in Nuclease Digests'
+page_title: 'Drinkwater, Wilson, Skinner & Burgoyne (1987) — Chromatin Structures: Mixed Patterns in Nuclease Digests'
+authors:
+- Roger D. Drinkwater
+- Peter J. Wilson<sup>1</sup>
+- Jennifer D. Skinner<sup>1</sup>
+- Leigh A. Burgoyne<sup>1</sup>
+authors_affiliation: null
+venue: Nucleic Acids Research, 15(19), 8087–8103
+paper_number: null
+doi: —
+funding: null
+citations: ~30–60
+citations_source: estimated
+tags:
+- Chromatin Superstructure
+- Dinucleosome
+- Fe-DNase I Probe
+- Coil Models Critique
+- Back-to-Back Folding
+- Face-to-Face Layering
+- Metaphase Chromatin
+- Repetitive DNA
+- Peak Splitting
+burgoyne_index: 3
+extra_meta:
+- label: Affiliations
+  value_html: Haematology, Flinders Medical Centre; <sup>1</sup>School of Biological Sciences, Flinders University of South Australia
+- label: Year
+  value_html: '1987'
+- label: Received
+  value_html: 20 March 1987; Revised and Accepted 29 August 1987
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1987 - Chromatin structures dissecting their mixed patterns in nuclease digests.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This is the most comprehensive paper from the Burgoyne lab’s chromatin superstructure programme, synthesising a decade of Fe-DNase I probe work into a unified structural model and mounting a systematic critique of all competing coil/solenoid models. The work extends the dinucleosome (2N) concept from chicken erythrocytes and rat liver (1981–1982 papers) to human lymphoblast nuclei, adds cell-cycle analysis using mitotic blocking, and uses hybridisation with repetitive DNA probes (satellite III, ALU, transcriptionally active DNA) to test whether different genomic regions have distinct chromatin structures. Roger D. Drinkwater (now at Flinders Medical Centre Haematology) returns from the 1986 repetitive DNA paper. Peter J. Wilson appears as a new collaborator.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Four distinct features in Fe-DNase I digests:</strong> (1) A dinucleosomal (2N) repeat series (peaks at 1N, 2N, 4N, 6N, 8N); (2) a mononucleosomal (1N) repeat series (peaks at 1N, 5N, 6N, 7N, 8N, 9N); (3) a major “random” (non-N multiple length) DNA component; and (4) triple splitting of major peaks at each N-multiple position.</li>
+    <li><strong>2N pattern = condensed/metaphase chromatin:</strong> The 2N series dominated in heavily digested nuclei and in cells arrested at metaphase (&gt;95% mitotic, achieved by thymidine synchronisation plus colchicine block). This confirms that the back-to-back zigzag folding that produces alternating nucleosome exposure is the basic structural unit of condensed chromatin and persists through the 250-fold additional condensation of mitosis.</li>
+    <li><strong>1N pattern = more exposed chromatin:</strong> The 1N series appeared early in digestion (15 min, most exposed regions) and is attributed to face-to-face layering of zigzag nucleofilaments, in which both sides of the filament are equally accessible to Fe-DNase I.</li>
+    <li><strong>Random component is structural, not artefactual:</strong> The non-N-multiple-length DNA was always a major proportion. The authors argue it is not trivially explained because: (a) the 2N pattern proves the probe can detect order when present; (b) combinations of 1N+2N would not produce disorder; (c) DNA probes for different genomic regions did not resolve the disorder; (d) micrococcal nuclease controls showed no spacing variation. They attribute this to the disorderly face-to-face layered structure of Subirana et al. (1985).</li>
+    <li><strong>No differential chromatin structure for repetitive vs active DNA:</strong> Hybridisation of Fe-DNase I digests with satellite III (centromeric, tandem), ALU (interspersed), and transcriptionally active DNA probes all produced patterns essentially identical to the ethidium-stained bulk DNA. This means centromeric heterochromatin, interspersed repeats, and active euchromatin are all packaged in the same general higher-order structure.</li>
+    <li><strong>Triple peak splitting:</strong> Each N-multiple band was typically resolved into 2–3 sub-peaks, explained by the Lutter (1978) model of semi-protected DNA wound onto nucleosome surfaces, combined with zigzag linker protection. This is consistent with Staynov et al. (1983) predictions.</li>
+    <li><strong>Systematic critique of coil models:</strong> The introduction provides the most thorough published assessment of why helical/solenoid/coiled ribbon models fail:
+        <ul>
+    <li><em>Double helical model (Williams et al.):</em> Loses disomal series coherence after half a revolution; cannot explain series extending to 10N+</li>
+    <li><em>Solenoid (Finch &amp; Klug):</em> Makes no case for disomal repeat</li>
+    <li><em>Coiled ribbons (Woodcock, Worcel):</em> Chosen bridge topography removes alternating nucleosome exposure</li>
+    <li><em>Earlier coil models (Staynov):</em> Same loss-of-coherence problem</li>
+    <li><em>McGhee coil:</em> Requires unreasonable nucleosome distortion; incompatible with short linkers</li>
+    <li><em>Dis-orderly worm-like coil:</em> Nucleosome positioning not presented; may include random component</li>
+    </ul>
+    </li>
+    <li><strong>Back-to-back fibre model reaffirmed:</strong> Linear back-to-back stacking of zigzag nucleofilaments produces the observed 2N pattern, predicts ~30 nm fibre width (matching EM observations), and is the only model that generates coherent extended dinucleosomal ladders. Schematic diagrams show back-to-back (2N signature), face-to-face (1N signature), and combined arrangements for high-level condensation.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper is the major synthesis of the Burgoyne lab’s chromatin superstructure programme. It provides the most complete published critique of solenoid/coil models from the nuclease digestion perspective, and offers an alternative framework based on back-to-back and face-to-face zigzag folding. The extension to human lymphoblasts (from avian erythrocytes and rat liver) demonstrates universality. The cell-cycle analysis linking the 2N pattern specifically to metaphase condensation is an important contribution. The finding that satellite III, ALU, and active DNA all show the same digestion spectra was unexpected and argues against specialised chromatin packaging for specific sequence classes at this level of organisation.</p>
+    <p><strong>Career significance:</strong> This paper represents the high point of the Phase 3 chromatin programme. It cites six earlier Burgoyne lab papers (1978, 1979, 1981, 1982, and a 1985 <em>Cytobiosis</em> review). Roger D. Drinkwater has moved from the biology department to Flinders Medical Centre Haematology, suggesting a career transition. Peter J. Wilson is a new collaborator. Jennifer D. Skinner continues as co-author. Funded by the Australian Research Grants Scheme (now Australian funding rather than US). The paper was published in Nucleic Acids Research — a leading journal for this type of work.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1981_burgoyne_chromatin_superstructure_alternating.html">Burgoyne &amp; Skinner (1981)</a> BBRC: Fe-DNase I probe, 2N repeat concept</li>
+    <li><a href="1982_burgoyne_avian_erythrocyte_dinucleosomal.html">Burgoyne &amp; Skinner (1982)</a> NAR: Avian erythrocyte dinucleosomal series to 10–12N</li>
+    <li><a href="1978_burgoyne_hewish_cell_nucleus_chromatin_review.html">Burgoyne, Skinner &amp; Marshall (1978)</a> J. Cell Sci.: Passive penetration, cavity dimensions</li>
+    <li>Burgoyne &amp; Skinner (1979) J. Cell Sci.: Two classes of nuclear cavities</li>
+    <li><a href="1985_burgoyne_back_to_back_zigzag_chromatin.html">Burgoyne (1985)</a> Cytobiosis: Theoretical review of chromatin structure models</li>
+    <li>Subirana et al. (1985): Disorderly face-to-face layering model from EM</li>
+    <li>Thoma, Koller &amp; Klug (1979): Zigzag nucleofilament from EM</li>
+    <li>Finch &amp; Klug (1976): Solenoid model</li>
+    <li>Williams et al. (1986): Double helical crossed-linker model</li>
+    <li>Staynov et al. (1983): Simulated DNase I digestion favouring alternating exposure</li>
+    <li>Lutter (1978): DNA exposure pattern on nucleosome surface</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Major synthesis of the Burgoyne chromatin superstructure programme (1975–1987)</li>
+    <li>Most thorough published critique of solenoid/coil models from nuclease digestion evidence</li>
+    <li>Extension of dinucleosome concept to human lymphoblasts and metaphase chromatin</li>
+    <li>Demonstration that 2N pattern is specifically associated with condensed/metaphase chromatin</li>
+    <li>Evidence that centromeric, interspersed, and active DNA sequences share the same higher-order packaging</li>
+    <li>Back-to-back + face-to-face folding model as a full alternative to solenoid theories</li>
+    <li>Foundation for the companion 1987 paper extending the disomal series to 16N</li>
+    <li>Testori, Houck &amp; Burgoyne (1991, 1992) — chromatin accessibility studies connecting nuclease sensitivity to cell-cycle variation, extending the structural framework</li>
+    <li>Burgoyne &amp; Bhakoo (1999) — pyknosis work connecting chromatin condensation and higher-order structural changes to apoptotic cell death</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Roger D. Drinkwater</strong> — first author, now at Haematology, Flinders Medical Centre (continuing from the 1986 repetitive DNA paper). <strong>Peter J. Wilson</strong> — new collaborator, School of Biological Sciences, Flinders University. <strong>Jennifer D. Skinner</strong> — continuing long-term collaborator. Funded by the Australian Research Grants Scheme.</p>

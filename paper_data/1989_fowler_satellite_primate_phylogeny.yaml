@@ -1,0 +1,90 @@
+id: 1989_fowler_satellite_primate_phylogeny
+title: Satellite DNA and Higher-Primate Phylogeny
+page_title: Fowler, Skinner, Burgoyne & Drinkwater (1989) — Satellite DNA and Higher-Primate Phylogeny
+authors:
+- J.C.S. Fowler
+- J.D. Skinner
+- L.A. Burgoyne
+- R.D. Drinkwater
+authors_affiliation: null
+venue: Molecular Biology and Evolution, 6(5), 553–557
+paper_number: null
+doi: —
+funding: null
+citations: ~25–40
+citations_source: estimated
+tags:
+- Satellite III
+- Satellite II
+- Alphoid DNA
+- Primate Phylogeny
+- Molecular Evolution
+- Chimpanzee
+- Gorilla
+- Orangutan
+- TTCCA Pentamer
+- Species-Specific DNA
+burgoyne_index: 2
+extra_meta:
+- label: Year
+  value_html: '1989'
+- label: Format
+  value_html: Letter to the Editor
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University of South Australia
+- label: Reviewed by
+  value_html: Walter M. Fitch
+- label: Received
+  value_html: 18 August 1988; Final revision 2 May 1989; Accepted 4 May 1989
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1989 - Satellite DNA and higher-primate phylogeny.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper applies the cloned satellite DNA probes developed in the Burgoyne lab’s satellite programme to a fundamental question in molecular evolution: can satellite DNA sequences resolve higher-primate phylogeny? Previous comparative studies had used heterogeneous gradient-centrifugation-derived probes, producing conflicting results (Mitchell et al. 1977, 1981 vs Gosden et al. 1977). By using three cloned probes of known sequence — 228S (satellite III), 227S (satellite II), and 216S (satellite alphoid) — the Flinders group could perform a controlled comparison across human, chimpanzee, gorilla, and orangutan. Published as a letter to the editor in <em>Molecular Biology and Evolution</em>, reviewed by Walter M. Fitch, a founding figure in molecular phylogenetics.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Satellite III (228S probe):</strong> Present in all four higher-primate species. Extensive interspecies differences in HaeIII and EcoRI restriction patterns. Notable interindividual variation between two male chimpanzees — unlike human DNA, which shows little variation with HaeIII/EcoRI. Human-specific features include the 3.5 kb Y-specific HaeIII fragment and 1.8/3.6 kb KpnI K-domain fragments.</li>
+    <li><strong>Satellite II (227S probe):</strong> Virtually human-specific. Only strong hybridisation to non-human primate was a single ~3.3 kb band in the KpnI digest of orangutan DNA. This confirmed Mitchell et al. (1981) and contradicted Gosden et al. (1977).</li>
+    <li><strong>Satellite alphoid (216S probe):</strong> Present in all four species with orderly 170/340 bp repeat ladders, but moderately diverged — KpnI patterns distinguishable between species.</li>
+    <li><strong>No phylogenetic tree:</strong> Satellite DNA provided no compelling evidence supporting any specific phylogeny of the higher primates. The sequences evolve too rapidly and probably by concerted evolution rather than simple point mutation divergence.</li>
+    <li><strong>Satellite III evolving faster than speciation:</strong> Interspecies variation greatly exceeds interindividual variation within humans, but chimpanzee interindividual variation is much greater than human interindividual variation — implying chimpanzees are a more ancient species and human racial radiation occurred in orders of magnitude less time than higher-primate speciation.</li>
+    <li><strong>Resolved conflicting prior results:</strong> Attributed contradictions between Mitchell et al. (1981) and Gosden et al. (1977) to the use of heterogeneous gradient-centrifugation probes vs cloned probes of known sequence. Correctly noted that Holmquist et al. (1988) had incorrectly cited earlier results.</li>
+    <li><strong>Summary:</strong> Satellite III/IV and alphoid found in higher primates only; satellite II is close to human-specific.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This is the only paper in Burgoyne’s bibliography that addresses molecular phylogenetics directly. By using cloned probes of known sequence rather than heterogeneous gradient fractions, it clarified a confused literature on satellite DNA distribution in primates. The observation that satellite III interindividual variation in chimpanzees exceeds that in humans was an early molecular argument for the greater antiquity of the chimpanzee species relative to modern humans — a conclusion subsequently supported by population genetic data. The finding that satellite II is effectively human-specific was noteworthy for understanding recent genome evolution.</p>
+    <p><strong>Career significance:</strong> Publication in <em>Molecular Biology and Evolution</em> — a top-tier evolutionary genetics journal — represents a broadening of the satellite DNA programme from forensic applications to fundamental evolutionary biology. Review by Walter M. Fitch adds prestige. R.D. Drinkwater’s affiliation has changed to CSIRO Tropical Cattle Research Centre, Rockhampton — indicating he has left Flinders. Continued Criminology Research Council funding. This is the last paper in the bibliography to include all four of the satellite DNA programme’s core contributors (Fowler, Skinner, Burgoyne, Drinkwater).</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Fowler, Drinkwater, Skinner &amp; Burgoyne (1988) Hum Genet: Macrosatellite polymorphism and 228S probe</li>
+    <li><a href="1986_drinkwater_repetitive_DNA_elements.html">Drinkwater, Burgoyne &amp; Skinner (1986)</a> NAR: 227S satellite II probe</li>
+    <li>Fowler, Skinner, Burgoyne &amp; McInnes (1988b): 216S alphoid probe and FIGE methods</li>
+    <li>Mitchell, Gosden &amp; Ryder (1981): Satellite DNA relationships in man and primates</li>
+    <li>Gosden, Mitchell, Seuanez &amp; Gosden (1977): Satellite DNA distribution in higher-primate chromosomes</li>
+    <li>Frommer et al. (1982); Prosser et al. (1986): TTCCA pentameric repeat characterisation</li>
+    <li>Waye &amp; Willard (1987): Alpha satellite sequence heterogeneity</li>
+    <li>Holmquist, Miyamoto &amp; Goodman (1988): Higher-primate phylogeny review</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Clarification of conflicting literature on satellite DNA distribution in higher primates</li>
+    <li>Early molecular evidence for greater antiquity of chimpanzee species relative to modern humans</li>
+    <li>Demonstration that satellite II is effectively human-specific</li>
+    <li>Validation of using cloned probes of known sequence vs heterogeneous gradient fractions for comparative genomics</li>
+    <li>Extension of Burgoyne lab satellite DNA programme from forensics into molecular evolution</li>
+    <li>Foundation for the 1990 Toulouse goose macrosatellite paper (extending satellite DNA studies to non-primate species)</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>J.C.S. Fowler</strong> — Lead and corresponding author; continuing satellite III programme. <strong>J.D. Skinner</strong> — Long-term collaborator. <strong>R.D. Drinkwater</strong> — Now at CSIRO Tropical Cattle Research Centre, Rockhampton, Queensland (departed Flinders). Funded by the Criminology Research Council, Canberra.</p>

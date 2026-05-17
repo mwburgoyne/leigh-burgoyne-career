@@ -1,0 +1,83 @@
+id: 1992_fowler_satellite_III_Mb_endonuclease_resistance
+title: 'Satellite III DNA: Regions of Extreme Endonuclease Resistance and Interindividual Polymorphism in the Mb Size Range'
+page_title: 'Fowler & Burgoyne (1992) — Satellite III: Extreme Endonuclease Resistance & Mb Polymorphism'
+authors:
+- J.C.S. Fowler
+- L.A. Burgoyne
+authors_affiliation: null
+venue: Genetica, 87, 75–78
+paper_number: null
+doi: 10.1007/bf00120995
+funding: null
+citations: 1
+citations_source: Crossref (title+author)
+tags:
+- Satellite III DNA
+- Mb Polymorphism
+- Endonuclease Resistance
+- FIGE
+- C-Banding
+- Heterochromatin
+- VNTR
+- Macrosatellite
+- Within-Gel Digestion
+- Forensic DNA
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1992'
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University of South Australia
+- label: Received
+  value_html: 1 April 1992; Accepted 14 May 1992
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1992 - Satellite III DNA Regions of extreme endonuclease resistance and interindividual polymorphism in the Mb size range.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper extends the satellite III programme to megabase-scale resolution using within-gel (in-agarose) digestion of human cells combined with sine-cycle field inversion gel electrophoresis (FIGE). The 1989 Chromosoma paper had shown that the TaqI-Deficient Polymorphic Sequences (TDPS) are resistant to multiple restriction enzymes, but only examined fragments up to ~50 kb. By embedding cells in agarose plugs, digesting with multiple enzymes, and separating the products by pulsed-field electrophoresis, Fowler and Burgoyne now reveal that some Satellite III regions are resistant even to 4-base-recognition enzymes at the megabase scale — and show clear inter-individual polymorphism at this unprecedented resolution.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Mb-sized satellite III fragments:</strong> Within-gel HaeIII digestion of human cells revealed satellite III restriction fragments ranging from 0.2 to over 2.0 Mb, detected by Southern analysis with probe 228S. The rest of the genome was fully digested (ethidium staining below ~20 kb).</li>
+    <li><strong>Extreme resistance to 4-bp enzymes:</strong> Even enzymes with 4-bp recognition sites (expected site frequency 1/256 bp) — HaeIII, AluI, RsaI, MboI — leave Mb-sized satellite III fragments intact. Six-base enzymes (BamHI, XbaI) showed similar resistance.</li>
+    <li><strong>Inter-individual Mb-length polymorphism:</strong> Clear band-size variation between three individuals in the 0.2–1.5 Mb optimal separation range. Polymorphism observed with HaeIII, BamHI, and XbaI.</li>
+    <li><strong>Sine-cycle FIGE:</strong> Used an asymmetric sine-cycle voltage ramp (250 V forward, 125 V reverse) with increasing cycle duration (20–160 s) over ~30 hours for optimal Mb-range separation.</li>
+    <li><strong>Y-specific fragment confirms digestion completeness:</strong> The 3.4 kb satellite III Y-specific HaeIII fragment was present in male samples, confirming adequate digestion.</li>
+    <li><strong>Most homogeneous = most recently evolved:</strong> Regions of greatest restriction site sparsity represent the most recently amplified TTCCA sequences, having accumulated minimal degeneracy or transposon invasion.</li>
+    <li><strong>VNTR mechanism:</strong> Mb-length polymorphism likely due to variable number of tandem repeats within the satellite, as in smaller satellites and in alphoid sequences (Jabs et al. 1989).</li>
+    <li><strong>Link to C-banding:</strong> These endonuclease-resistant regions would stain as C-bands when metaphase chromosomes are treated with restriction enzymes. Mb-scale sequence variation may account for inter-individual C-band heteromorphisms.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper demonstrated that satellite III heterochromatin contains regions of such extreme sequence homogeneity that even frequent-cutting restriction enzymes cannot penetrate them at the megabase scale. The inter-individual Mb-length polymorphism revealed a new scale of human genomic variation in heterochromatin. The connection to C-banding heteromorphisms provided a molecular explanation for a long-observed cytogenetic phenomenon. Together with Jabs et al.’s (1989) work on alphoid sequences, this paper established that macrosatellite Mb-length polymorphism is a general feature of human centromeric heterochromatin.</p>
+    <p><strong>Career significance:</strong> This is the last satellite III paper from the Fowler/Burgoyne collaboration. Published in <em>Genetica</em>. Only two authors (Fowler and Burgoyne), suggesting a mature, streamlined collaboration. The within-gel digestion and FIGE methodology represents the most technically sophisticated application of the satellite III programme. The findings bring full circle the sequence homogeneity observations from the 1989 Chromosoma paper, now extended to the megabase scale.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Fowler, Burgoyne, Baker, Ringenbergs &amp; Callen (1989) Chromosoma: TDPS genomic location and sequence homogeneity</li>
+    <li>Fowler, Skinner, Burgoyne &amp; McInnes (1988) Appl Theor Electrophoresis: FIGE methodology</li>
+    <li>Fowler, Drinkwater, Skinner &amp; Burgoyne (1988) Hum Genet: Macrosatellite polymorphism</li>
+    <li>Jabs, Globe &amp; Cutting (1989) PNAS: Macromolecular Mb polymorphism in alphoid centromeric DNA</li>
+    <li>Babu, Agarwal &amp; Verma (1988): Endonuclease-induced C-banding heteromorphisms</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Discovery of Mb-scale satellite III fragments resistant to frequent-cutting restriction enzymes</li>
+    <li>Inter-individual Mb-length polymorphism in heterochromatin</li>
+    <li>Molecular explanation for inter-individual C-band heteromorphisms</li>
+    <li>Confirmation that most homogeneous satellite III regions are most recently evolved</li>
+    <li>Final paper in the Fowler/Burgoyne satellite III collaboration; the forensic DNA expertise developed here fed into Burgoyne’s subsequent FTA card and forensic programmes</li>
+    <li>Satellite DNA expertise contributed directly to Burgoyne’s development of the FTA card (1994) for forensic DNA collection and later forensic programmes</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>J.C.S. Fowler</strong> — Lead author; final satellite III paper from the Fowler/Burgoyne partnership. Yeast chromosome standards used for Mb-range size calibration.</p>

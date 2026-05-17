@@ -1,0 +1,83 @@
+id: 1992_testori_substrate_conformation_PKC
+title: |-
+  Importance of Substrate Conformation in the Phosphorylation of Chromatin-Associated Proteins by Exogenous Protein Kinase C
+page_title: Testori, Burgoyne & Murray (1992) — Substrate Conformation & PKC Phosphorylation of Chromatin
+authors:
+- Alessandro Testori
+- Leigh A. Burgoyne
+- Andrew W. Murray
+authors_affiliation: null
+venue: Cellular Signalling, 4(2), 145–151
+paper_number: null
+doi: 10.1016/0898-6568(92)90078-m
+funding: null
+citations: 2
+citations_source: Crossref (title+author)
+tags:
+- Protein Kinase C
+- Chromatin Conformation
+- Substrate Accessibility
+- Nuclear Phosphorylation
+- Polyamines
+- DNase I
+- Micrococcal Nuclease
+- HL-60
+- Primary Lymphocytes
+- Buffer-A
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1992'
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University of South Australia
+- label: Received
+  value_html: 20 October 1991; Accepted 29 October 1991
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1992 - Importance of substrate conformation in the phosphorylation of chromatin-associated proteins by exogenous protein kinase C.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This paper extends the 1991 BBRC study of endogenous nuclear autophosphorylation to examine phosphorylation by exogenously added purified protein kinase C (PKC). While the 1991 paper showed that chromatin conformation controls endogenous kinase targeting, this companion paper asks whether exogenous PKC — a key signal transduction enzyme known to be present in nuclei — is similarly regulated by substrate conformation. The study uses four different cell types (HL-60, HeLa, 3T3, primary lymphocytes) to reveal striking cell-type differences. Published in <em>Cellular Signalling</em>, a dedicated signalling journal, with A.W. Murray as corresponding author. Again uses the Buffer-A system from the 1970 and 1973 Burgoyne papers.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Exogenous PKC requires expanded chromatin:</strong> Chromatin-associated proteins were only phosphorylated by exogenously added purified rat brain PKC when the chromatin was in an expanded (decondensed) state. Condensed nuclei in all cell lines were unresponsive.</li>
+    <li><strong>Dramatic cell-type differences:</strong> HL-60 and HeLa nuclear proteins were unresponsive to exogenous PKC under all conditions. In contrast, 3T3 fibroblasts showed moderate responsiveness, and primary lymphocytes showed dramatic PKC-dependent phosphorylation of many proteins when chromatin was expanded.</li>
+    <li><strong>Ca<sup>2+</sup>/phospholipid dependence:</strong> PKC-dependent phosphorylation in responsive cells required calcium and phosphatidylserine, confirming genuine PKC activity. EGTA abolished PKC-specific bands.</li>
+    <li><strong>HL-60/HeLa unresponsiveness explained:</strong> Not due to PKC inactivation (added histones were phosphorylated normally). Likely due to higher endogenous PKC activity in these cell lines maintaining substrates in a constitutively phosphorylated state.</li>
+    <li><strong>Nuclease modulation:</strong> Both DNase-I and micrococcal nuclease strongly modulated phosphorylation patterns, confirming substrates are DNA-associated. The two nucleases produced different pattern changes, ruling out the trivial explanation that nuclease effects operate via polyamine release from degraded DNA.</li>
+    <li><strong>Concordance with in vivo data:</strong> In vivo, HL-60 cells do not exhibit phorbol ester-induced nuclear phosphorylation, while 3T3 cells do — consistent with the in vitro results.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This was the first in vitro study of exogenous PKC-mediated phosphorylation of chromatin-associated proteins conducted under conditions maintaining chromatin integrity and structure. Previous studies had used purified individual nuclear proteins or crude nuclear fractions. The discovery that chromatin condensation state gates PKC access to its nuclear substrates provided a mechanistic link between chromatin structure and signal transduction. The cell-type differences in PKC responsiveness added biological complexity, suggesting that the “phosphorylation state” of nuclear proteins varies between cell types in ways that mirror their in vivo responses to PKC-activating signals.</p>
+    <p><strong>Career significance:</strong> Third and most substantial Testori/Burgoyne/Murray collaboration (after 1988 PKC/DNA-binding and 1991 autophosphorylation papers). Published in <em>Cellular Signalling</em> — a higher-profile signalling journal than BBRC. This trilogy represents the fullest development of the bridge between Burgoyne’s chromatin expertise and Murray’s PKC signalling programme. The continued use of Buffer-A (now 22 years old) underscores the enduring utility of Burgoyne’s foundational methodology.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1991_testori_phosphorylation_chromatin_HL60.html">Testori, Skinner, Murray &amp; Burgoyne (1991)</a> BBRC: Endogenous autophosphorylation and chromatin conformation</li>
+    <li><a href="1988_testori_DNA_binding_PKC.html">Testori, Hii, Fournier, Burgoyne &amp; Murray (1988)</a> BBRC: PKC/DNA-binding proteins</li>
+    <li>Burgoyne, Waqar &amp; Atkinson (1970) BBRC: Buffer-A system</li>
+    <li>Hewish &amp; Burgoyne (1973) BBRC: Chromatin substructure</li>
+    <li>Nishizuka (1986): PKC in cellular signalling</li>
+    <li>Thomas, Talwar &amp; Anderson (1988): Phorbol ester-induced nuclear phosphorylation differences between cell types</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>First study of exogenous PKC phosphorylation of chromatin proteins with maintained chromatin structure</li>
+    <li>Demonstration that chromatin condensation gates PKC access to nuclear substrates</li>
+    <li>Cell-type differences in PKC responsiveness mirror in vivo phorbol ester responses</li>
+    <li>Two-nuclease control proving DNA-association and ruling out polyamine artefacts</li>
+    <li>Completion of the Testori/Burgoyne/Murray chromatin-signalling trilogy</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Alessandro Testori</strong> — Lead experimental contributor. <strong>Andrew W. Murray</strong> — Corresponding author, PKC signalling expert at Flinders (same A.W. Murray as 1988 and 1991 papers). PKC purified by adsorption to inside-out red cell vesicles and DE-52 chromatography.</p>

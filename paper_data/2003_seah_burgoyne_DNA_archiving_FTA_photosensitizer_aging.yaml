@@ -1,0 +1,73 @@
+id: 2003_seah_burgoyne_DNA_archiving_FTA_photosensitizer_aging
+title: 'DNA Archiving on FTA<sup>®</sup> Paper: Photosensitizer-Initiated Attacks as Models of Aging'
+page_title: '2003 — DNA Archiving on FTA Paper: Photosensitizer-Initiated Attacks as Models of Aging'
+authors:
+- L.H. Seah & L.A. Burgoyne
+authors_affiliation: null
+venue: International Congress Series, vol. 1239, pp. 689–697
+paper_number: null
+doi: 10.1016/S0531-5131(02)00563-0
+funding: null
+citations: 1
+citations_source: OpenAlex (DOI)
+tags:
+- DNA Archiving
+- FTA Paper
+- Photosensitizer
+- Riboflavin
+- Hematoporphyrin
+- Singlet Oxygen
+- Tris-Urate
+- Accelerated Aging
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '2003'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2003 - DNA archiving on FTAR paper photosensitizer-initiated attacks as models of aging.pdf
+  text: View Original PDF
+sections:
+- heading: Related Conference Poster
+  body_html: |-
+    <ul>
+    <li><a href="../burgoyne_papers/posters/2001 - DNA Archiving on FTA Paper Photosensitizer (Seah and Burgoyne poster).pdf">DNA Archiving on FTA Paper: Photosensitizer Initiated Attacks as Models of Aging</a> — poster by Seah &amp; Burgoyne (c. 2001)</li>
+    </ul>
+- heading: Context & Background
+  body_html: |-
+    <p>By 2003, <mark>Burgoyne</mark>’s laboratory at Flinders University was deeply embedded in the FTA technology platform era, having developed and refined paper-based DNA storage matrices with chemical protectants. A central concern for FTA technology was whether DNA archived on these papers could withstand long-term degradation — a question that demanded understanding the mechanisms of “molecular aging” in dry DNA. The spontaneous rates of many degradative processes are extremely slow relative to biological lifetimes, making direct observation impractical. This paper, a continuation of the earlier Seah &amp; <mark>Burgoyne</mark> (2000/2001) work, developed photosensitizer-driven model systems using riboflavin and hematoporphyrin to generate accelerated cascades of reactive species around dry DNA — effectively simulating years of aging damage in controlled laboratory timescales. The work was presented as part of the proceedings of the International Society for Forensic Genetics (ISFG) congress and published in Elsevier’s International Congress Series.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Dry vs. aqueous damage profiles differ markedly:</strong> DNA damage profiles from photosensitizer-initiated reactions on dry media were significantly different from those in aqueous systems, demonstrating that water tension is an important factor in these degradation pathways. Low DNA hydration was unfavorable for formation of oxidised guanines but was a lesser hindrance to strand breaks and AP sites.</li>
+    <li><strong>Hematoporphyrin is oxygen-dependent; riboflavin is not:</strong> Photodynamic hematoporphyrin damage was substantially reduced in a nitrogen atmosphere (indicating Type II, singlet oxygen-mediated pathways), whereas riboflavin showed little change under anaerobic conditions (confirming direct Type I attack mechanisms).</li>
+    <li><strong>Paraffin wax encasing failed to protect:</strong> Coating discs in paraffin wax to limit oxygen exposure did not retard hematoporphyrin-initiated photodynamic damage, because even tiny trapped air pockets provided sufficient oxygen for singlet oxygen generation. Only a true nitrogen atmosphere was effective.</li>
+    <li><strong>Tris-urate provides significant DNA protection:</strong> The tris-urate component of the FTA matrix (acting as an anti-free radical agent) substantially protected DNA from both riboflavin and hematoporphyrin attacks — approximately 2-fold better than tris-caffeine for strand breakage in air and 6-fold better under nitrogen. Against hematoporphyrin, tris-urate reduced strand breaks by 25% and AP sites by 2.3-fold compared to plain paper.</li>
+    <li><strong>Oxygen can be paradoxically protective:</strong> In at least one scenario (riboflavin under nitrogen), depurination was not impeded, implying that oxygen (air) could in some circumstances mitigate certain types of damage — an unexpected and atypical finding.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This paper provided the first rigorous demonstration that the chemical protectants within the FTA paper matrix — specifically tris-urate — offer genuine, quantifiable protection against the kinds of reactive species that accumulate during long-term DNA storage. By developing photosensitizer-driven accelerated aging models, Seah and <mark>Burgoyne</mark> moved beyond simple claims of FTA paper stability to mechanistic evidence. The work revealed that dry DNA archiving faces a complex landscape of threats: oxygen-dependent and oxygen-independent pathways, direct (Type I) and indirect (Type II) radical attacks, and that no single protective strategy (e.g., anaerobic storage alone) is sufficient. The finding that a “designer” analogue with lower ionization potential than guanine or urate could be even more protective opened a conceptual pathway toward next-generation DNA preservation chemistry.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Seah &amp; <mark>Burgoyne</mark> (2000): Earlier work (Prog. Forensic Genet. 8:74–77) establishing the microgel electrophoretic technique for assaying DNA damage on paper and initial FTA protection studies.</li>
+    <li><mark>Burgoyne</mark> FTA paper technology patents (1994–2002): Foundational development of the FTA matrix containing tris-urate as an anti-free radical agent.</li>
+    <li>Photodynamic chemistry literature: Established knowledge of Type I (direct) vs. Type II (singlet oxygen-mediated) photosensitizer pathways.</li>
+    <li>Lindahl (1993): DNA instability and decay mechanisms in the context of long-term preservation.</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Mechanistic validation of FTA paper chemistry for long-term DNA preservation.</li>
+    <li>Concept of designer protectant molecules with lower ionization potential than guanine for next-generation DNA storage.</li>
+    <li>Evidence base for forensic DNA archiving standards on FTA paper.</li>
+    <li>Understanding of reactive species pathways in dry versus aqueous DNA environments.</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>L.H. Seah (Linden Seah)</strong> — First and corresponding author. Malaysian Department of Chemistry, Petaling Jaya. Long-term collaborator with <mark>Burgoyne</mark> on FTA technology applications, bridging Australian university research with Malaysian forensic science practice.</p>

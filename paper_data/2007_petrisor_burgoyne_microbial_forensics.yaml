@@ -1,0 +1,104 @@
+id: 2007_petrisor_burgoyne_microbial_forensics
+title: Microbial Forensics
+page_title: 2007 — Microbial Forensics (Book Chapter)
+authors:
+- Ioana G. Petrisor
+- Rachel A. Parkinson
+- Jacqui Horswell
+- James M. Waters
+- Leigh A. Burgoyne
+- David E.A. Catcheside
+- Winnie Dejonghe
+- Natalie Leys
+- Karolien Vanbroekhoven
+- Priyabrata Pattnaik
+- Duane Graves
+authors_affiliation: null
+venue: |-
+  Chapter 11 in <em>Introduction to Environmental Forensics</em>, 2nd Edition (Brian L. Murphy and Robert D. Morrison, eds.), Elsevier Academic Press, pp. 227–257
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- Microbial Forensics
+- DNA Fingerprinting
+- Soil Forensics
+- TRFLP
+- DGGE
+- AFLP
+- PCR
+- Contaminant Source Tracking
+- Microbial Community Profiling
+- Environmental Forensics
+- Book Chapter
+burgoyne_index: 4
+extra_meta:
+- label: Year
+  value_html: '2007'
+- label: DOI/ISBN
+  value_html: 'Book chapter — parent volume ISBN: 978-0-12-369522-2'
+venue_label: Publication
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/2007 - Microbial forensics.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>By the mid-2000s, the field of environmental forensics was rapidly incorporating molecular biology tools that had been developed in clinical and criminal forensic science. <mark>Burgoyne’s</mark> decades of work on DNA analysis, FTA card technology, and soil DNA profiling (including the SMIPS patent, US 2004/0175715 A1) had positioned him at the intersection of forensic genetics and environmental microbiology. This comprehensive review chapter, authored by an international team of eleven scientists spanning the USA, New Zealand, Belgium, India, and Australia, synthesised the state of the art in applying microbial signatures — from traditional indicator organisms to cutting-edge DNA fingerprinting techniques — as forensic tools for tracing contamination sources in the environment.</p><p><mark>Burgoyne’s</mark> Flinders University colleague David E.A. Catcheside, a geneticist specialising in <em>Neurospora</em> and DNA repair, co-authored the chapter. The New Zealand contingent — Horswell, Parkinson, and Waters — brought direct experience with the pioneering application of TRFLP to forensic soil comparison (Horswell et al., 2002), while Dejonghe, Leys, and Vanbroekhoven contributed Belgian expertise on heavy metal impacts on microbial communities. Petrisor (US-based environmental scientist) served as coordinating lead author, and Graves brought biodefence experience from the 2001 anthrax response.</p>
+- heading: Key Findings & Arguments
+  body_html: |-
+    <ul>
+    <li><strong>Traditional methods:</strong> Indicator bacteria (e.g., <em>E. coli</em>, <em>Enterococcus</em>, <em>Clostridium perfringens</em>), microbial ratios, multiple antibiotic resistance (MAR) profiling, immunological serogrouping, soil microbial biomass and basal respiration, community-level physiological profiling (CLPP via Biolog plates), and phospholipid fatty acid analysis (PLFA) — all limited by reliance on culturability and phenotypic instability.</li>
+    <li><strong>Emerging DNA-based techniques:</strong> Terminal restriction fragment length polymorphism (TRFLP), amplified fragment length polymorphism (AFLP), single-strand conformation polymorphism (SSCP), denaturing/temperature gradient gel electrophoresis (DGGE/TGGE), amplified ribosomal DNA restriction analysis (ARDRA), and randomly amplified polymorphic DNA (RAPD) — each compared in terms of resolution, reproducibility, automation potential, and forensic admissibility.</li>
+    <li><strong>TRFLP as the leading forensic tool:</strong> Highlighted Horswell et al.’s (2002) demonstration that bacterial community DNA profiles from forensic-scale soil samples could be compared using Sorenson’s Similarity Index, achieving &gt;0.9 similarity for matched samples versus &lt;0.6 for reference soils.</li>
+    <li><strong>Bioterrorism applications:</strong> Extensive treatment of <em>Bacillus anthracis</em> strain discrimination via VNTRs, SNPs, and indels in the wake of the 2001 anthrax attacks, including the identification of the Ames strain.</li>
+    <li><strong>Isotopic forensics:</strong> Stable isotope ratios (δ<sup>13</sup>C, δ<sup>15</sup>N, δ<sup>2</sup>H, δ<sup>18</sup>O) in microbial cells as geographic/medium signatures for tracing microbial production origins.</li>
+    <li><strong>Forensic interpretation:</strong> Discussion of statistical comparison methods for DNA community fingerprints, with caution that Sorenson’s Index may be “too simplistic” for court use and that statistically sound validation is needed.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>This chapter served as a definitive reference work connecting environmental microbiology to forensic science. It was one of the first comprehensive treatments to position soil microbial DNA profiling — the approach <mark>Burgoyne</mark> had been developing through his SMIPS patent and FTA-based methodologies — within the broader framework of environmental forensic investigation. By integrating the perspectives of researchers from forensic genetics, environmental microbiology, and biodefence, the chapter established microbial forensics as a legitimate interdisciplinary field with applications ranging from fecal pollution source tracking in waterways to bioterrorism agent identification and contaminant migration tracing through soil profiles.</p>
+    <p>The chapter’s placement in Murphy and Morrison’s widely-used <em>Introduction to Environmental Forensics</em> textbook ensured broad readership among environmental consultants, forensic scientists, and regulatory professionals.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <p><strong>From <mark>Burgoyne’s</mark> own work:</strong></p>
+    <ul>
+    <li>SMIPS single-primer PCR method for soil profiling (US Patent 2004/0175715 A1, 2004; and CIP US 2006/0105368, 2006)</li>
+    <li>FTA card technology for DNA storage and processing (US Patents 5,496,562 through 6,627,226, 1994–2003)</li>
+    <li>Smith &amp; <mark>Burgoyne</mark> (2004) — wildlife FTA databasing paper</li>
+    <li>Rogers &amp; <mark>Burgoyne</mark> (1997) — first demonstration of bacterial DNA processing on FTA</li>
+    </ul>
+    <p><strong>From collaborators and the broader field:</strong></p>
+    <ul>
+    <li>Horswell et al. (2002) — pioneering forensic soil comparison via TRFLP</li>
+    <li>Budowle et al. (2003) — microbial forensics concept for bioterrorism response</li>
+    <li>Read et al. (2002) — comparative genome sequencing of <em>B. anthracis</em></li>
+    <li>Keim et al. (2000) — VNTR analysis of <em>B. anthracis</em></li>
+    <li>Muyzer et al. (1993) — foundational DGGE methodology for microbial community analysis</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li><mark>Burgoyne’s</mark> later soil forensics publications (2012–2017) drawing on the broad framework established here</li>
+    <li>Establishment of microbial forensics as a recognised interdisciplinary field</li>
+    <li>Standard practice of microbial community DNA profiling in environmental litigation and regulatory enforcement</li>
+    <li>Australasian research axis in environmental forensic genetics (New Zealand ESR – Flinders University collaboration)</li>
+    <li>Burgoyne, Catcheside &amp; Kirkbride (2008, NDLERF Monograph 30) — bioprofiling of illicit drugs using environmental DNA approaches</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <ul>
+    <li><strong>Ioana G. Petrisor</strong> — US-based environmental scientist; lead author and coordinating contributor</li>
+    <li><strong>Rachel A. Parkinson</strong> — New Zealand; forensic soil and decomposition research</li>
+    <li><strong>Jacqui Horswell</strong> — ESR (Institute of Environmental Science &amp; Research), New Zealand; pioneer of TRFLP-based forensic soil comparison</li>
+    <li><strong>James M. Waters</strong> — New Zealand; molecular ecology and phylogeography</li>
+    <li><strong>David E.A. Catcheside</strong> — Flinders University, Adelaide; geneticist specialising in <em>Neurospora crassa</em> and DNA repair; local Flinders colleague of <mark>Burgoyne</mark></li>
+    <li><strong>Winnie Dejonghe, Natalie Leys, Karolien Vanbroekhoven</strong> — SCK·CEN / VITO, Belgium; heavy metal impacts on microbial communities</li>
+    <li><strong>Priyabrata Pattnaik</strong> — India; microbiology and biodefence</li>
+    <li><strong>Duane Graves</strong> — USA; environmental forensics practitioner; involved in 2001 <em>B. anthracis</em> decontamination</li>
+    </ul>

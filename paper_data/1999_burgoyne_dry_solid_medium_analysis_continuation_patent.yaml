@@ -1,0 +1,89 @@
+id: 1999_burgoyne_dry_solid_medium_analysis_continuation_patent
+title: Dry Solid Medium for Storage and Analysis of Genetic Material (US Patent 5,976,572)
+page_title: Burgoyne (1999) — Dry Solid Medium for Storage and Analysis of Genetic Material (US Patent 5,976,572)
+authors:
+- Leigh Alexander Burgoyne
+authors_affiliation: Mitcham, Australia
+venue: null
+paper_number: null
+doi: null
+funding: null
+citations: null
+tags:
+- FTA Card
+- Continuation Patent
+- Protein Denaturing Agent
+- Free Radical Trap
+- Analytical Components
+- Cellulose Matrix
+- Nitrocellulose
+- Broad Claim Strategy
+- Forensic DNA
+- PCR on Solid Medium
+- Stapleton Prior Art
+- Terminal Disclaimer
+burgoyne_index: 0
+extra_meta:
+- label: Assignee
+  value_html: Flinders Technologies Pty. Ltd., Australia
+- label: Patent Number
+  value_html: US 5,976,572
+- label: Date of Patent
+  value_html: November 2, 1999
+- label: Filed
+  value_html: November 26, 1997 (Appl. No. 08/979,833)
+- label: Claims
+  value_html: '20'
+- label: Subject to terminal disclaimer
+  value_html: ''
+- label: Continuation of
+  value_html: |-
+    Ser. No. 08/480,135 (Jun 7, 1995) = US 5,756,126; which was continuation-in-part of Ser. No. 08/159,104 (Nov 30, 1993) = US 5,496,562; which was continuation of Ser. No. 07/671,859 (May 29, 1991, abandoned)
+authors_label: Inventor
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1999 - Dry solid medium for storage and analysis of genetic material 2.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This patent (US 5,976,572) is a continuation of US 5,756,126, sharing the same specification and examples as its parent. Its significance lies entirely in its different claim language, representing a distinct claiming strategy for the FTA analytical platform concept. Where the parent patent had separate claim sets — some covering the storage medium alone, others covering storage medium plus analytical components — this continuation takes a unified approach: Claim 1 mandatorily requires all three functional elements in combination: (i) a protein denaturing agent, (ii) a free radical trap, and (iii) a component functional in subsequent analysis of the genetic material. This three-part combination claim creates a distinct scope of protection. The broader functional language (“protein denaturing agent” rather than “SDS”; “free radical trap” rather than “uric acid”) potentially captures a wider range of chemical implementations while the mandatory analytical component narrows the claim to active analytical platforms rather than passive storage media. The extensive citation of the Stapleton patent family (Re. 35,716 and six related patents) in the prior art suggests the patent examiner required careful claim drafting to distinguish from this competitor IP. Subject to terminal disclaimer, linking its term to the parent patent.</p>
+- heading: Key Claims & Innovations
+  body_html: |-
+    <ul>
+    <li><strong>Claim 1 — Unified three-part combination:</strong> Requires a dry solid medium comprising all three: (i) a protein denaturing agent, (ii) a free radical trap, and (iii) a component functional in subsequent analysis of the genetic material. This mandatory combination of storage chemistry with analytical components in a single independent claim is the key distinction from the parent patent, which had separate claim sets with and without analytical components.</li>
+    <li><strong>Claims 2–7 — Dependent apparatus claims:</strong> Nucleotide sequence (Claim 2); target sequence stabilizer (Claim 3); PCR primer (Claim 4); component added post-sample application (Claim 5); multi-location card with different components at different locations (Claim 6); analytical component as polynucleotide (Claim 7).</li>
+    <li><strong>Claims 8–9 — Matrix material:</strong> Cellulose-based matrix (Claim 8); nitrocellulose specifically (Claim 9).</li>
+    <li><strong>Claims 10–12 — Chemical specifics:</strong> Detergent as the protein denaturing agent (Claim 10); free radical trap also functional as a releasing agent for genetic material from the matrix (Claim 11); uric acid or urate as the free radical trap (Claim 12).</li>
+    <li><strong>Claims 13–19 — Method claims:</strong> Parallel set of method claims mirroring the apparatus claims, covering methods of storing and analysing genetic material using the three-part medium.</li>
+    <li><strong>Claim 20 — Co-application:</strong> Component functional in subsequent analysis is included with the sample of genetic material (i.e., co-applied with the sample rather than pre-loaded on the card).</li>
+    <li><strong>Broader functional language:</strong> The use of “protein denaturing agent” rather than specific chemicals (SDS) and “free radical trap” rather than specific compounds (uric acid) in the independent claims potentially captures a wider range of chemical implementations than the parent patent’s more specific language.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Patent strategy contribution:</strong> This continuation represents a deliberate claiming strategy to extend the scope of patent protection for FTA technology. By using broader functional language in the independent claims while mandatorily combining all three functional elements, Burgoyne created a distinct patent scope: narrower than the parent in requiring analytical components, but broader in the chemical language used to describe the storage medium components. The parallel apparatus (Claims 1–12) and method (Claims 13–20) claim sets provide layered protection against different types of potential infringement.</p>
+    <p><strong>Career significance:</strong> This is the third US patent in the FTA family, continuing sole inventor <mark>Leigh Alexander Burgoyne</mark>’s systematic development of patent protection for the technology. The extensive Stapleton prior art citations (seven patents from the Re. 35,716 family) suggest the patent landscape had become competitive, requiring careful claim differentiation. The terminal disclaimer and the different claim strategy together indicate a mature patent prosecution approach: building a portfolio of overlapping but distinct claim scopes around the core FTA invention to maximize defensive and commercial value for the assignee, Flinders Technologies Pty. Ltd.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Burgoyne US 5,756,126 (1998): Direct parent patent — same specification, different claims</li>
+    <li>Burgoyne US 5,496,562 (1994/1996): Foundational FTA patent — original solid medium composition</li>
+    <li>Ser. No. 07/671,859 (May 29, 1991, abandoned): Original filing in the patent chain</li>
+    <li>Stapleton patent family (Re. 35,716 and six related patents): Competitor prior art requiring careful claim distinction</li>
+    <li>Burgoyne’s chromatin/nuclease research (1970s–1980s): Fundamental understanding of DNA degradation mechanisms underlying the invention</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Extended patent family protection for the FTA analytical platform concept with broader functional claim language</li>
+    <li>Distinct claim scope requiring mandatory analytical components — differentiating active analytical platforms from passive storage</li>
+    <li>Broader chemical claim coverage via functional language (“protein denaturing agent” / “free radical trap”) potentially capturing alternative chemical implementations</li>
+    <li>Parallel apparatus and method claim coverage for the integrated storage-plus-analysis concept</li>
+    <li>Portfolio-based patent strategy for Flinders Technologies Pty. Ltd.</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>Leigh Alexander Burgoyne</strong> — Sole inventor. As with the parent patent US 5,756,126 and the foundational patent US 5,496,562, this continuation was conceived and developed by Burgoyne alone. The consistent sole inventorship across the FTA patent family underscores his singular role in creating and refining the technology. Assignee: Flinders Technologies Pty. Ltd., Australia.</p>

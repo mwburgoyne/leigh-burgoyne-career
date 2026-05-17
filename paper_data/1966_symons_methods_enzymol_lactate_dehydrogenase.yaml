@@ -1,0 +1,63 @@
+id: 1966_symons_methods_enzymol_lactate_dehydrogenase
+title: L-Lactate (Cytochrome) Dehydrogenase (Crystalline, Yeast)
+page_title: Symons & Burgoyne (1966) — L-Lactate (Cytochrome) Dehydrogenase, Methods in Enzymology
+authors:
+- R. H. Symons
+- L. A. Burgoyne
+authors_affiliation: null
+venue: Methods in Enzymology, 9, 314–321
+paper_number: null
+doi: 10.1016/0076-6879(66)09064-5
+funding: null
+citations: 14
+tags:
+- Methods
+- Enzyme Purification
+- Cytochrome b2
+- Yeast
+- Reference Protocol
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '1966'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: ../burgoyne_papers/1966 - l-Lactate (cytochrome) dehydrogenase (crystalline, yeast).pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>Methods in Enzymology is one of the most widely referenced series in biochemistry, providing definitive protocols for enzyme preparation. This chapter established the standard preparation procedure for crystalline yeast cytochrome b<sub>2</sub>, incorporating the modifications developed by Symons and Burgoyne at Adelaide. It represents the codification of their collective work on this enzyme system into the canonical reference form.</p>
+- heading: Key Content
+  body_html: |-
+    <ul>
+    <li><strong>Complete purification protocol:</strong> Detailed 7-step procedure from dried yeast to three-times-crystallised enzyme, including extraction with butanol-lactate, four sequential acetone fractionations, and crystallisation by dialysis. Yields 25–50 mg of purified enzyme (specific activity ~140 units/mg) from 1 kg of dried yeast.</li>
+    <li><strong>Assay methods:</strong> Ferricyanide reduction assay at 420 nm; also applicable to whole yeast using butanol permeabilisation.</li>
+    <li><strong>DNA-free enzyme preparation:</strong> Method for preparing Type II (DNA-free) enzyme via DEAE-cellulose chromatography, yielding hexagonal bipyramid crystals distinct from the square plate Type I crystals.</li>
+    <li><strong>Oxidised enzyme preparation:</strong> Sephadex G-75 procedure for removing lactate substrate to obtain oxidised cytochrome b<sub>2</sub>.</li>
+    <li><strong>Physical and spectral properties:</strong> Detailed reference data including molecular weight (80,000 per protoheme), sedimentation coefficients, absorption spectra, substrate specificity, and inhibitor profiles.</li>
+    <li><strong>Crystallisation artefact noted:</strong> Explicitly states that the DNA component is "probably an artifact of the crystallization procedure," citing the companion research papers.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> As a Methods in Enzymology chapter, this became the standard reference protocol for anyone working with yeast cytochrome b<sub>2</sub>. These chapters are the "gold standard" for enzyme preparation and are among the most cited items in biochemistry.</p>
+    <p><strong>Career significance:</strong> Being invited to contribute a Methods in Enzymology chapter as a junior researcher (Burgoyne was still early career) indicates the quality and impact of the Adelaide cytochrome b<sub>2</sub> work. It also demonstrates practical experimental skill, a characteristic that would define Burgoyne's career through to the development of FTA cards.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li>Appleby &amp; Morton (1959): Original crystallisation procedure</li>
+    <li>Morton &amp; Shepley (1963): Type II enzyme and related procedures</li>
+    <li><a href="1966_nicholls_changes_lactate_dehydrogenase.html">Nicholls, Atkinson, Burgoyne &amp; Symons (1966)</a>: Modification during crystallisation</li>
+    <li><a href="1966_burgoyne_DNA_component_cytochrome_b2.html">Burgoyne &amp; Symons (1966)</a>: DNA component artefact demonstration</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Standard reference for all subsequent work on yeast cytochrome b<sub>2</sub></li>
+    <li>Widely cited in the flavoprotein and yeast enzyme literature for decades</li>
+    </ul>
+  box_style: connections
+citations_source: Crossref (title+author)

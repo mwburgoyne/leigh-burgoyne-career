@@ -1,0 +1,83 @@
+id: 2001_smith_burgoyne_ILRC_species_identity
+title: |-
+  Species Identity: Conserved Inverted LINE Repeat Clusters (ILRC) in the Vertebrate Genome as Indicators of Population Boundaries
+page_title: '2001 — Species Identity: Conserved Inverted LINE Repeat Clusters (ILRC) in the Vertebrate Genome'
+authors:
+- L.M. Smith
+- L.A. Burgoyne
+authors_affiliation: null
+venue: Gene, 271, 273–283
+paper_number: null
+doi: 10.1016/S0378-1119(01)00507-8
+funding: null
+citations: 5
+citations_source: Semantic Scholar (DOI)
+tags:
+- LINE Retrotransposon
+- CR1
+- L1
+- Inverted Repeats
+- ILRC
+- Species Identification
+- Population Boundaries
+- Speciation
+- Avian Genomics
+- FTA Paper
+- Single-Primer PCR
+burgoyne_index: 1
+extra_meta:
+- label: Year
+  value_html: '2001'
+- label: PMID
+  value_html: <a href="https://pubmed.ncbi.nlm.nih.gov/11418249">11418249</a>
+- label: Received
+  value_html: '10 October 2000; Revised: 4 April 2001; Accepted: 27 April 2001'
+- label: Institution
+  value_html: School of Biological Sciences, Flinders University of South Australia
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/2001 - Species identity conserved inverted LINE repeat clusters (ILRC) in the vertebrate genome as indicators of population boundaries.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>Building on the laboratory’s decade of experience with avian repetitive DNA (Zhu, Skinner &amp; <mark>Burgoyne</mark>, 1990–1992), this paper asked a new question: when LINE retroelements insert into each other to form inverted repeat clusters, do these structures behave as species-specific markers? The work also demonstrated practical use of FTA paper for DNA sample storage from 16 avian species and multiple mammals.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>ILRCs form by sequential super-insertion:</strong> Avian CR1 LINE elements insert into one another to form inverted clusters with no host DNA between elements. Multiple CR1 subfamilies (48–82% homology) confirmed sequential retrotransposition events.</li>
+    <li><strong>Species-characteristic patterns:</strong> Single-primer PCR across 14 avian species produced species-specific band patterns. Within species (20 Crested Pigeons, 20 Pelicans), ILRC sizes were conserved; between unrelated species, no shared sizes were found.</li>
+    <li><strong>Closely related species share ILRCs:</strong> White-Winged and Superb Wrens shared most ILRC loci, with only one band unique to one species. Chicken breeds showed breed-specific bands alongside shared ones.</li>
+    <li><strong>ILRCs decay by point mutation:</strong> Sequencing of a 183 bp ILRC from seven Crested Pigeons revealed accumulating point mutations. Present in 14 of 16 birds.</li>
+    <li><strong>Mammalian L1 also forms ILRCs:</strong> Conserved species-specific ILRC patterns demonstrated in humans, rats, horse, cow, and cat.</li>
+    <li><strong>Positive selection implied:</strong> High ratio of conserved to variant ILRCs across both bottlenecked and large populations argued against neutral drift alone.</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p>Identified a previously unrecognised class of conserved genomic structures — inverted LINE repeat clusters — that form by retrotranspositional super-insertion and spread rapidly to fixation within species. Proposed as a universal vertebrate species identification tool requiring only a single degenerate primer per LINE family. Connects <mark>Burgoyne</mark>’s earlier avian repetitive DNA work with practical forensic and conservation applications. All samples processed using FTA paper.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1991_zhu_interspersed_repeat_water_birds.html">Zhu, Burgoyne &amp; Skinner (1991)</a>: Interspersed repeat in water birds with CR1 homology</li>
+    <li>Zhu, Testori, Oh, Skinner &amp; Burgoyne (1992): Avian species-specific tandem repeats</li>
+    <li><a href="1990_zhu_macrosatellites_toulouse_goose.html">Zhu, Skinner &amp; Burgoyne (1990)</a>: Macrosatellites of the Toulouse goose</li>
+    <li>Burch, Davis &amp; Haas (1993): CR1 characterisation as non-LTR retrotransposon</li>
+    <li>Burgoyne FTA patents (1994–2001): FTA paper used for all sample collection</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>Novel single-primer PCR species identification method for all vertebrates</li>
+    <li>FTA paper validated for wildlife and museum specimen DNA across diverse taxa</li>
+    <li>Proposed functional role for LINE inverted repeats in gene regulation</li>
+    <li>Extended species-specific repetitive DNA concept from satellites to retrotransposon clusters</li>
+    <li>Twelve ILRC sequences deposited in EMBL database</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>L.M. Smith (Lisa M. Smith)</strong> — First and corresponding author. Flinders University, subsequently University of Western Australia. Likely PhD student or postdoc under <mark>Burgoyne</mark>. Designed the single-primer PCR strategy and performed all molecular and bioinformatic analyses.</p>

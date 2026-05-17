@@ -1,0 +1,70 @@
+id: 1970_burgoyne_initiation_DNA_synthesis_thymus
+title: |-
+  Initiation of DNA Synthesis in Rat Thymus: Correlation of Calcium-Dependent Initiation in Thymocytes and in Isolated Thymus Nuclei
+page_title: Burgoyne, Waqar & Atkinson (1970) — Initiation of DNA Synthesis in Rat Thymus
+authors:
+- Leigh A. Burgoyne
+- M. Anwar Waqar
+- Maurice R. Atkinson
+authors_affiliation: null
+venue: Biochemical and Biophysical Research Communications, 39(5), 918–922
+paper_number: null
+doi: 10.1016/0006-291x(70)90411-0
+funding: null
+citations: 27
+citations_source: Crossref (title+author)
+tags:
+- DNA Replication
+- Calcium Signalling
+- Thymus
+- Cell Division Control
+- Cyclic AMP
+burgoyne_index: 0
+extra_meta:
+- label: Year
+  value_html: '1970'
+venue_label: Journal
+landmark: false
+pdf_link:
+  href: |-
+    ../burgoyne_papers/1970 - Initiation of DNA synthesis in rat thymus Correlation of calcium-dependent initiation in thymocytes and in isolated thymus nuclei.pdf
+  text: View Original PDF
+sections:
+- heading: Context & Background
+  body_html: |-
+    <p>This companion paper to Burgoyne, Waqar &amp; Atkinson (1970, BBRC 39:254) extends the Ca<sup>2+</sup>-dependent DNA synthesis findings from liver nuclei to thymus nuclei. The thymus was chosen strategically: Whitfield and colleagues had already shown that raising blood Ca<sup>2+</sup> levels stimulates mitotic activity in rat thymus, and that 1–2 mM external Ca<sup>2+</sup> promotes initiation of DNA synthesis in isolated thymocytes. This paper asks whether the Ca<sup>2+</sup>-dependent endonuclease mechanism discovered in liver nuclei could explain the known physiological effects of calcium on cell division.</p>
+- heading: Key Findings
+  body_html: |-
+    <ul>
+    <li><strong>Ca<sup>2+</sup> effect confirmed in thymus:</strong> Thymus nuclei isolated in Ca<sup>2+</sup>-free solutions (with EDTA/EGTA) had active DNA polymerase (shown by poly d(A-T) incorporation) but near-zero endogenous DNA synthesis. Addition of 1 mM CaCl<sub>2</sub> produced rapid, sustained DNA synthesis without added primer — replicating the liver nuclei finding.</li>
+    <li><strong>Ca<sup>2+</sup> dose-response characterised:</strong> Maximal synthesis at 2 mM CaCl<sub>2</sub>, half-maximal at ~1 mM, with significant stimulation even at 0.1 mM (despite 1 mM EDTA and 0.2 mM EGTA in the buffer). Apparent free Ca<sup>2+</sup> activity of ~30 μM at half-maximal activation, measured with a Ca<sup>2+</sup> electrode.</li>
+    <li><strong>DNA nicking confirmed:</strong> Alkaline sucrose gradient analysis showed Ca<sup>2+</sup> promoted nicking of thymus nuclear DNA, with labelled DNA (8S–13S) smaller than bulk DNA — consistent with synthesis initiating at newly created nicks.</li>
+    <li><strong>Cyclic AMP does not replace Ca<sup>2+</sup>:</strong> Over a wide concentration range (10<sup>−9</sup> to 10<sup>−4</sup> M), cyclic AMP had no significant effect on DNA synthesis in either thymus or liver nuclei, ruling out the hypothesis (MacManus &amp; Whitfield, 1969) that Ca<sup>2+</sup> acts via cAMP.</li>
+    <li><strong>Physiological implications discussed:</strong> The correlation between Ca<sup>2+</sup>-dependent initiation in isolated nuclei and Ca<sup>2+</sup>-dependent promotion of mitosis in thymocytes in vivo raises the possibility of a physiological role for Ca<sup>2+</sup>-dependent endonuclease. However, the authors note insightfully that this mechanism alone "is difficult to envisage... accounting for the specificity required for sequential initiation in eukaryotic replicons."</li>
+    </ul>
+- heading: Significance & Contribution
+  body_html: |-
+    <p><strong>Scientific contribution:</strong> This paper bridges the gap between an in vitro nuclear observation and established in vivo physiology. By showing that the Ca<sup>2+</sup>-dependent endonuclease operates in thymus nuclei — where Ca<sup>2+</sup> is known to promote cell division — it strengthened the case for biological relevance. The careful ruling out of cyclic AMP as a mediator was important given the then-fashionable tendency to attribute many cellular effects to cAMP signalling. The final paragraph, noting that Ca<sup>2+</sup>-dependent nicking cannot provide the specificity needed for replicon initiation, shows prescient scientific judgment — the Ca<sup>2+</sup>-dependent endonuclease would indeed turn out to be more important for chromatin structure than for replication control.</p>
+    <p><strong>Career significance:</strong> Together with the companion liver paper, this establishes the Burgoyne–Waqar–Atkinson team and the Ca<sup>2+</sup>-dependent endonuclease research programme at Flinders. The connection to Whitfield's thymocyte work placed their findings in a broader physiological context.</p>
+  box_style: influence
+- heading: Knowledge Built Upon
+  body_html: |-
+    <ul>
+    <li><a href="1970_burgoyne_calcium_dependent_priming_DNA.html">Burgoyne, Waqar &amp; Atkinson (1970)</a>: Companion paper on Ca<sup>2+</sup>-dependent priming in rat liver nuclei</li>
+    <li>Whitfield, Rixon, Perris &amp; Youdale (1969): Ca<sup>2+</sup>-dependent promotion of mitosis and DNA synthesis in thymocytes (Exptl. Cell Res.)</li>
+    <li>MacManus &amp; Whitfield (1969): Suggestion that Ca<sup>2+</sup> effects involve cyclic AMP</li>
+    <li>Nagata &amp; Rasmussen (1970): Review of intracellular Ca<sup>2+</sup> regulatory effects (PNAS)</li>
+    </ul>
+  box_style: connections
+- heading: What It Contributed To
+  body_html: |-
+    <ul>
+    <li>1971–72 series on DNA synthesis mechanisms in various systems</li>
+    <li>Hewish &amp; Burgoyne (1973): Recognition that the Ca<sup>2+</sup>-dependent endonuclease cuts at specific chromatin sites, not random positions</li>
+    <li>The broader understanding of calcium signalling in cell cycle control</li>
+    <li>Whitfield's subsequent work acknowledging and building on the nuclear endonuclease mechanism</li>
+    </ul>
+  box_style: connections
+- heading: Key Collaborators
+  body_html: |-
+    <p><strong>M. Anwar Waqar</strong> — DNA biochemist at Flinders. <strong>Maurice R. Atkinson</strong> — Senior biochemist, co-author on both 1970 papers. The same team as the companion liver nuclei paper.</p>
